@@ -40,6 +40,8 @@ jobs:
           ln -s /home/runner/work/Donations/Donations /home/runner/work/Donations/Donations/home/runner/work/Donations/Donations
           ls -la  /home/runner/work/Donations/Donations/home/runner/work/Donations
 
+      - name: Debug all donations.json files
+        run: "for i in */donations.json; do echo $i; cat $i; echo; done"
       - name: Validate JSON
         uses: kiriakos/validate-json-action@e97bf4885314574701657ab73e5b7fceb3e07130
         with:
