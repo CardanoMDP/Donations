@@ -18,15 +18,15 @@ jobs:
       - name: Check files in donations.yml
         uses: mikefarah/yq@4.0.0-beta1
         with:
-          cmd: |
-            ls -la /*/donations.yml
-            for F in /*/donations.yml
+          cmd: >
+            ls -la /*/donations.yml;
+            for F in /*/donations.yml;
             do 
               yq e '[].files' $F | while read PROOF do
-                  echo -n $PROOF
-                  [ ! -f $PROOF] && echo " does not exist" && exit
-                  echo exists
-              done
+                  echo -n $PROOF;
+                  [ ! -f $PROOF] && echo " does not exist" && exit;
+                  echo exists;
+              done;
             done
 
       - name: Create jsons out of donations.yml
