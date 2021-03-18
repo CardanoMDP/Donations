@@ -26,7 +26,7 @@ jobs:
           cmd: "for F in */donations.yml; do DEST=${F/yml/json}; cat $F | yq - -j > $DEST; cat $DEST; done"
 
       - name: Validate JSON
-        uses: kiriakos/validate-json-action@e97bf48
+        uses: kiriakos/validate-json-action@e97bf4885314574701657ab73e5b7fceb3e07130
         env:
           INPUT_SCHEMA: .github/schemas/donations.json
           INPUT_JSONS: "/*/donations.json"
