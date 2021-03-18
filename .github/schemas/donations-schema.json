@@ -63,7 +63,7 @@
                 },
                 "required": [
                     "provider",
-                    "tx_idx"
+                    "tx_id"
                 ]
               }]} 
           },
