@@ -37,7 +37,7 @@ jobs:
       - name: The Validate JSON action insists of adding the pwd to all json paths, so lets trick it
         run: |
           mkdir -p /home/runner/work/Donations/Donations/home/runner/work/Donations/
-          ln -s . /home/runner/work/Donations/Donations/home/runner/work/Donations/Donations
+          ln -s /home/runner/work/Donations/Donations /home/runner/work/Donations/Donations/home/runner/work/Donations/Donations
           ls -la  /home/runner/work/Donations/Donations/home/runner/work/Donations
 
       - name: Validate JSON
