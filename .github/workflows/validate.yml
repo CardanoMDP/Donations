@@ -33,7 +33,7 @@ jobs:
         #  schema: .github/schemas/donations.json
         #  json: "*/donations.json"
         env:
-          INPUT_SCHEMA: .github/schemas/donations.json
+          INPUT_SCHEMA: .github/schemas/donations-schema.json
           INPUT_JSONS: "./*/donations.json"
 
 
