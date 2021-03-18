@@ -38,7 +38,7 @@ jobs:
         run: |
           mkdir -p /home/runner/work/Donations/Donations/home/runner/work/Donations/
           ln -s . /home/runner/work/Donations/Donations/home/runner/work/Donations/Donations
-          ls -la  /home/runner/work/Donations/Donations/home/runner/work/Donations/Donations/SPEC
+          ls -la  /home/runner/work/Donations/Donations/home/runner/work/Donations
 
       - name: Validate JSON
         uses: kiriakos/validate-json-action@e97bf4885314574701657ab73e5b7fceb3e07130
