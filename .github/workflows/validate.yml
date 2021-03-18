@@ -41,6 +41,6 @@ jobs:
         #  json: "*/donations.json"
         env:
           INPUT_SCHEMA: .github/schemas/donations-schema.json
-          INPUT_JSONS: "/*/donations.json"
+          INPUT_JSONS: "*/donations.json"
 
 
