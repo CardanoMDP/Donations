@@ -1,31 +1,17 @@
 ---
-# Notes: 
-#   - Frequency: all donation entries are single donations. If you donate 
-#                monthly to a charity you will have to monthly update this.
 - ticker: SPEC
-  # ^ No POOL ID!??? Yes, the alliance would not allow duplicate tickers anyway
-  #                  and we can always pull the pool ID from the membership 
-  #                  JSONs history.
-
   recipient: 
     name: Pencils of Promise
     address: 1115 Broadway, 11th Floor, NY 10010, New York, USA
     tel: +1 212 777 3170
     contact: team@pencilsofpromise.com
-
-  ada: 2145 # <- These must be numbers. Can be decimals though. See below
+  ada: 2145
   usd: 265.3
-  timestamp: 1599026880 #https://www.unixtimestamp.com/
-
+  timestamp: 1599026880
   files:
     - /SPEC/2020-09-02-TGB.png
-
   charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
-  # ^ CharityReferencePaymentID etc...
-
   intermediate_txs:
-    - provider: Paypal # The canonical name of the provider you used
-      tx_id: 53667941B3363534Y # The transaction ID the provider gave you 
     - provider: Cardano
       tx_id: 76e6d3338c2ec040b7c991d00e065d048797e2a28efc02ff27b72e51e8be3254
     - provider: ZCash

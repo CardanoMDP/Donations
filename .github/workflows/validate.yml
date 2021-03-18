@@ -15,13 +15,34 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
 
-      - name: yq - portable yaml processor
+      - name: Check files in donations.yml
         uses: mikefarah/yq@4.0.0-beta1
         with:
-          cmd: "for f in /*/donations.yml; do DEST=${f/yml/json}; cat $f | yq - -j > $DEST; cat $DEST; done"
+          cmd: |
+            for F in /*/donations.yml
+            do 
+              yq e '[].files' $F | while read PROOF do
+                  echo -n $PROOF
+                  [ ! -f $PROOF] && echo " does not exist" && exit
+                  echo exists
+              done
+            done
+
+      - name: Create jsons out of donations.yml
+        uses: mikefarah/yq@4.0.0-beta1
+        with:
+          cmd: |
+            for F in /*/donations.yml
+            do 
+              DEST=${F/yml/json}
+              cat $F | yq - -j > $DEST
+              cat $DEST
+            done
 
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: .github/schemas/donations.json
           INPUT_JSONS: "/*/donations.json"
+
+
