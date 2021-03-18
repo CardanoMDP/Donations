@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v1
 
       - name: Check files in donations.yml
-        uses: mikefarah/yq@4.0.0-beta1
+        uses: mikefarah/yq@4.6.1
         with:
           cmd: >
             ls -la /*/donations.yml;
