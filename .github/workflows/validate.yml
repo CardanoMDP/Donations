@@ -19,6 +19,7 @@ jobs:
         uses: mikefarah/yq@4.0.0-beta1
         with:
           cmd: |
+            ls -la /*/donations.yml
             for F in /*/donations.yml
             do 
               yq e '[].files' $F | while read PROOF do
