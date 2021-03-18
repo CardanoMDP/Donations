@@ -27,8 +27,11 @@ jobs:
 
       - name: Validate JSON
         uses: kiriakos/validate-json-action@e97bf4885314574701657ab73e5b7fceb3e07130
-        env:
-          INPUT_SCHEMA: .github/schemas/donations.json
-          INPUT_JSONS: "/*/donations.json"
+        with:
+          schema: .github/schemas/donations.json
+          jsons: "*/donations.json"
+        #env:
+        #  INPUT_SCHEMA: .github/schemas/donations.json
+        #  INPUT_JSONS: "/*/donations.json"
 
 
