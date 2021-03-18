@@ -25,6 +25,8 @@ jobs:
         with:
           cmd: "for F in */donations.yml; do DEST=${F/yml/json}; cat $F | yq - -j > $DEST; cat $DEST; done"
 
+      - name: lets see the current directory
+        run: "ls -la ."
       - name: Validate JSON
         uses: kiriakos/validate-json-action@e97bf4885314574701657ab73e5b7fceb3e07130
         #with:
