@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "anyOf": [
+      {
+        "type": "object",
+        "properties": {
+          "ticker": {
+            "type": "string"
+          },
+          "recipient": {
+              
+             "type": "object",
+             "properties": {
+                 "name": {
+                    "type": "string"
+                 },
+                 "address": {
+                    "type": "string"
+                 },
+                 "tel": {
+                    "type": "string"
+                 },
+                 "contact": {
+                    "type": "string"
+                 }
+             },
+             "required": [
+                "name",
+                "address",
+                "tel",
+                "contact"
+             ]
+          },
+          "ada": {
+            "type": "number"
+          },
+          "dollars": {
+            "type": "number"
+          },
+          "timestamp": {
+            "type": "number"
+          },
+          "files": {
+            "type": "array",
+            "items": {
+                "anyOf": [{
+                    "type": "string"
+                }]
+            }
+          },
+          "charity_tx_id": {
+              "type": "string"
+          },
+          "intermediate_txs": {
+              "type": "array",
+              "items": { "anyOf" :[{
+                "type": "object",
+                "properties": {
+                    "provider": { "type": "string"},
+                    "tx_id": {"type": "string"}
+                },
+                "required": [
+                    "provider",
+                    "tx_idx"
+                ]
+              }]} 
+          },
+          "custom": {
+            "type": "object"
+          }
+        },
+        "required": [
+          "ticker",
+          "recipient",
+          "ada",
+          "usd",
+          "timestamp",
+          "files"
+        ]
+      }
+    ]
+  }
+}

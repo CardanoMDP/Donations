@@ -1,0 +1,27 @@
+name: Validate JSONs
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: yq - portable yaml processor
+        uses: mikefarah/yq@4.0.0-beta1
+        with:
+          cmd: "for f in /*/donations.yml; do DEST=${f/yml/json}; cat $f | yq - -j > $DEST; cat $DEST; done"
+
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: .github/schemas/donations.json
+          INPUT_JSONS: "/*/donations.json"
