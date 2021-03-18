@@ -34,6 +34,11 @@ jobs:
       #  run: echo CREATED > test
       #- name: test file persistance 2/2
       #  run: cat test
+      - name: The Validate JSON action insists of adding the pwd to all json paths, so lets trick it
+        run: |
+          mkdir -p /home/runner/work/Donations/Donations/home/runner/work/Donations/
+          ln -s . /home/runner/work/Donations/Donations/home/runner/work/Donations/Donations
+
       - name: Validate JSON
         uses: kiriakos/validate-json-action@e97bf4885314574701657ab73e5b7fceb3e07130
         with:
