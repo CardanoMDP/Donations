@@ -27,7 +27,7 @@ This repository is meant to represent a dedicated space to each SPO. The intende
 
 ## Examples
 
-For a documented example see [example.donations.yml]().
+For a documented example see [example.donations.yml](./example.donations.yml).
 
-For a realworld example see the [SPEC]() folder.
+For a realworld example see the [SPEC](./SPEC) folder.
 
