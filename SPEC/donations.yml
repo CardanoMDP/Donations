@@ -10,7 +10,7 @@
   usd: 265.3
   timestamp: 1599026880
   files:
-    - /SPEC/2020-09-02-TGB.png
+    - SPEC/2020-09-02-TGB.png
   charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
   intermediate_txs:
     - provider: Cardano
