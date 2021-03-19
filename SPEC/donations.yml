@@ -1,5 +1,6 @@
 ---
 - ticker: SPEC
+  announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
   recipient: 
     name: Pencils of Promise
     address: 1115 Broadway, 11th Floor, NY 10010, New York, USA

@@ -18,22 +18,13 @@ jobs:
       - name: Check files in donations.yml
         uses: mikefarah/yq@v4.6.1
         with:
-          cmd: "ls -la */donations.yml; for F in */donations.yml; do yq e '.[].files' $F | while read PROOF; do echo -n $PROOF; [ ! -f $PROOF ] && echo ' does not exist' && exit; echo exists; done; done"
+          cmd: ls -la */donations.yml; for F in */donations.yml; do yq e '.[].files' $F | cut -d' ' -f2 | while read PROOF; do echo -n $PROOF; [ ! -f "$PROOF" ] && echo ' does not exist' && exit; echo ' exists'; done; done
 
       - name: Create jsons out of donations.yml
         uses: mikefarah/yq@v4.6.1
         with:
           cmd: "for F in */donations.yml; do DEST=${F/yml/json}; yq -j e . $F > $DEST; cat $DEST; done"
 
-      #- name: lets see the current env
-      #  run: |
-      #    pwd
-      #    ls -la .
-      #    env
-      #- name: test file persistance 1/2
-      #  run: echo CREATED > test
-      #- name: test file persistance 2/2
-      #  run: cat test
       - name: The Validate JSON action insists of adding the pwd to all json paths, so lets trick it
         run: |
           mkdir -p /home/runner/work/Donations/Donations/home/runner/work/Donations/
@@ -46,7 +37,6 @@ jobs:
         uses: kiriakos/validate-json-action@e97bf4885314574701657ab73e5b7fceb3e07130
         with:
           schema: .github/schemas/donations-schema.json
-        #  json: "*/donations.json"
         env:
           INPUT_SCHEMA: .github/schemas/donations-schema.json
           INPUT_JSONS: "/home/runner/work/Donations/Donations/*/donations.json"
