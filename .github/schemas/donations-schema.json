@@ -53,6 +53,9 @@
           "charity_tx_id": {
               "type": "string"
           },
+          "announcement_url": {
+              "type": "string"
+          },
           "intermediate_txs": {
               "type": "array",
               "items": { "anyOf" :[{
