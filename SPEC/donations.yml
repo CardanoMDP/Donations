@@ -1,7 +1,8 @@
 ---
+
 - ticker: SPEC
-  announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
-  recipient: 
+  announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html &ann
+  recipient: &pop 
     name: Pencils of Promise
     address: 1115 Broadway, 11th Floor, NY 10010, New York, USA
     tel: +1 212 777 3170
@@ -12,10 +13,18 @@
   files:
     - SPEC/2020-09-02-TGB.png
   charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
+
+- ticker: SPEC
+  announcement_url: *ann
+  recipient: *pop 
+  ada: 1330
+  usd: 146.6
+  timestamp: 1603459680
+  files:
+    - SPEC/2020-10-23-TGB.jpg
+  charity_tx_id: 1619b17dd4ab2e51b707a25f3befa26db593bb1cb8c4fa0102a7202760b82b06
   intermediate_txs:
     - provider: Cardano
       tx_id: 76e6d3338c2ec040b7c991d00e065d048797e2a28efc02ff27b72e51e8be3254
     - provider: ZCash
-      tx_id: 1619b17dd4ab2e51b707a25f3befa26db593bb1cb8c4fa0102a7202760b82b06
-
-
+      tx_id: 1619b17dd4ab2e51b707a25f3befa26db593bb1cb8c4fa0102a7202760b82b06 
