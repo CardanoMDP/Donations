@@ -28,3 +28,18 @@
       tx_id: 76e6d3338c2ec040b7c991d00e065d048797e2a28efc02ff27b72e51e8be3254
     - provider: ZCash
       tx_id: 1619b17dd4ab2e51b707a25f3befa26db593bb1cb8c4fa0102a7202760b82b06 
+
+- ticker: SPEC
+  announcement_url: *ann
+  recipient: *pop 
+  ada: 1010
+  usd: 156.4
+  timestamp: 1609168320
+  files:
+    - SPEC/EqadOBmWMAErCU-.png
+  charity_tx_id: b481b29d306e6793a97f48563d524fce3833017dadbfeb0686b92ebe384859ab
+  intermediate_txs:
+    - provider: Cardano
+      tx_id: a037627df263e411bdcaa374356b2161cfbf4aeffaea6bc88fd5dd1ff89af9fe
+    - provider: ZCash
+      tx_id: 474b283120be22c82ed66c1cbe40612fcae0140616dc0cb3d6846b284785dd8f 
