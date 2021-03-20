@@ -20,6 +20,10 @@ You cannot merge on your own to this repository (even admins cannot), you need t
 1. Once a pull request is created the members of the `CardanoMDP` github organization will be notified
    1. If you want a specific member of that list to review your submission you can select a specific reviewer in the top left corener of the pull request view.
       ![image](https://user-images.githubusercontent.com/1410379/111878531-eafe2500-89a7-11eb-96f0-e4be590453ee.png)
+1. Make suree the CI tests pass. If the middle check in your PR is red there are errors in your donations.yml that you need to fix
+   ![image](https://user-images.githubusercontent.com/1410379/111880094-ab383d00-89a9-11eb-9e34-fdba9a43e14f.png)
+   Click on `details` to see what check went wrong (typically either a file reference is incorrect or a required field is missing).
+
 
 ## Data Structure
 
