@@ -1,6 +1,6 @@
 ---
 
-- ticker: 
+- ticker: GAIA
   announcement_url: &ann https://www.gaiastakepool.com/charities
   recipient: &otp
     name: One Tree Planted
