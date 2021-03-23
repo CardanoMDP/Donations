@@ -1,10 +1,4 @@
 ---
-
-# Notes: 
-#   - Frequency: all donation entries are single donations. If you donate 
-#                monthly to a charity you will have to add new entries here on
-#                a monthly basis.
-
 - ticker: GNP1
   # ^ No POOL ID!??? Yes, the alliance would not allow duplicate tickers anyway
   #                  and we can always pull the pool ID from the membership 
@@ -24,11 +18,8 @@
      - GNP1/Samaritans.png
    
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
-  # ^ A link to the announcement of your donation
 
   charity_tx_id: fx8pksxt
-  # ^ CharityReferencePaymentID etc...
-
 
   intermediate_txs:
   # ^ This is a list of
