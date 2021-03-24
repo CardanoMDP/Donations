@@ -18,7 +18,9 @@
 
   charity_tx_id: fx8pksxt
 
-recipient: 
+- ticker: GNP1
+
+  recipient: 
     name: Young Minds
     address: 
     tel: 
