@@ -11,9 +11,7 @@
   timestamp: 1611743220 
   files:
      - GNP1/Samaritans.png   
-  announcement_url: https://grahamsnumberplus1.com/charity-donations/
-  charity_tx_id: fx8pksxt
-
+ 
 - ticker: GNP1
   recipient: 
     name: Young Minds
@@ -25,9 +23,7 @@
   timestamp: 1613206800 
   files:
      - GNP1/Young_Minds.png   
-  announcement_url: https://grahamsnumberplus1.com/charity-donations/
-  charity_tx_id: YM16985
-
+ 
  - ticker: GNP1 
   recipient: 
     name: LifeSIGNS
@@ -39,8 +35,6 @@
   timestamp: 1614330000 
   files:
      - GNP1/Life_Signs.png   
-  announcement_url: https://grahamsnumberplus1.com/charity-donations/
-  charity_tx_id: 1598-2141-4983-7778
 
 - ticker: GNP1 
   recipient: 
@@ -53,8 +47,6 @@
   timestamp: 1614675600 
   files:
      - GNP1/Anxious_Minds.png   
-  announcement_url: https://grahamsnumberplus1.com/charity-donations/
-  charity_tx_id: T637503088586993253U1664501C338668-176b2
   
   - ticker: GNP1 
   recipient: 
@@ -66,7 +58,4 @@
   usd: 85.44
   timestamp: 1613638800 
   files:
-     - GNP1/The Brain Charity.png   
-  announcement_url: https://grahamsnumberplus1.com/charity-donations/
-  charity_tx_id: 2103184537AF
-  
+     - GNP1/The Brain Charity.png    
