@@ -1,97 +1,71 @@
 ---
-- ticker: GNP1
- 
+
+- ticker: GNP1 
   recipient: 
     name: Samaritans
     address: The Upper Mill, KT17 2AF
-    tel: 
-    contact: 
-
-  ada: 100.78 # <- These must be numbers. Can be decimals though. See below
+    tel: N/A
+    contact: N/A
+  ada: 101
   usd: 32.80
-  timestamp: 1611743220
- 
+  timestamp: 1611743220 
   files:
-     - GNP1/Samaritans.png
-   
+     - GNP1/Samaritans.png   
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
-
   charity_tx_id: fx8pksxt
 
 - ticker: GNP1
-
   recipient: 
     name: Young Minds
     address: N/A
     tel: N/A
     contact: N/A
-
-  ada: 44.17 # <- These must be numbers. Can be decimals though. See below
+  ada: 44
   usd: 41.52
-  timestamp: 1613206800
- 
+  timestamp: 1613206800 
   files:
-     - GNP1/Young_Minds.png
-   
+     - GNP1/Young_Minds.png   
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
-
   charity_tx_id: YM16985
 
-
- - ticker: GNP1
- 
+ - ticker: GNP1 
   recipient: 
     name: LifeSIGNS
     address: N/A
     tel: N/A
     contact: N/A
-
-  ada: 70.72 # <- These must be numbers. Can be decimals though. See below
+  ada: 70
   usd: 88.40
-  timestamp: 1614330000
- 
+  timestamp: 1614330000 
   files:
-     - GNP1/Life_Signs.png
-   
+     - GNP1/Life_Signs.png   
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
-
   charity_tx_id: 1598-2141-4983-7778
 
-- ticker: GNP1
- 
+- ticker: GNP1 
   recipient: 
     name: Anxious Minds
     address: N/A
     tel: N/A
     contact: N/A
-
-  ada: 45.36 # <- These must be numbers. Can be decimals though. See below
+  ada: 45
   usd: 55.80
-  timestamp: 1614675600
- 
+  timestamp: 1614675600 
   files:
-     - GNP1/Anxious_Minds.png
-   
+     - GNP1/Anxious_Minds.png   
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
-
   charity_tx_id: T637503088586993253U1664501C338668-176b2
   
-  - ticker: GNP1
- 
+  - ticker: GNP1 
   recipient: 
     name: The Brain Charity
     address: N/A
     tel: N/A
     contact: N/A
-
-  ada: 59.33 # <- These must be numbers. Can be decimals though. See below
+  ada: 59
   usd: 85.44
-  timestamp: 1613638800
- 
+  timestamp: 1613638800 
   files:
-     - GNP1/The Brain Charity.png
-   
+     - GNP1/The Brain Charity.png   
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
-
-  charity_tx_id: 2103184537AF
-  
+  charity_tx_id: 2103184537AF 
