@@ -28,7 +28,7 @@
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: YM16985
 
- - ticker: GNP1 
+- ticker: GNP1 
   recipient: 
     name: LifeSIGNS
     address: Not found
@@ -56,7 +56,7 @@
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: T637503088586993253U1664501C338668-176b2
   
-  - ticker: GNP1 
+- ticker: GNP1 
   recipient: 
     name: The Brain Charity
     address: The Brain Charity Norton Street Liverpool L3 8LR
