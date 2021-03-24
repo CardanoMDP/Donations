@@ -1,10 +1,29 @@
 # Donations - Community Audited Donation Proofs
 
-We want to increase the credibility of published donations. While this can be done in many fancy ways and the only bulletproof way is to make charities publish Cardano addresses so that SPOs can show that they actually sent money to that specific charity this is a solution that is a very long way of. To have a standardized information pool about donations and at least enable some degree of trust and auditability in that, we created this repository.
+## Motivation
+We want to increase the credibility of published donations. This can be done in many ways, some fancy others simpler. The only bulletproof way is to make charities publish Cardano addresses so that SPOs can show that they actually sent money to that specific charity. Unfortunately this is a solution that is a very long way of. To have a standardized information pool about donations and at least enable some degree of trust and auditability in that, we created this repository.
 
 ## Methodology
 
-You cannot merge on your own to this repository (even admins cannot), you need to submit a PR which will be reviewed by the CI and another member of the CMDP. In order to do this it is best for you to fork this repo to your personal github, add your files and then submit a PR.
+You cannot merge on your own to this repository (even admins cannot), you need to submit a PR which will be reviewed by the CI and one member of the CardanoMDP github organization (see: [Members List](https://github.com/orgs/CardanoMDP/people)).
+
+### Steps
+
+1. Fork this repo
+1. In your fork:
+   1. Create a folder named like your pool's `Ticker`
+   1. Add your donation files
+      ![image](https://user-images.githubusercontent.com/1410379/111878164-598eb300-89a7-11eb-88bc-ee1294b3cf97.png)
+   2. Create a `donations.yml` (see: [example.donations.yml](./example.donations.yml))
+      If you are unfamiliar with Yaml check out [this 5 minute tutorial](https://gettaurus.org/docs/YAMLTutorial/)
+   4. Submit a pull request.
+1. Once a pull request is created the members of the `CardanoMDP` github organization will be notified
+   1. If you want a specific member of that list to review your submission you can select a specific reviewer in the top left corener of the pull request view.
+      ![image](https://user-images.githubusercontent.com/1410379/111878531-eafe2500-89a7-11eb-96f0-e4be590453ee.png)
+1. Make suree the CI tests pass. If the middle check in your PR is red there are errors in your donations.yml that you need to fix
+   ![image](https://user-images.githubusercontent.com/1410379/111880094-ab383d00-89a9-11eb-9e34-fdba9a43e14f.png)
+   Click on `details` to see what check went wrong (typically either a file reference is incorrect or a required field is missing).
+
 
 ## Data Structure
 
