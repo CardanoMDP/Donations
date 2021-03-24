@@ -1,0 +1,71 @@
+---
+
+- ticker: GNP1 
+  recipient: 
+    name: Samaritans
+    address: The Upper Mill, KT17 2AF
+    tel: +44 20 8394 8300
+    contact: supportercare@supporters-samaritans.org
+  ada: 101
+  usd: 32.80
+  timestamp: 1611743220 
+  files:
+     - GNP1/Samaritans.png   
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: fx8pksxt
+
+- ticker: GNP1
+  recipient: 
+    name: Young Minds
+    address: 4th Floor, India House, YoungMinds, Curlew St, London SE1 2ND
+    tel: +44 20 7089 5050
+    contact: fundraising@youngminds.org.uk
+  ada: 44
+  usd: 41.52
+  timestamp: 1613206800 
+  files:
+     - GNP1/Young_Minds.png   
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: YM16985
+
+ - ticker: GNP1 
+  recipient: 
+    name: LifeSIGNS
+    address: Not found
+    tel: +44 000
+    contact: Wedge@lifesigns.org.uk
+  ada: 70
+  usd: 88.40
+  timestamp: 1614330000 
+  files:
+     - GNP1/Life_Signs.png   
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: 1598-2141-4983-7778
+
+- ticker: GNP1 
+  recipient: 
+    name: Anxious Minds
+    address: The Vault 31 Station Road, Wallsend, North Tyneside, NE28 6RL
+    tel: +44 191 262 0305
+    contact: info@anxiousminds.co.uk
+  ada: 45
+  usd: 55.80
+  timestamp: 1614675600 
+  files:
+     - GNP1/Anxious_Minds.png   
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: T637503088586993253U1664501C338668-176b2
+  
+  - ticker: GNP1 
+  recipient: 
+    name: The Brain Charity
+    address: The Brain Charity Norton Street Liverpool L3 8LR
+    tel: +44 800 008 6417
+    contact: info@thebraincharity.org.uk
+  ada: 59
+  usd: 85.44
+  timestamp: 1613638800 
+  files:
+     - GNP1/The_Brain_Charity.png   
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: 2103184537AF
