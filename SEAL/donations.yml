@@ -1,0 +1,38 @@
+---
+
+# Notes: 
+#   - Frequency: all donation entries are single donations. If you donate 
+#                monthly to a charity you will have to add new entries here on
+#                a monthly basis.
+
+- ticker: SEAL
+
+  recipient: 
+    name: Seal Rescue Ireland
+    address: Courtown Harbour Co.Wexford Y25 PD92
+    tel: 053 942 4980
+    contact: info@sealrescueireland.org
+
+  ada: 30
+  usd: 35.43
+  timestamp: 1616150944
+
+  files:
+    - SEAL/payment2.png
+    - SEAL/certificate_atria.png
+
+- ticker: SEAL
+
+  recipient:
+    name: Seal Rescue Ireland
+    address: Courtown Harbour Co.Wexford Y25 PD92
+    tel: 053 942 4980
+    contact: info@sealrescueireland.org
+
+  ada: 33
+  usd: 35.43
+  timestamp: 1615664704
+
+  files:
+    - SEAL/payment1.png
+    - SEAL/certificate_gr.png
