@@ -1,0 +1,15 @@
+---
+
+- ticker: IPIB
+  announcement_url: &ann https://www.italianspib.it/the-giveaway
+  recipient: &stc
+    name: Save the Children ITALIA ONLUS
+    address: Piazza di San Francesco di Paola, 9 00184 Roma
+    tel: +39 06 4807001
+    contact: info.italia@savethechildren.org
+  ada: 30
+  usd: 36
+  timestamp: 1615155180
+  files:
+    - IPIB/STC_Marzo21ed.pdf
+  charity_tx_id: 2103071771787782480320066720IT
