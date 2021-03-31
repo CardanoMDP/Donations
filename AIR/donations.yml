@@ -8,14 +8,11 @@
     tel: +1 800 728 3843 
     contact: supportercare@savechildren.org
   ada: 258
-  usd: 30
+  usd: 34.25
   timestamp: 1602460800
   files:
-     - No files provided
-  charity_tx_id: Invoice No. 17130
-  intermediate_txs:
-    - provider: Paypal
-      tx_id: 9GL87000DN227934B
+     - AIR/12-10-2020-btc.jpg
+  charity_tx_id: 1Q3Ggknf8DCLmorcJCcKjmpXZrhks1KM8z
 
 - ticker: AIR
   announcement_url: https://onetreeplanted.org
@@ -30,4 +27,7 @@
   files:
     - AIR/05-03-2021_receipt.jpg
     - AIR/05-03-2021_certificate .pdf
-  charity_tx_id: 1Q3Ggknf8DCLmorcJCcKjmpXZrhks1KM8z
+  charity_tx_id: Invoice No. 17130
+  intermediate_txs:
+    - provider: Paypal
+      tx_id: 9GL87000DN227934B
