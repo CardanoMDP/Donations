@@ -1,1 +1,10 @@
-
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1377304279061426178
+  recipient:
+    name: East Africa Trans Health & Advocacy Network
+    contact: https://eathan.org
+  ada: 42.5
+  usd: 50
+  timestamp: 1609383600
+  files:
+    - PRIDE/2021-03-31.png
