@@ -12,8 +12,11 @@ jobs:
   validate-donation-entries:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v1
+      #- name: Checkout
+      #  uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Check files in donations.yml
         uses: mikefarah/yq@v4.6.1
