@@ -49,7 +49,7 @@ jobs:
       - name: Calculate Total USD Donated per pool
         uses: mikefarah/yq@v4.6.1
         with:
-          cmd: for F in */donations.yml; do TKR=`echo $F | cut -d/ -f1`; SUM=`yq e '.[].usd' "$F" | grep -v -e --- | paste -sd+ | bc`; echo -e "$SUM\t$TKR" > /tmp/donations.usd; done; sort /tmp/donations.usd > donations.usd
+          cmd: for F in */donations.yml; do TKR=`echo $F | cut -d/ -f1`; SUM=`yq e '.[].usd' "$F" | grep -v -e --- | tr -d , | paste -sd+ | bc`; echo -e "$SUM\t$TKR" > /tmp/donations.usd; done; sort /tmp/donations.usd > donations.usd
 
       - name: Calculate total Donations
         run: |
