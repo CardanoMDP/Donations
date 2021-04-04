@@ -72,8 +72,8 @@ jobs:
         run: |
           BRANCH=`git branch --show-current`
           [ "$BRANCH" = "main" ] || exit 0
-          git config user.name "CardanoMDP Donations Workflow"
-          git config user.email "cmdp-donations-wf@github.com"
+          git config --global user.name "CardanoMDP Donations Workflow"
+          git config --global user.email "cmdp-donations-wf@github.com"
           git status
           git add --all
           git commit -am "Workflow results"
