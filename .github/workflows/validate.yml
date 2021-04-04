@@ -69,6 +69,7 @@ jobs:
             totals.ada
             totals.usd
 
+      # Test re-runs
       - name: Commit and force push to live
         run: |
           git config user.name "CardanoMDP Donations Workflow"
@@ -77,6 +78,7 @@ jobs:
           git commit -am "Workflow results"
           git push origin --delete live
           git push --set-upstream origin "HEAD:live" --atomic --force
+        
 
       #- uses: stefanzweifel/git-auto-commit-action@v4
       #  with:
