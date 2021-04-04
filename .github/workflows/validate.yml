@@ -71,6 +71,8 @@ jobs:
 
       - name: Commit and force push to live
         run: |
+          git config user.name "CardanoMDP Donations Workflow"
+          git config user.email "cmdp-donations-wf@github.com"
           git add --all
           git commit -am "Workflow results"
           git push origin --delete live
