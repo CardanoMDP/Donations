@@ -78,7 +78,7 @@ jobs:
           git add --all
           git commit -am "Workflow results"
           echo "Set URL to ssh://"
-          git remote set-url origin ssh://git@github.com/CardanoMDP/Donations.git
+          git remote -v
           echo "Delete existing live branch"
           git push origin --delete live || true
           echo "Push to live"
