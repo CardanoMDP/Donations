@@ -72,6 +72,8 @@ jobs:
       # Test re-runs
       - name: Commit and force push to live
         run: |
+          BRANCH=`git branch --show-current`
+          [ "$BRANCH" = "main" ] || exit 0
           git config user.name "CardanoMDP Donations Workflow"
           git config user.email "cmdp-donations-wf@github.com"
           git status
