@@ -21,7 +21,7 @@ jobs:
       - name: Check files in donations.yml
         uses: mikefarah/yq@v4.6.1
         with:
-          cmd: ls -la */donations.yml; for F in */donations.yml; do yq e '.[].files' $F | cut -d' ' -f2 | while read PROOF; do echo -n $PROOF; [ ! -f "$PROOF" ] && echo ' does not exist' && exit 1; echo ' exists'; done; done
+          cmd: ls -la */donations.yml; for F in */donations.yml; do PROOFS="`yq e '.[].files' $F | cut -d' ' -f2`"; for PROOF in $PROOFS; do echo -n $PROOF; [ ! -f "$PROOF" ] && echo ' MISSING' && exit 1; echo ' exists'; done; done
 
       - name: Create jsons out of donations.yml
         uses: mikefarah/yq@v4.6.1
