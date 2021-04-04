@@ -1,9 +1,9 @@
 name: Validate JSONs and Donation files
 
 on:
-  push:
-    branches:
-      - main
+  #push:
+  #  branches:
+  #    - main
   pull_request:
     branches:
       - main
@@ -68,10 +68,17 @@ jobs:
             donations.usd
             totals.ada
             totals.usd
-            
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: live
-          skip_fetch: true
-          push_options: '--force'
-          file_pattern: ./*.ada ./*.usd
+
+      - name: Commit and force push to live
+        run: |
+          git add --all
+          git commit -am "Workflow results"
+          git push origin --delete live
+          git push --set-upstream origin "HEAD:live" --atomic --force
+
+      #- uses: stefanzweifel/git-auto-commit-action@v4
+      #  with:
+      #    branch: live
+      #    skip_fetch: true
+      #    push_options: '--force'
+      #    file_pattern: ./*.ada ./*.usd
