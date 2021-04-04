@@ -56,8 +56,8 @@ jobs:
 
       - name: Calculate total Donations
         run: |
-          cat donations.ada | cut -d'\t' -f1 | paste -sd+ | bc > totals.ada
-          cat donations.usd | cut -d'\t' -f1 | paste -sd+ | bc > totals.usd
+          cat donations.ada | cut -f1 | paste -sd+ | bc > totals.ada
+          cat donations.usd | cut -f1 | paste -sd+ | bc > totals.usd
           
       - name: Upload artifacts
         uses: actions/upload-artifact@v2
