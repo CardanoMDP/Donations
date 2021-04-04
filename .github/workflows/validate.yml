@@ -1,9 +1,9 @@
 name: Validate JSONs and Donation files
 
 on:
-  push:
-    branches:
-      - main
+  #push:
+  #  branches:
+  #    - main
   pull_request:
     branches:
       - main
@@ -12,8 +12,11 @@ jobs:
   validate-donation-entries:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v1
+      #- name: Checkout
+      #  uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Check files in donations.yml
         uses: mikefarah/yq@v4.6.1
@@ -41,4 +44,40 @@ jobs:
           INPUT_SCHEMA: .github/schemas/donations-schema.json
           INPUT_JSONS: "/home/runner/work/Donations/Donations/*/donations.json"
 
+      - name: Calculate Total Ada Donated per pool
+        uses: mikefarah/yq@v4.6.1
+        with:
+          cmd: for F in */donations.yml; do TKR=`echo $F | cut -d/ -f1`; SUM=`yq e '.[].ada' "$F" | grep -v -e --- | paste -sd+ | bc`; echo -e "$SUM\t$TKR" >> /tmp/donations.ada; done; sort -nr /tmp/donations.ada > donations.ada
+          
+      - name: Calculate Total USD Donated per pool
+        uses: mikefarah/yq@v4.6.1
+        with:
+          cmd: for F in */donations.yml; do TKR=`echo $F | cut -d/ -f1`; SUM=`yq e '.[].usd' "$F" | grep -v -e --- | tr -d , | paste -sd+ | bc`; echo -e "$SUM\t$TKR" >> /tmp/donations.usd; done; sort -nr /tmp/donations.usd > donations.usd
 
+      - name: Calculate total Donations
+        run: |
+          cat donations.ada | cut -f1 | paste -sd+ | bc > totals.ada
+          cat donations.usd | cut -f1 | paste -sd+ | bc > totals.usd
+          
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: donation-aggregates
+          path: |
+            donations.ada
+            donations.usd
+            totals.ada
+            totals.usd
+
+      # Test re-runs
+      - name: Commit and force push to live
+        run: |
+          BRANCH=`git branch --show-current`
+          [ "$BRANCH" = "main" ] || exit 0
+          git config user.name "CardanoMDP Donations Workflow"
+          git config user.email "cmdp-donations-wf@github.com"
+          git status
+          git add --all
+          git commit -am "Workflow results"
+          git push origin --delete live
+          git push --set-upstream origin "HEAD:live" --atomic --force
