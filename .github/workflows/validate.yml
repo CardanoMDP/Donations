@@ -59,9 +59,13 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: my-artifact
+          name: donation-aggregates
           path: |
             donations.ada
             donations.usd
             totals.ada
             totals.usd
+            
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: live
