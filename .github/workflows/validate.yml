@@ -41,4 +41,27 @@ jobs:
           INPUT_SCHEMA: .github/schemas/donations-schema.json
           INPUT_JSONS: "/home/runner/work/Donations/Donations/*/donations.json"
 
+      - name: Calculate Total Ada Donated per pool
+        uses: mikefarah/yq@v4.6.1
+        with:
+          cmd: for F in */donations.yml; TKR=`echo $F | cut -d/ -f1`; SUM=`yq e '.[].ada' "$F" | grep -v -e --- | paste -sd+ | bc`; echo -e "$SUM\t$TKR" > /tmp/donations.ada; done; sort /tmp/donations.ada > donations.ada
+          
+      - name: Calculate Total USD Donated per pool
+        uses: mikefarah/yq@v4.6.1
+        with:
+          cmd: for F in */donations.yml; TKR=`echo $F | cut -d/ -f1`; SUM=`yq e '.[].usd' "$F" | grep -v -e --- | paste -sd+ | bc`; echo -e "$SUM\t$TKR" > /tmp/donations.usd; done; sort /tmp/donations.usd > donations.usd
 
+      - name: Calculate total Donations
+        run: |
+          cat donations.ada | cut -d'\t' -f1 | paste -sd+ | bc > totals.ada
+          cat donations.usd | cut -d'\t' -f1 | paste -sd+ | bc > totals.usd
+          
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: |
+            donations.ada
+            donations.usd
+            totals.ada
+            totals.usd
