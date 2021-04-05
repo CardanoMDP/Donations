@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
+        #with:
+        #  ref: ${{ github.head_ref }}
 
       - name: Check files in donations.yml
         uses: mikefarah/yq@v4.6.1
