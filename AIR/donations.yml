@@ -26,7 +26,7 @@
   timestamp: 1614902400
   files:
     - AIR/05-03-2021_receipt.jpg
-    - AIR/05-03-2021_certificate .pdf
+    - AIR/05-03-2021_certificate.pdf
   charity_tx_id: Invoice No. 17130
   intermediate_txs:
     - provider: Paypal
