@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
+          token: ${{ secrets.BOT_PAT }}
 
       - name: Check files in donations.yml
         uses: mikefarah/yq@v4.6.1
