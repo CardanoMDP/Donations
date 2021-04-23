@@ -13,3 +13,13 @@
   files:
     - IPIB/STC_Marzo21ed.pdf
   charity_tx_id: 2103071771787782480320066720IT
+  
+- ticker: IPIB
+  announcement_url: *ann
+  recipient: *stc 
+  ada: 48
+  usd: 60
+  timestamp: 1617353040
+  files:
+    - IPIB/STC_Aprile21ed.pdf
+  charity_tx_id: 2104021784313838480320066720IT
