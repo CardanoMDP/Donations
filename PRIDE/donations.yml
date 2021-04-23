@@ -10,3 +10,30 @@
   timestamp: 1617214856
   files:
     - PRIDE/2021-03-31.png
+
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1380208090952343553
+  recipient:
+    name: ILGA World
+    contact: https://ilga.org
+    tel: +41 22 731 3254
+    address: n/a
+  ada: 42
+  usd: 50
+  timestamp: 1617855320
+  files:
+    - PRIDE/2021-04-08.png
+
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1381326950602448897
+  recipient:
+    name: Humsafar Trust
+    contact: https://humsafar.org/
+    tel:  +91 9892129992
+    address: n/a
+  ada: 38.5
+  usd: 50
+  timestamp: 1618200920
+  files:
+    - PRIDE/2021-04-12.png
+
