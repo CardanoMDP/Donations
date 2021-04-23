@@ -36,10 +36,55 @@
   usd: 156.4
   timestamp: 1609168320
   files:
-    - SPEC/EqadOBmWMAErCU-.png
+    - SPEC/2020-12-29-TGB.png
   charity_tx_id: b481b29d306e6793a97f48563d524fce3833017dadbfeb0686b92ebe384859ab
   intermediate_txs:
     - provider: Cardano
       tx_id: a037627df263e411bdcaa374356b2161cfbf4aeffaea6bc88fd5dd1ff89af9fe
     - provider: ZCash
       tx_id: 474b283120be22c82ed66c1cbe40612fcae0140616dc0cb3d6846b284785dd8f 
+
+- ticker: SPEC
+  announcement_url: *ann
+  recipient: *pop 
+  ada: 620
+  usd: 254.3
+  timestamp: 1612220077
+  files:
+    - SPEC/2021-02-01-TGB.png
+  charity_tx_id: 474b283120be22c82ed66c1cbe40612fcae0140616dc0cb3d6846b284785dd8f
+  intermediate_txs:
+    - provider: Cardano
+      tx_id: a037627df263e411bdcaa374356b2161cfbf4aeffaea6bc88fd5dd1ff89af9fe
+    - provider: ZCash
+      tx_id: 474b283120be22c82ed66c1cbe40612fcae0140616dc0cb3d6846b284785dd8f
+
+- ticker: SPEC
+  announcement_url: *ann
+  recipient: *pop 
+  ada: 647
+  usd: 750.1
+  timestamp: 1615167164
+  files:
+    - SPEC/2021-03-07-TGB.png
+  charity_tx_id: 83da15b425bcdf102abd8139e4e4a32cf381438445c6a1decde42e9e7b72408d
+  intermediate_txs:
+    - provider: ZCash
+      tx_id: 83da15b425bcdf102abd8139e4e4a32cf381438445c6a1decde42e9e7b72408d
+
+- ticker: SPEC
+  announcement_url: *ann
+  recipient: *pop 
+  ada: 1348
+  usd: 1604
+  timestamp: 1617534673
+  files:
+    - SPEC/2021-04-04-EPOCHS.png
+    - SPEC/2021-04-04-ZEC.png
+    - SPEC/2021-04-04-TGB.png
+  charity_tx_id: 35ac49fcd115ad6c37cab35c88dc21bd6204da0862fe58862613720d44de3a6e
+  intermediate_txs:
+    - provider: Cardano
+      tx_id: fb92b2b3cb8fc193d89fbf8babd654fd88226ce4526a1183b211cbc1af28fa32
+    - provider: ZCash
+      tx_id: 35ac49fcd115ad6c37cab35c88dc21bd6204da0862fe58862613720d44de3a6e
