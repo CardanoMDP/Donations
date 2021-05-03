@@ -17,7 +17,7 @@
     contact: team@pencilsofpromise.com
 
   ada: 2145 # <- These must be numbers. Can be decimals though. See below
-  usd: 265.3
+  usd: 265.3 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1599026880 
   # ^ This is a unix timestamp of the moment you donated.
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
