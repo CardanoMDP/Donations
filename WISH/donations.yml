@@ -9,32 +9,24 @@
     address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
     tel: 
     contact: info@akaraka.org.sg
-
+    
+    ada: 32.26
     usd: 37.75 # 50 SGD donated
     
   timestamp: 1617715560 
-  # ^ Donated 6 April 2021 2126H
-  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+  # ^ Donated 6 April 2021 2126H https://www.unixtimestamp.com/ 
 
   files:
   # ^ a list of files relating to the donation. Usualy photos or screenshots 
   #   of the receipts.
   #   Make sure to add only relative paths that begin from the root of the 
   #   repo (they should include your Ticker name).
-    - WISH/donationxxx.png
-    - WISH/donationxxx.jpg
+    - WISH/20210406Akaraka-DBSReceuot.jpg
+    - WISH/20210406Akaraka-Confirmation.jpg
     
   ## The following properties are optional
-
-
-  announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
-  # ^ A link to the announcement of your donation
-
-  charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
-  # ^ CharityReferencePaymentID etc...
-
-
+  
+  announcement_url: https://blockchainlens.wordpress.com/2021/04/07/first-donation-by-wish-pool/
   intermediate_txs:
-  # ^ This is a list of
     - provider: DBS Bank        # The canonical name of the provider you used
       tx_id: MBI29176257837L47  # The transaction ID the provider gave you 
