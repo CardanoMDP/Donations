@@ -3,8 +3,8 @@
     name: Akaraka Limited
     address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
     contact: info@akaraka.org.sg
-    ada: 32.26
-    usd: 37.75 # 50 SGD donated
+  ada: 32.26
+  usd: 37.75 # 50 SGD donated
   timestamp: 1617715560 
   files:
     - WISH/20210406Akaraka-DBSReceipt.jpg
@@ -20,8 +20,8 @@
     address: 55 Waterloo Street, #07-02 Catholic Centre, Singapore 187954
     tel: +65 6337 4119
     contact: info@charis-singapore.org
-    ada: 24.81
-    usd: 37.75 # 50 SGD donated
+  ada: 24.81
+  usd: 37.75 # 50 SGD donated
   timestamp: 1619839740 
   files:
     - WISH/20210501Charis-DBSReceipt.jpg
