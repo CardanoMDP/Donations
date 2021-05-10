@@ -1,0 +1,35 @@
+- ticker: SOLID
+
+  recipient: 
+    name: United Vision for Idaho
+    address: 1912 W Jefferson St, Boise, ID 83702 USA
+    tel: +1 208 869 3131
+    contact: uvidaho@gmail.com
+
+  ada: 100 # <- These must be numbers. Can be decimals though. See below
+  usd: 163 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1620431928 
+  # ^ This is a unix timestamp of the moment you donated.
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+
+  files:
+  # ^ a list of files relating to the donation. Usualy photos or screenshots 
+  #   of the receipts.
+  #   Make sure to add only relative paths that begin from the root of the 
+  #   repo (they should include your Ticker name).
+    - SOLID/20210507_United_Vision_for_Idaho.pdf
+
+  ## The following properties are optional
+
+  announcement_url: https://www.solidarity.finance
+  # ^ A link to the announcement of your donation
+
+  charity_tx_id: 82-0481853
+  # ^ CharityReferencePaymentID etc...
+
+  intermediate_txs:
+  # ^ This is a list of
+    - provider: Cardano
+      tx_id: cd6e6b1d94cd506e8ffb67c7b5ef440d318b6ed2316914131724e1d0193ddf34
+
+
