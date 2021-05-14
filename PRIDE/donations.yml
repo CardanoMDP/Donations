@@ -37,7 +37,7 @@
   files:
     - PRIDE/2021-04-12.png
  
- - ticker: PRIDE
+- ticker: PRIDE
   announcement_url: https://twitter.com/StakeWithPride/status/1384304031233757187
   recipient:
     name: AKT
