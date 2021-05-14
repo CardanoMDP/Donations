@@ -42,7 +42,7 @@
   recipient:
     name: AKT
     contact: https://www.akt.org.uk/contact
-    tel:  07467306483
+    tel:  "07467306483"
     address: n/a
   ada: 95
   usd: 124
@@ -55,7 +55,7 @@
   recipient:
     name: OogaChaga
     contact: https://oogachaga.com/contact
-    tel:  8592 0609
+    tel:  "8592 0609"
     address: n/a
   ada: 65.85
   usd: 75.42
@@ -68,7 +68,7 @@
   recipient:
     name: Milaap
     contact: https://milaap.org/contact-us
-    tel:  8889688889
+    tel:  "8889688889"
     address: n/a
   ada: 88
   usd: 95

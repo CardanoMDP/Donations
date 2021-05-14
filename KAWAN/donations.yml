@@ -1,0 +1,41 @@
+  
+---
+
+- ticker: KAWAN
+  recipient: 
+    name: GUSDURian Peduli
+    address: Jl. Halim Perdana Kusuma No.34, RT.001/RW.003, Pajang, Benda, Kota Tangerang, Banten 15126, Indonesia 
+    tel: "+6282299991117"
+    contact: aringangusdurianpeduli@gmail.com
+  ada: 35
+  usd: 43.589183
+  timestamp: 1618123561
+  files:
+    - KAWAN/11-Apr-2021.jpg
+  announcement_url: https://kawancardano.com/newBlogPost-fyJGc6Q3cz3M03-C5TqhD
+  
+- ticker: KAWAN
+  recipient: 
+    name: Adib Hidayat
+    address: Jl. Halim Perdana Kusuma No.34, RT.001/RW.003, Pajang, Benda, Kota Tangerang, Banten 15126, Indonesia 
+    contact: https://twitter.com/AdibHidayat
+    tel: "+6282299991117"
+  ada: 26
+  usd: 34.593933
+  timestamp: 1617764281
+  files:
+    - KAWAN/07-Apr-2021.jpg
+  announcement_url: https://kawancardano.com/newBlogPost-IyhwFGKz5J8vr6D098kbo
+
+- ticker: KAWAN
+  recipient: 
+    name: Utkarsh Jain
+    address: Jakarta, Indonesia 
+    contact: https://id.linkedin.com/in/utkarsh-jain-0a22aa4b
+    tel: ""
+  ada: 55
+  usd: 81.84
+  timestamp: 1620278968
+  files:
+    - KAWAN/06-May-2021.jpg
+  announcement_url: https://kawancardano.com/newBlogPost-IyhwFGKz5J8vr6D098kbo
