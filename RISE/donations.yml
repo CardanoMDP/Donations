@@ -15,7 +15,7 @@
   provider: Bitcoin
   charity_tx_id: 6f466439f84fe63b57ed4f2cb5370960201f15be158a3b91c6a04f449afbdf30
   
-  - ticker: RISE
+- ticker: RISE
   announcement_url: &ann https://www.risecardano.com/post/rise-supporting-the-great-ormond-street-charity-february-2021
   recipient: 
     name: GOSH
