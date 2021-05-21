@@ -88,4 +88,17 @@
   timestamp: 1620180564
   files:
     - PRIDE/2021-05-05.png
+    
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1389994189195153409
+  recipient:
+    name: Bisi Alimi Foundation
+    contact: https://www.bisialimifoundation.org/donate/
+    tel:  +234-8125549015
+    address: n/a
+  ada: 70
+  usd: 119.73
+  timestamp: 1621603074
+  files:
+    - PRIDE/2021-05-05.png
 
