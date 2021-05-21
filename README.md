@@ -1,5 +1,13 @@
 # Donations - Community Audited Donation Proofs
 
+Agregate Leaderboards:
+[USD](https://raw.githubusercontent.com/CardanoMDP/Donations/live/donations.usd) 
+[ADA](https://raw.githubusercontent.com/CardanoMDP/Donations/live/donations.ada)
+
+MDP Total:
+[USD](https://raw.githubusercontent.com/CardanoMDP/Donations/live/totals.usd) 
+[ADA](https://raw.githubusercontent.com/CardanoMDP/Donations/live/totals.ada)
+
 ## Motivation
 We want to increase the credibility of published donations. This can be done in many ways, some fancy others simpler. The only bulletproof way is to make charities publish Cardano addresses so that SPOs can show that they actually sent money to that specific charity. Unfortunately this is a solution that is a very long way of. To have a standardized information pool about donations and at least enable some degree of trust and auditability in that, we created this repository.
 
