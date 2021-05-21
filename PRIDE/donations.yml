@@ -1,0 +1,91 @@
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1377304279061426178
+  recipient:
+    name: East Africa Trans Health & Advocacy Network
+    contact: https://eathan.org
+    tel: +254 797 551 980
+    address: n/a
+  ada: 42.5
+  usd: 50
+  timestamp: 1617214856
+  files:
+    - PRIDE/2021-03-31.png
+
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1380208090952343553
+  recipient:
+    name: ILGA World
+    contact: https://ilga.org
+    tel: +41 22 731 3254
+    address: n/a
+  ada: 42
+  usd: 50
+  timestamp: 1617855320
+  files:
+    - PRIDE/2021-04-08.png
+
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1381326950602448897
+  recipient:
+    name: Humsafar Trust
+    contact: https://humsafar.org/
+    tel:  +91 9892129992
+    address: n/a
+  ada: 38.5
+  usd: 50
+  timestamp: 1618200920
+  files:
+    - PRIDE/2021-04-12.png
+ 
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1384304031233757187
+  recipient:
+    name: AKT
+    contact: https://www.akt.org.uk/contact
+    tel:  "07467306483"
+    address: n/a
+  ada: 95
+  usd: 124
+  timestamp: 1618798164
+  files:
+    - PRIDE/2021-04-19.png
+
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1385972401679175680
+  recipient:
+    name: OogaChaga
+    contact: https://oogachaga.com/contact
+    tel:  "8592 0609"
+    address: n/a
+  ada: 65.85
+  usd: 75.42
+  timestamp: 1619143764
+  files:
+    - PRIDE/2021-04-24.png
+
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1386451918118023171
+  recipient:
+    name: Milaap
+    contact: https://milaap.org/contact-us
+    tel:  "8889688889"
+    address: n/a
+  ada: 88
+  usd: 95
+  timestamp: 1619316564
+  files:
+    - PRIDE/2021-04-25.png
+
+- ticker: PRIDE
+  announcement_url: https://twitter.com/StakeWithPride/status/1389994189195153409
+  recipient:
+    name: Sexual Minorities Uganda
+    contact: https://sexualminoritiesuganda.com/contact/
+    tel:  +256 39 2174432 
+    address: n/a
+  ada: 56.4
+  usd: 75
+  timestamp: 1620180564
+  files:
+    - PRIDE/2021-05-05.png
+
