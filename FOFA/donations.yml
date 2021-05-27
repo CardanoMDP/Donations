@@ -8,11 +8,11 @@
   usd: 946.23
   timestamp: 1622001022
   files:
-    - SHOP/how_we_donate.txt
-    - SHOP/emails.png
-    - SHOP/NOTA_COPAME.png
-    - SHOP/RECEIPT1.jpg
-    - SHOP/RECEIPT2.jpg
-    - SHOP/DELIVERY.jpg
-    - SHOP/transferwise.png
+    - FOFA/how_we_donate.txt
+    - FOFA/emails.png
+    - FOFA/NOTA_COPAME.png
+    - FOFA/RECEIPT1.jpg
+    - FOFA/RECEIPT2.jpg
+    - FOFA/DELIVERY.jpg
+    - FOFA/transferwise.png
   announcement_url: https://old.reddit.com/r/CardanoStakePools/comments/nl8irs/fofa_stake_pool_just_made_its_first_donation_to/
