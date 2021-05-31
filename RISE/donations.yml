@@ -55,3 +55,16 @@
   files:
     - RISE/WildlifeSOSReceiptApril2021.PNG
 
+- ticker: RISE
+  announcement_url: &ann https://www.risecardano.com/post/rise-supporting-sewa-uk-india-covid19-appeal-may-2021
+  recipient: 
+    name: Seva UK India Covid 19 Appeal
+    address: 1100 Stratford Road, Hall Green, Birmingham, B28 8AD, UK
+    tel: +44 121 777 4045
+    contact: info@sewauk.org
+  ada: 566.872
+  usd: 915.99
+  timestamp: 1622456220
+  files:
+    - RISE/SevaUkMay2021Receipt.PNG
+
