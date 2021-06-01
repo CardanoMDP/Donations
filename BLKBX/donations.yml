@@ -12,7 +12,7 @@
   timestamp: 1617994202
   files:
     - BLKBX/10-4-21.jpg
-  charity_tx_id: 1350605
+  charity_tx_id: "1350605"
 
 - ticker: BLKBX
   announcement_url: &ann https://www.blackboxpool.io/post/donating-to-the-royal-flying-doctor-service-of-australia-1
@@ -32,4 +32,4 @@
   timestamp: 1622400602
   files:
     - BLKBX/31-5-21.jpg
-  charity_tx_id: 1397436
+  charity_tx_id: "1397436"
