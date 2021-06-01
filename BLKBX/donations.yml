@@ -16,11 +16,7 @@
 
 - ticker: BLKBX
   announcement_url: &ann https://www.blackboxpool.io/post/donating-to-the-royal-flying-doctor-service-of-australia-1
-  recipient: &RFDS 
-    name: Royal Flying Doctor Service of Australia
-    address: 3 Eagle Dr, Jandakot WA 6164, Australia
-    tel: +61 8 9417 6300
-    contact: westops@rfdswa.com.au
+  recipient: *RFDS 
   ada: 60.7
   usd: 80.4
   timestamp: 1621536602
@@ -30,11 +26,7 @@
   
   - ticker: BLKBX
   announcement_url: &ann https://www.blackboxpool.io/post/donating-to-the-royal-flying-doctor-service-of-australia-2
-  recipient: &RFDS 
-    name: Royal Flying Doctor Service of Australia
-    address: 3 Eagle Dr, Jandakot WA 6164, Australia
-    tel: +61 8 9417 6300
-    contact: westops@rfdswa.com.au
+  recipient: *RFDS 
   ada: 46.8
   usd: 73.8
   timestamp: 1622400602
