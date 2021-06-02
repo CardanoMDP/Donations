@@ -1,0 +1,21 @@
+
+---
+
+- ticker: PLOT
+
+  announcement_url: &ann https://www.plotcardano.com
+  
+  recipient: &Finote Wongel
+    name: Finote Wongel
+    address: 609 SW 150TH ST, #66483, BURIEN, WA 98166, USA
+    tel: (408)753-7032
+    contact: INFO@FINOTEWONGEL.ORG
+    
+  ada: 11.02
+  usd: 16.53
+  timestamp: 1622613476
+  
+  files:
+    - PLOT/May2021.png
+    
+  charity_tx_id: 47-1994899
