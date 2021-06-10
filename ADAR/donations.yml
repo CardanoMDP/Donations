@@ -1,0 +1,36 @@
+---
+
+# Notes: 
+#   - Frequency: all donation entries are single donations. If you donate 
+#                monthly to a charity you will have to add new entries here on
+#                a monthly basis.
+
+- ticker: ADAR
+  # ^ No POOL ID!??? Yes, the alliance would not allow duplicate tickers anyway
+  #                  and we can always pull the pool ID from the membership 
+  #                  JSONs history.
+
+  recipient: 
+    name: KIVA
+    address: 986 Mission Street, 4th Floor, San Francisco 94103, California, USA
+    tel: +1 828 479 5482
+    contact: contactus@mail.kiva.org
+
+  ada: 0 # <- These must be numbers. Can be decimals though. See below
+  usd: 25.00 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1623362045 
+  # ^ This is a unix timestamp of the moment you donated.
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+
+  files:
+  # ^ a list of files relating to the donation. Usualy photos or screenshots 
+  #   of the receipts.
+  #   Make sure to add only relative paths that begin from the root of the 
+  #   repo (they should include your Ticker name).
+    - ADAR/2021_June_10_KIVA_Donation.png
+
+  ## The following properties are optional
+
+  charity_tx_id: 58813023
+  # ^ CharityReferencePaymentID etc...
+
