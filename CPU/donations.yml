@@ -1,0 +1,17 @@
+---
+
+- ticker: CPU
+  recipient: 
+    name: Water Wells for Africa 
+    address: Manhattan Beach, California, 90267, United States
+    tel: +1 212 777 1337
+    contact: https://waterwellsforafrica.org/contact-us/
+  ltc: 0.885 
+  timestamp: 1623840720 
+  files:
+    - CPU/16-06-2021.png
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1405119595195912193
+  intermediate_txs:
+    - provider: Litecoin 
+      tx_id: fcbc0a87c1b6168fcbf4011cbaf91c9425440b50452381e66bd51144a3ce30da 
+    
