@@ -31,3 +31,20 @@
   intermediate_txs:
     - provider: DBS
       tx_id: MBI29929594075M93
+      
+  - ticker: WISH
+  recipient: 
+    name: Akaraka Limited
+    address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
+    tel: +65 9640 6890
+    contact: info@akaraka.org.sg
+  ada: 23.14
+  usd: 34.01 # 50 SGD donated
+  timestamp: 1617715560 
+  files:
+    - WISH/20210613Akaraka-DBSReceipt.jpg
+    - WISH/20210613Akaraka-Confirmation.jpg
+  announcement_url: https://blockchainlens.wordpress.com/2021/06/13/akaraka-graduation-and-donation/
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI31326278736N55
