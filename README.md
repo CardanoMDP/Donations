@@ -39,7 +39,7 @@ This repository is meant to represent a dedicated space to each SPO. The intende
 
 ```
 -| TICKER
-    |- donations.json (required)
+    |- donations.yml (required)
     |- donation-proof-2020-12.jpg <- You will be referencing these images. You are free to name them as you like.
     |- donation-proof-2021-01.jpg
     |- donation-proof-2021-02.jpg
