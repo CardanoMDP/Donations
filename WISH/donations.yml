@@ -32,7 +32,7 @@
     - provider: DBS
       tx_id: MBI29929594075M93
       
-  - ticker: WISH
+- ticker: WISH
   recipient: 
     name: Akaraka Limited
     address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
