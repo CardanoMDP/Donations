@@ -6,7 +6,8 @@
     address: Manhattan Beach, California, 90267, United States
     tel: +1 212 777 1337
     contact: https://waterwellsforafrica.org/contact-us/
-  ltc: 0.885 
+  ada: 100 # <- These must be numbers. Can be decimals though. See below
+  usd: 154.2 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1623840720 
   files:
     - CPU/16-06-2021.png
