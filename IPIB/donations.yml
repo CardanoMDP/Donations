@@ -34,7 +34,7 @@
     - IPIB/STC_Maggio21.pdf
   charity_tx_id: 79190ee22175ce21999bc2dc55427376e893b2ecdf0f182681d871f5aa7f2491
 
-  - ticker: IPIB
+ - ticker: IPIB
   announcement_url: *ann
   recipient: *stc 
   ada: 32
