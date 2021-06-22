@@ -4,7 +4,7 @@
   announcement_url: &vitalmission https://responsible-staking.at/en/mission
   recipient: &vitalregenwald
     name: Verein Regenwald der Österreicher
-    address: Koniczekweg 9, A-1140 Wien, Österreich 
+    address: Koniczekweg 9, A-1140 Wien, Österreich
     tel: +43-(0)6642042629
     contact: info@regenwald.at
   ada: 147.7
@@ -13,4 +13,7 @@
   files:
     - VITAL/regenwald/2021-06-20/PaymentConfirmation.pdf
     - VITAL/regenwald/2021-06-20/Certificate-MM6K5CUS-9808.pdf
-  charity_tx_id: 46-4664562
+  charity_tx_id: 9808
+  intermediate_txs:
+    - provider: Paypal
+      tx_id: 4MG28976HC623060Y
