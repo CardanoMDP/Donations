@@ -16,21 +16,14 @@
   #   of the receipts.
   #   Make sure to add only relative paths that begin from the root of the 
   #   repo (they should include your Ticker name).
-    - RETRO/2020-09-02-TGB.png
-
-  ## The following properties are optional
+    - RETRO/30-06-2021-CCAU-Receipt.png
+    - RETRO/30-06-2021-CCAU-Payment.png
 
   announcement_url: https://twitter.com/retrostakepool/status/1410056815543427075
   # ^ A link to the announcement of your donation
 
   charity_tx_id: ch_1J7sieF07d34bW4aW00ZcZI3
   # ^ CharityReferencePaymentID etc...
-
-  intermediate_txs:
-  # ^ This is a list of
-    - provider: Paypal # The canonical name of the provider you used
-      tx_id: 53667941B3363534Y # The transaction ID the provider gave you 
-
 
 - ticker: RETRO
   recipient: 
@@ -50,17 +43,11 @@
   #   of the receipts.
   #   Make sure to add only relative paths that begin from the root of the 
   #   repo (they should include your Ticker name).
-    - RETRO/2020-09-02-TGB.png
-
-  ## The following properties are optional
+    - RETRO/30-06-2021-SFA-Receipt.png
+    - RETRO/30-06-2021-SFA-Payment.png
 
   announcement_url: https://twitter.com/retrostakepool/status/1410061295341039616
   # ^ A link to the announcement of your donation
 
   charity_tx_id: DON943
   # ^ CharityReferencePaymentID etc...
-
-  intermediate_txs:
-  # ^ This is a list of
-    - provider: Paypal # The canonical name of the provider you used
-      tx_id: 53667941B3363534Y # The transaction ID the provider gave you 
