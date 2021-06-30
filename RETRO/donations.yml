@@ -12,10 +12,6 @@
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
   files:
-  # ^ a list of files relating to the donation. Usualy photos or screenshots 
-  #   of the receipts.
-  #   Make sure to add only relative paths that begin from the root of the 
-  #   repo (they should include your Ticker name).
     - RETRO/30-06-2021-CCAU-Receipt.png
     - RETRO/30-06-2021-CCAU-Payment.png
 
@@ -39,10 +35,6 @@
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
   files:
-  # ^ a list of files relating to the donation. Usualy photos or screenshots 
-  #   of the receipts.
-  #   Make sure to add only relative paths that begin from the root of the 
-  #   repo (they should include your Ticker name).
     - RETRO/30-06-2021-SFA-Receipt.png
     - RETRO/30-06-2021-SFA-Payment.png
 
