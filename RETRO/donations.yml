@@ -5,21 +5,17 @@
     tel: +61 2 8072 6188
     contact: info@curecancer.com.au
 
-  ada: 83.37 # <- These must be numbers. Can be decimals though. See below
-  usd: 113.58 # Only usd currency accepted, check on xe.com for exchange rate. $151 AUD Donated
+  ada: 83.37
+  usd: 113.58
   timestamp: 1625018505
-  # ^ This is a unix timestamp of the moment you donated.
-  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
   files:
     - RETRO/30-06-2021-CCAU-Receipt.png
     - RETRO/30-06-2021-CCAU-Payment.png
 
   announcement_url: https://twitter.com/retrostakepool/status/1410056815543427075
-  # ^ A link to the announcement of your donation
 
   charity_tx_id: ch_1J7sieF07d34bW4aW00ZcZI3
-  # ^ CharityReferencePaymentID etc...
 
 - ticker: RETRO
   recipient: 
@@ -28,18 +24,14 @@
     tel: +61 2 9383 6230
     contact: info@sonyfoundation.org.au
 
-  ada: 83.37 # <- These must be numbers. Can be decimals though. See below
-  usd: 113.58 # Only usd currency accepted, check on xe.com for exchange rate. $151 AUD Donated
+  ada: 83.37
+  usd: 113.58
   timestamp: 1625019360
-  # ^ This is a unix timestamp of the moment you donated.
-  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
   files:
     - RETRO/30-06-2021-SFA-Receipt.png
     - RETRO/30-06-2021-SFA-Payment.png
 
   announcement_url: https://twitter.com/retrostakepool/status/1410061295341039616
-  # ^ A link to the announcement of your donation
 
   charity_tx_id: DON943
-  # ^ CharityReferencePaymentID etc...
