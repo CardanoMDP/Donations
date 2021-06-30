@@ -5,9 +5,9 @@
     tel: +61 2 8072 6188
     contact: info@curecancer.com.au
 
-  ada: 2145 # <- These must be numbers. Can be decimals though. See below
-  usd: 265.3 # Only usd currency accepted, check on xe.com for exchange rate. $151 AUD Donated
-  timestamp: 1599026880 
+  ada: 83.37 # <- These must be numbers. Can be decimals though. See below
+  usd: 113.58 # Only usd currency accepted, check on xe.com for exchange rate. $151 AUD Donated
+  timestamp: 1625018505
   # ^ This is a unix timestamp of the moment you donated.
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
@@ -20,10 +20,10 @@
 
   ## The following properties are optional
 
-  announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
+  announcement_url: https://twitter.com/retrostakepool/status/1410056815543427075
   # ^ A link to the announcement of your donation
 
-  charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
+  charity_tx_id: ch_1J7sieF07d34bW4aW00ZcZI3
   # ^ CharityReferencePaymentID etc...
 
   intermediate_txs:
@@ -39,9 +39,9 @@
     tel: +61 2 9383 6230
     contact: info@sonyfoundation.org.au
 
-  ada: 2145 # <- These must be numbers. Can be decimals though. See below
-  usd: 265.3 # Only usd currency accepted, check on xe.com for exchange rate. $151 AUD Donated
-  timestamp: 1599026880 
+  ada: 83.37 # <- These must be numbers. Can be decimals though. See below
+  usd: 113.58 # Only usd currency accepted, check on xe.com for exchange rate. $151 AUD Donated
+  timestamp: 1625019360
   # ^ This is a unix timestamp of the moment you donated.
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
@@ -54,10 +54,10 @@
 
   ## The following properties are optional
 
-  announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
+  announcement_url: https://twitter.com/retrostakepool/status/1410061295341039616
   # ^ A link to the announcement of your donation
 
-  charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
+  charity_tx_id: DON943
   # ^ CharityReferencePaymentID etc...
 
   intermediate_txs:
