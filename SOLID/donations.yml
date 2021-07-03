@@ -13,10 +13,6 @@
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
   files:
-  # ^ a list of files relating to the donation. Usualy photos or screenshots 
-  #   of the receipts.
-  #   Make sure to add only relative paths that begin from the root of the 
-  #   repo (they should include your Ticker name).
     - SOLID/20210507_United_Vision_for_Idaho.pdf
 
   ## The following properties are optional
