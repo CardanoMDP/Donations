@@ -21,14 +21,10 @@
 
 - ticker: PILOT
 
-  announcement_url: &ann https://www.adapilot.com
+  announcement_url: *ann
   
-  recipient: &MSIF
-    name: Multiple Sclerosis International Federation
-    address: 3rd Floor Skyline House, 200 Union Street, London SE1 0LX
-    tel: +44 (0) 20 7620 1911
-    contact: donate@msif.org
-    
+  recipient: *MSIF
+  
   ada: 643
   usd: 879.10
   timestamp: 1625289720
