@@ -18,6 +18,7 @@
     - provider: Paypal
       tx_id: 4MG28976HC623060Y
 
+
 - ticker: VITAL
   announcement_url: &vitalmission
   recipient: &vitallobby16
@@ -30,3 +31,4 @@
   timestamp: 1624176000
   files:
     - VITAL/lobby16/2021-06-25/PaymentConfirmation.pdf
+
