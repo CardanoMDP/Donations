@@ -39,3 +39,17 @@
   files:
     - KAWAN/06-May-2021.jpg
   announcement_url: https://kawancardano.com/newBlogPost-IyhwFGKz5J8vr6D098kbo
+
+- ticker: KAWAN
+  recipient: 
+    name: Yayasan Dokter Peduli
+    address: Jakarta, Indonesia
+    website: http://www.doctorshare.org
+    contact: info@doctorshare.org
+    tel: "+622165866391"
+  ada: 105
+  usd: 139.15
+  timestamp: 1624916990
+  files:
+    - KAWAN/28-Jun-2021.jpg
+  announcement_url: https://kawancardano.com/newBlogPost-page_BVW-t64BltIlZuNtaFon5
