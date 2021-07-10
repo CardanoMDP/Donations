@@ -106,7 +106,6 @@
 - ticker: PRIDE
   announcement_url: https://twitter.com/StakeWithPride/status/1399048939454623751
   recipient: MBARARA RISE FOUNDATION
-    name: MBARARA RISE FOUNDATION
     contact: https://mbarararisefoundation.org/contact-us/
     tel: 256758595709
     address: n/a
@@ -119,7 +118,6 @@
 - ticker: PRIDE
   announcement_url: https://twitter.com/StakeWithPride/status/1403399311300255746
   recipient: LGBT+ Rights Ghana
-    name: LGBT+ Rights Ghana
     contact: https://www.lgbtrightsgh.org/
     tel: 2330241610164  
     address: n/a
@@ -132,7 +130,6 @@
 - ticker: PRIDE
   announcement_url: https://twitter.com/StakeWithPride/status/1405633561231724551
   recipient: LGBT VOICE TANZANIA
-    name: LGBT VOICE TANZANIA
     contact: https://lgbtvoicetz.org/
     tel: n/a
     address: n/a
@@ -145,7 +142,6 @@
 - ticker: PRIDE
   announcement_url: https://twitter.com/StakeWithPride/status/1409220479458545675
   recipient: All Out
-    name: All Out
     contact: https://go.allout.org/en/a/rwanda-pride/
     tel: n/a
     address: n/a
@@ -158,7 +154,6 @@
 - ticker: PRIDE
   announcement_url: https://twitter.com/StakeWithPride/status/1413508489654063105
   recipient: Iranti
-    name: Iranti 
     contact: https://www.iranti.org.za/
     tel: 27113391468
     address: n/a
