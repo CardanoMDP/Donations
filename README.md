@@ -1,5 +1,13 @@
 # Donations - Community Audited Donation Proofs
 
+Agregate Leaderboards:
+[USD](https://raw.githubusercontent.com/CardanoMDP/Donations/live/donations.usd) 
+[ADA](https://raw.githubusercontent.com/CardanoMDP/Donations/live/donations.ada)
+
+MDP Total:
+[USD](https://raw.githubusercontent.com/CardanoMDP/Donations/live/totals.usd) 
+[ADA](https://raw.githubusercontent.com/CardanoMDP/Donations/live/totals.ada)
+
 ## Motivation
 We want to increase the credibility of published donations. This can be done in many ways, some fancy others simpler. The only bulletproof way is to make charities publish Cardano addresses so that SPOs can show that they actually sent money to that specific charity. Unfortunately this is a solution that is a very long way of. To have a standardized information pool about donations and at least enable some degree of trust and auditability in that, we created this repository.
 
@@ -31,7 +39,7 @@ This repository is meant to represent a dedicated space to each SPO. The intende
 
 ```
 -| TICKER
-    |- donations.json (required)
+    |- donations.yml (required)
     |- donation-proof-2020-12.jpg <- You will be referencing these images. You are free to name them as you like.
     |- donation-proof-2021-01.jpg
     |- donation-proof-2021-02.jpg
@@ -50,3 +58,21 @@ For a documented example see [example.donations.yml](./example.donations.yml).
 
 For a realworld example see the [SPEC](./SPEC) folder.
 
+
+## Validating Dontations
+
+If you have been given write permissions to `CardanoMDP/Donations` you can now aprove Pull Requests. To do this, please keep the following things in mind.
+
+* Check that the uploaded receipts identify the name of the operator or the pool
+* Check that the dates match (timezone issue might arise here)
+* Importantly Check the reported values that are being claimed
+
+Some other things to keep in mind are:
+
+* Is this receipt unique? Ideally a receipt should have some sort of official tx id
+* Is the receiving party a real charity (they should have a website and ideally some sort of bank account info)
+* Is there a possibility the operator is paying themselves?
+
+Formating checks:
+
+* Ensure that `ada` and `usd` values are `dot` denominated `42.1` is fine, ~`42,1`~ is not!
