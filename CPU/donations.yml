@@ -6,8 +6,8 @@
     address: Manhattan Beach, California, 90267, United States
     tel: +1 212 777 1337
     contact: https://waterwellsforafrica.org/contact-us/
-  ada: 100 # <- These must be numbers. Can be decimals though. See below
-  usd: 154.2 # Only usd currency accepted, check on xe.com for exchange rate.
+  ada: 100 
+  usd: 154.2 
   timestamp: 1623840720 
   files:
     - CPU/16-06-2021.png
@@ -15,4 +15,20 @@
   intermediate_txs:
     - provider: Litecoin 
       tx_id: fcbc0a87c1b6168fcbf4011cbaf91c9425440b50452381e66bd51144a3ce30da 
+    
+- ticker: CPU
+  recipient: 
+    name: Ocean Defenders Alliance
+    address: 19744 Beach Blvd.Box 446 Huntington Beach, CA 92648
+    tel: +1 714 584-8782
+    contact: https://www.oceandefenders.org/contact/contact.html
+  ada: 100 
+  usd: 136.4
+  timestamp: 1625846671 
+  files:
+    - CPU/09-07-2021.png
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1413539840319238149
+  intermediate_txs:
+    - provider: Litecoin 
+      tx_id: 4028057deb0e2466b1bdc074459ed52711ac35e27742bb3370305769075fa283 
     
