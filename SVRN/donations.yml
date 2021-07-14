@@ -31,8 +31,8 @@
   charity_tx_id: ee130dbae5b8e30d39967d1cfb487834475a896d9e2f092cc903d2b40758a72e
 
 - ticker: SVRN
-  announcement_url: https://sleepingnatives.org/donations.html
-  recipient: 
+  announcement_url: &ann https://sleepingnatives.org/donations.html
+  recipient:
     name: Sleeping Natives Productions
     address: 1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA
     tel: +1 310 961 4659
