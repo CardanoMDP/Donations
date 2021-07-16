@@ -32,3 +32,21 @@
     - provider: Litecoin 
       tx_id: 4028057deb0e2466b1bdc074459ed52711ac35e27742bb3370305769075fa283 
     
+- ticker: CPU
+  recipient: 
+    name: Sea Shepherd UK
+    address: 27 Old Gloucester Street, London, WC1N 3AX
+    tel: +44(0)3001110501
+    contact: https://www.seashepherd.org.uk/contact/contact.html
+  ada: 100 
+  usd: 123.94
+  timestamp: 1626396183 
+  files:
+    - CPU/16-07-2021.png
+  announcement_url: https://twitter.com//status/1413539840319238149
+  charity_tx_id: ea3eed61f9719e13ef15e07b9f9baadeabac79264d3a04d791f7d6039e4e94ba
+  intermediate_txs:
+    - provider: Litecoin 
+      tx_id: ea3eed61f9719e13ef15e07b9f9baadeabac79264d3a04d791f7d6039e4e94ba 
+    
+
