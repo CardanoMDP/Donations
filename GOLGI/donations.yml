@@ -8,7 +8,7 @@
 
   ada: 180 # <- These must be numbers. Can be decimals though. See below
   usd: 212.5 # Only usd currency accepted, check on xe.com for exchange rate.
-  timestamp: 1599026880 
+  timestamp: 1625468400 
   # ^ This is a unix timestamp of the moment you donated.
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
