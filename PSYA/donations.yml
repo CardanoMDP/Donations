@@ -1,50 +1,20 @@
 ---
 
-# Notes: 
-#   - Frequency: all donation entries are single donations. If you donate 
-#                monthly to a charity you will have to add new entries here on
-#                a monthly basis.
-#   - General: Please remove comments before submitting.
-
 - ticker: PSYA
-  # ^ No POOL ID!??? Yes, the alliance would not allow duplicate tickers anyway
-  #                  and we can always pull the pool ID from the membership 
-  #                  JSONs history. Use upper case letters for the ticker.
-
   recipient: 
     name: MAPS, Multidisciplinary Association for Psychedelic Studies
     address: 3141 Stevens Creek Blvd 40563, San Jose, CA 95117
     tel: +1 831-429-MDMA (6362)
     contact: giving@maps.org
-
   ada: 137 # <- These must be numbers. Can be decimals though. See below
   usd: 192 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1625569261 
-  # ^ This is a unix timestamp of the moment you donated.
-  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
-
   files:
-  # ^ a list of files relating to the donation. Usualy photos or screenshots 
-  #   of the receipts.
-  #   Make sure to add only relative paths that begin from the root of the 
-  #   repo (they should include your Ticker name).
-  #   The paths are case sensitive (also for the Ticker name)
     - PSYA/first.jpg
     - PSYA/first_LTC.pjpg
-
-
-  ## The following properties are optional
-
-
   announcement_url: https://twitter.com/psyadapool/status/1412525129087737863
-  # ^ A link to the announcement of your donation
-
   # charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
-  # ^ CharityReferencePaymentID etc...
-
-
   intermediate_txs:
-  # ^ This is a list of
     - provider: FixedFloat # The canonical name of the provider you used
       tx_id: NQRMQM # The transaction ID the provider gave you 
     - provider: Cardano
