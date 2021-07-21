@@ -6,20 +6,20 @@
 #                a monthly basis.
 #   - General: Please remove comments before submitting.
 
-- ticker: TICKR
+- ticker: PSYA
   # ^ No POOL ID!??? Yes, the alliance would not allow duplicate tickers anyway
   #                  and we can always pull the pool ID from the membership 
   #                  JSONs history. Use upper case letters for the ticker.
 
   recipient: 
-    name: Pencils of Promise
-    address: 1 Unicorn Road, 111th Floor, NY 10010, New York, USA
-    tel: +1 212 777 1337
-    contact: team@pencilsofpromise.com
+    name: MAPS, Multidisciplinary Association for Psychedelic Studies
+    address: 3141 Stevens Creek Blvd 40563, San Jose, CA 95117
+    tel: +1 831-429-MDMA (6362)
+    contact: giving@maps.org
 
-  ada: 2145 # <- These must be numbers. Can be decimals though. See below
-  usd: 265.3 # Only usd currency accepted, check on xe.com for exchange rate.
-  timestamp: 1599026880 
+  ada: 137 # <- These must be numbers. Can be decimals though. See below
+  usd: 192 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1625569261 
   # ^ This is a unix timestamp of the moment you donated.
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
@@ -29,25 +29,25 @@
   #   Make sure to add only relative paths that begin from the root of the 
   #   repo (they should include your Ticker name).
   #   The paths are case sensitive (also for the Ticker name)
-    - TICKR/2020-09-02-TGB.png
-    - TICKR/2020-09-02-photo-of-delivery.png
+    - PSYA/first.jpg
+    - PSYA/first_LTC.pjpg
 
 
   ## The following properties are optional
 
 
-  announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
+  announcement_url: https://twitter.com/psyadapool/status/1412525129087737863
   # ^ A link to the announcement of your donation
 
-  charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
+  # charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
   # ^ CharityReferencePaymentID etc...
 
 
   intermediate_txs:
   # ^ This is a list of
-    - provider: Paypal # The canonical name of the provider you used
-      tx_id: 53667941B3363534Y # The transaction ID the provider gave you 
+    - provider: FixedFloat # The canonical name of the provider you used
+      tx_id: NQRMQM # The transaction ID the provider gave you 
     - provider: Cardano
-      tx_id: 76e6d3338c2ec040b7c991d00e065d048797e2a28efc02ff27b72e51e8be3254
-    - provider: ZCash
-      tx_id: 1619b17dd4ab2e51b707a25f3befa26db593bb1cb8c4fa0102a7202760b82b06
+      tx_id: 3013c245ce60e815ab7fdbbea94bcaea0ea505bf94cd264a2b8335fc8b505768
+    - provider: LTC
+      tx_id: e777c4627043d175d7bc65c566f732af15f6b30d53a0159d9f344471e701d0ec
