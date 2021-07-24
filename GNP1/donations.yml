@@ -153,3 +153,17 @@
      - GNP1/Strongminds.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "#1722-3011"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Mental Health Foundation
+    address: Colechurch House, 1 London Bridge Walk, London, SE1 2SX
+    tel: +44 20 7803 1100
+    contact:  events@mentalhealth.org.uk
+  ada: 
+  usd: 91.86
+  timestamp: 1620814349 
+  files:
+     - GNP1/xxxxx
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "None Supplied"
