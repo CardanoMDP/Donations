@@ -139,3 +139,17 @@
      - GNP1/Bipolar.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "Non Supplied"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Strongminds
+    address: 515 Valley Street Suite 200 Maplewood NJ 07040 USA
+    tel: +1 862-222-4906
+    contact: Rasa@strongminds.org
+  ada: 
+  usd: 86.15
+  timestamp: 1625141669 
+  files:
+     - GNP1/xxxxx
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "#1722-3011"
