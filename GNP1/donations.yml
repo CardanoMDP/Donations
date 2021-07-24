@@ -125,3 +125,17 @@
      - GNP1/Mind_in_Harrogate.png  
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "IDN035332117000"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Bipolar UK
+    address: 32 Cubitt Street London WC1X0LR
+    tel: none supplied
+    contact: info@bipolaruk.org
+  ada: 
+  usd: 73.30
+  timestamp: 1619880809 
+  files:
+     - GNP1/xxxx
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Supplied"
