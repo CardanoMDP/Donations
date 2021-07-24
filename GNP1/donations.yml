@@ -111,3 +111,17 @@
      - GNP1/Forwebpage.png   
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "192945107"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Mind in Harrogate
+    address: The Acorn Centre, 101A Station Parade, Harrogate, HG1 1HB
+    tel: +44 1423 503335
+    contact: tina@mindinharrogate.org.uk
+  ada: 
+  usd: 108.64
+  timestamp: 1620828329 
+  files:
+     - GNP1/xxxx   
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "IDN035332117000"
