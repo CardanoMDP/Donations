@@ -97,3 +97,17 @@
      - GNP1/OCD_UK.png   
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "#28734"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Charlotte/Zara Marathon and OCD UK
+    address: Harvest Barn Chevin Green Farm Chevin Road Belper Derbyshire DE56 2UN
+    tel: +44 800 0487012
+    contact: no email provided
+  ada: 
+  usd: 54.30
+  timestamp: 1619201249 
+  files:
+     - GNP1/xxxxx   
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "192945107"
