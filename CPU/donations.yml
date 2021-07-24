@@ -49,4 +49,20 @@
     - provider: Litecoin 
       tx_id: ea3eed61f9719e13ef15e07b9f9baadeabac79264d3a04d791f7d6039e4e94ba 
     
+- ticker: CPU
+  recipient: 
+    name: Forgotten Animals
+    address: 17 Cork House 5 Durnsford road, London, SW19 8GR
+    tel: +44(0)7966066814
+    contact: https://forgottenanimals.org/contact/
+  ada: 100 
+  usd: 121.07
+  timestamp: 1627150002 
+  files:
+    - CPU/24-07-2021.png
+  charity_tx_id: e5ee0742cbc13fe43c247f26b6ba082d748d1d038b70ea05cff67d8eba23d044
+  intermediate_txs:
+    - provider: Litecoin 
+      tx_id: e5ee0742cbc13fe43c247f26b6ba082d748d1d038b70ea05cff67d8eba23d044 
+    
 
