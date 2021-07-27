@@ -167,3 +167,17 @@
      - GNP1/Mental_Health_Foundation.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "None Supplied"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Beating Eating Disorders
+    address: Unit 1 Chalk Hill House 19 Rosary Road Norwich Norfolk NR1 1SZ
+    tel: +44 1603 753308
+    contact:  fundraising@beateatingdisorders.org.uk
+  ada: 
+  usd: 106.45
+  timestamp: 1622629109 
+  files:
+     - GNP1/Beat_Eating_Disorder.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Supplied"
