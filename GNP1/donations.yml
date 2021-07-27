@@ -223,3 +223,31 @@
      - GNP1/Wavelength_full.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "122769350"
+  
+  - ticker: GNP1 
+  recipient: 
+    name: Wavelength
+    address: 159a High Street Hornchurch Essex, RM11 3YB
+    tel: +44 1708 621101
+    contact:  info@wavelength.org.uk
+  ada: 
+  usd: 116.10
+  timestamp: 1633474800 
+  files:
+     - GNP1/Wavelength_full_2nd.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "D222111940"
+  
+- ticker: GNP1 
+  recipient: 
+    name: BAATN
+    address: 62 Hale End Road, London, E17 4BQ
+    tel: +44 20 3600 0712
+    contact:  administrator@baatn.org.uk
+  ada: 
+  usd: 68.82
+  timestamp: 1626390000 
+  files:
+     - GNP1/BAATN.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Supplied"
