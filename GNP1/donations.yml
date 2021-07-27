@@ -97,7 +97,7 @@
      - GNP1/OCD_UK.png   
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "#28734"
-  
+
 - ticker: GNP1 
   recipient: 
     name: Charlotte/Zara Marathon and OCD UK
@@ -224,7 +224,7 @@
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "122769350"
   
-  - ticker: GNP1 
+- ticker: GNP1 
   recipient: 
     name: Wavelength
     address: 159a High Street Hornchurch Essex, RM11 3YB
@@ -250,4 +250,4 @@
   files:
      - GNP1/BAATN.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
-  charity_tx_id: "Non Supplied"
+  charity_tx_id: "Non Supplied" 
