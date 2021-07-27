@@ -181,3 +181,45 @@
      - GNP1/Beat_Eating_Disorder.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "Non Supplied"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Anxiety UK
+    address: Nunes House 447 Chester Road Manchester M16 9HA
+    tel: +44 161 2267727
+    contact:  fundraising@beateatingdisorders.org.uk
+  ada: 
+  usd: 82.28
+  timestamp: 1623711600 
+  files:
+     - GNP1/Anxiety_UK.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Supplied"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Man Down
+    address: 3 Park Terrace, Falmouth, Cornwall, United Kingdom, TR11 2DJ
+    tel: +44 800 038 5300
+    contact:  support@mandown-cornwall.co.uk
+  ada: 
+  usd: 68.27
+  timestamp: 1625041380 
+  files:
+     - GNP1/Man_Down.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "14807018"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Wavelength
+    address: 159a High Street Hornchurch Essex, RM11 3YB
+    tel: +44 1708 621101
+    contact:  info@wavelength.org.uk
+  ada: 
+  usd: 70.24
+  timestamp: 1625526000 
+  files:
+     - GNP1/Wavelength_full.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "122769350"
