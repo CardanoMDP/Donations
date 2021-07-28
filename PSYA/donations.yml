@@ -1,0 +1,23 @@
+---
+
+- ticker: PSYA
+  recipient: 
+    name: MAPS, Multidisciplinary Association for Psychedelic Studies
+    address: 3141 Stevens Creek Blvd 40563, San Jose, CA 95117
+    tel: +1 831-429-MDMA (6362)
+    contact: giving@maps.org
+  ada: 137 # <- These must be numbers. Can be decimals though. See below
+  usd: 192 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1625569261 
+  files:
+    - PSYA/first.jpg
+    - PSYA/first_LTC.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1412525129087737863
+  # charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
+  intermediate_txs:
+    - provider: FixedFloat # The canonical name of the provider you used
+      tx_id: NQRMQM # The transaction ID the provider gave you 
+    - provider: Cardano
+      tx_id: 3013c245ce60e815ab7fdbbea94bcaea0ea505bf94cd264a2b8335fc8b505768
+    - provider: LTC
+      tx_id: e777c4627043d175d7bc65c566f732af15f6b30d53a0159d9f344471e701d0ec
