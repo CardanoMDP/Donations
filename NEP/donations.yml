@@ -1,42 +1,27 @@
----
-
-# Notes: 
-#   - Frequency: all donation entries are single donations. If you donate 
-#                monthly to a charity you will have to add new entries here on
-#                a monthly basis.
-#   - General: Please remove comments before submitting.
-
 - ticker: NEP
-  # ^ No POOL ID!??? Yes, the alliance would not allow duplicate tickers anyway
-  #                  and we can always pull the pool ID from the membership 
-  #                  JSONs history. Use upper case letters for the ticker.
-
   recipient: 
     name: Street Child
     address: Street Child - 206-208 Stewarts Road, Larkhall, London, SW8 4UB United Kingdom
     tel: 020 7614 7696
     contact: info@street-child.org
-
-  ada: 105 # <- These must be numbers. Can be decimals though. See below
-  usd: 110 # Only usd currency accepted, check on xe.com for exchange rate.
+  ada: 105.00 # <- These must be numbers. Can be decimals though. See below
+  usd: 110.00 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1624966028 
-  # ^ This is a unix timestamp of the moment you donated.
-  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
-
   files:
-  # ^ a list of files relating to the donation. Usualy photos or screenshots 
-  #   of the receipts.
-  #   Make sure to add only relative paths that begin from the root of the 
-  #   repo (they should include your Ticker name).
-  #   The paths are case sensitive (also for the Ticker name)
     - NEP/2020-06-29-SC.jpg
     - NEP/2020-06-29-SC-1.png
-
-
-  ## The following properties are optional
-
-
   announcement_url: https://twitter.com/PoolVoyager/status/1409837240361041920
-  # ^ A link to the announcement of your donation
-
+  - ticker: NEP
+  recipient: 
+    name: Tree Aid
+    address: Tree Aid, Brunswick Court, Brunswick Square, Bristol, BS2 8PE
+    tel: +44 0117 909 6363
+    contact: iinfo@treeaid.org
+  ada: 157.57 # <- These must be numbers. Can be decimals though. See below
+  usd: 208.00 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1624966028 
+  files:
+    - NEP/2020-06-29-TA.jpg
+    - NEP/2020-06-29-TA-1.png
+  announcement_url: https://twitter.com/PoolVoyager/status/1409839173746503680
   
