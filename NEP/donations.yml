@@ -21,7 +21,7 @@
   usd: 208.00 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1624966028 
   files:
-    - NEP/2020-06-29-TA.jpg
-    - NEP/2020-06-29-TA-1.png
+    - NEP/2020-06-29-TA.png
+    - NEP/2020-06-29-TA-1.jpg
   announcement_url: https://twitter.com/PoolVoyager/status/1409839173746503680
   
