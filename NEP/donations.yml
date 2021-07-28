@@ -29,7 +29,7 @@
   #   Make sure to add only relative paths that begin from the root of the 
   #   repo (they should include your Ticker name).
   #   The paths are case sensitive (also for the Ticker name)
-    - NEP/2020-06-29-SC.png
+    - NEP/2020-06-29-SC.jpg
     - NEP/2020-06-29-SC-1.png
 
 
