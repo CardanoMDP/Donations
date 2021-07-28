@@ -224,7 +224,7 @@
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "122769350"
   
-  - ticker: GNP1 
+- ticker: GNP1 
   recipient: 
     name: Wavelength
     address: 159a High Street Hornchurch Essex, RM11 3YB
