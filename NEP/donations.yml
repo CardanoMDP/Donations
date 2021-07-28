@@ -8,7 +8,7 @@
   usd: 110.00 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1624966028 
   files:
-    - NEP/2020-06-29-SC.jpg
+    - NEP/2020-06-29-SC.jpeg
     - NEP/2020-06-29-SC-1.png
   announcement_url: https://twitter.com/PoolVoyager/status/1409837240361041920
   - ticker: NEP
@@ -22,7 +22,7 @@
   timestamp: 1624966028 
   files:
     - NEP/2020-06-29-TA.png
-    - NEP/2020-06-29-TA-1.jpg
+    - NEP/2020-06-29-TA-1.jpeg
   announcement_url: https://twitter.com/PoolVoyager/status/1409839173746503680
   charity_tx_id: f20e6043-609a-4aa9-b28e-6702a344aa64
    - ticker: NEP
