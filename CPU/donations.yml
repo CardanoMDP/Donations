@@ -16,7 +16,7 @@
     - provider: Litecoin 
       tx_id: fcbc0a87c1b6168fcbf4011cbaf91c9425440b50452381e66bd51144a3ce30da 
   custom:
-    color: blue
+    donationType: community
 
 - ticker: CPU
   recipient: 
@@ -34,7 +34,7 @@
     - provider: Litecoin 
       tx_id: 4028057deb0e2466b1bdc074459ed52711ac35e27742bb3370305769075fa283 
   custom:
-    color: blue
+    donationType: nature
 
 - ticker: CPU
   recipient: 
@@ -53,7 +53,7 @@
     - provider: Litecoin 
       tx_id: ea3eed61f9719e13ef15e07b9f9baadeabac79264d3a04d791f7d6039e4e94ba 
   custom:
-    color: blue    
+    donationType: nature    
 
 - ticker: CPU
   recipient: 
@@ -72,7 +72,7 @@
     - provider: Litecoin 
       tx_id: e5ee0742cbc13fe43c247f26b6ba082d748d1d038b70ea05cff67d8eba23d044
   custom:
-    color: blue 
+    donationType: animals 
 
 - ticker: CPU
   recipient: 
@@ -82,14 +82,14 @@
     contact: info@codetoinspire.org
   ada: 100 
   usd: 130.6
-  timestamp:  
+  timestamp: 1627658310
   files:
     - CPU/30-07-2021.png
   charity_tx_id: 092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856
-  announcement_url: /
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1419006831779799043
   intermediate_txs: 
     - provider: Litecoin 
       tx_id: 092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856
   custom:
-    color: green
+    donationType: education
 
