@@ -85,9 +85,9 @@
   timestamp:  
   files:
     - CPU/30-07-2021.png
-  charity_tx_id: 
+  charity_tx_id: 092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856
   announcement_url: /
-  intermediate_txs: 092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856
+  intermediate_txs: 
     - provider: Litecoin 
       tx_id: 092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856
   custom:
