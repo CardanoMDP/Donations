@@ -67,4 +67,16 @@
   timestamp: 1622456220
   files:
     - RISE/SevaUkMay2021Receipt.PNG
+  
+  - ticker: RISE
+  announcement_url: &ann https://twitter.com/RiseCardano/status/1410227893947490314
+  recipient: 
+    name: Water Aid UK
+    address: 6th floor, 20 Canada Square, London, E14 5NN, UK
+    tel: +44 20 7793 4594
+  ada: 542.815
+  usd: 721.96
+  timestamp: 1625046780
+  files:
+    - RISE/WaterAidReceiptJune2021.PNG
 
