@@ -20,7 +20,7 @@
                     "type": "string"
                  },
                  "tel": {
-                    "type": "string"
+                    "type": ["integer", "string"]
                  },
                  "contact": {
                     "type": "string"
