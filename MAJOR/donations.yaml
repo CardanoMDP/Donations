@@ -147,3 +147,22 @@
   announcement_url: https://twitter.com/MajorPool1/status/1419478904146960388
 
   charity_tx_id: 47124878
+  
+  - ticker: MAJOR
+  recipient: 
+    name: The Tor Project
+    address: 217 1st Ave South #4903, Seattle, WA 98194 USA
+    tel:  NA
+    contact: donations@torproject.org
+
+  ada: 90.75
+  usd: 125.00
+  timestamp: 1628198340
+
+  files:
+    - MAJOR/TorProjectAug21.png
+
+  announcement_url: https://twitter.com/MajorPool1/status/1423400122923245584
+
+  charity_tx_id: NONE
+
