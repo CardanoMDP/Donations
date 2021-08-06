@@ -148,7 +148,7 @@
 
   charity_tx_id: 47124878
   
-  - ticker: MAJOR
+- ticker: MAJOR
   recipient: 
     name: The Tor Project
     address: 217 1st Ave South #4903, Seattle, WA 98194 USA
