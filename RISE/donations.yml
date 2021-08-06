@@ -80,3 +80,15 @@
   files:
     - RISE/WaterAidReceiptJune2021.PNG
 
+  - ticker: RISE
+  announcement_url: &ann https://twitter.com/RiseCardano/status/1423651080618094592
+  recipient: 
+    name: Save The Children
+    address: 1 St John's Lane, London EC1M 4AR
+    tel: +44 20 7012 6400
+  ada: 716.935
+  usd: 989.44
+  timestamp: 1628257500
+  files:
+    - RISE/SaveTheChildrenJuly2021ReceiptEdited.png
+
