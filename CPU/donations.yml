@@ -112,3 +112,21 @@
   custom:
     donationType: community
 
+- ticker: CPU
+  recipient: 
+    name: The Hunger Project
+    address: 110 W 30th Street, New York, NY 10001, USA
+    tel: +1 212.251.9100
+    contact: https://thp.org/contact/
+  ada: 100 
+  usd: 158.3
+  timestamp: 1628626440
+  files:
+    - CPU/10-08-2021.png
+  charity_tx_id: f39e08a3fabf290ba905af4c732cc57121bae1b179e4a142a86e33bd9787bc24
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: f39e08a3fabf290ba905af4c732cc57121bae1b179e4a142a86e33bd9787bc24
+  custom:
+    donationType: community
+
