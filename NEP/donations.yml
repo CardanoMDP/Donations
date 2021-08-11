@@ -11,7 +11,8 @@
     - NEP/2020-06-29-SC.jpeg
     - NEP/2020-06-29-SC-1.png
   announcement_url: https://twitter.com/PoolVoyager/status/1409837240361041920
-  - ticker: NEP
+
+- ticker: NEP
   recipient: 
     name: Tree Aid
     address: Tree Aid, Brunswick Court, Brunswick Square, Bristol, BS2 8PE, UK
@@ -25,7 +26,8 @@
     - NEP/2020-06-29-TA-1.jpeg
   announcement_url: https://twitter.com/PoolVoyager/status/1409839173746503680
   charity_tx_id: f20e6043-609a-4aa9-b28e-6702a344aa64
-   - ticker: NEP
+
+- ticker: NEP
   recipient: 
     name: Dig Deep Africa
     address: Dig Deep (Africa), 2 Rushdale Road, Sheffield, S8 9QB, UK
