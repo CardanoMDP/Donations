@@ -68,7 +68,7 @@
   files:
     - RISE/SevaUkMay2021Receipt.PNG
   
-  - ticker: RISE
+- ticker: RISE
   announcement_url: &ann https://twitter.com/RiseCardano/status/1410227893947490314
   recipient: 
     name: Water Aid UK
@@ -80,7 +80,7 @@
   files:
     - RISE/WaterAidReceiptJune2021.PNG
 
-  - ticker: RISE
+- ticker: RISE
   announcement_url: &ann https://twitter.com/RiseCardano/status/1423651080618094592
   recipient: 
     name: Save The Children
