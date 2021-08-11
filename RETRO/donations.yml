@@ -26,7 +26,7 @@
 
   ada: 83.37
   usd: 113.58
-  timestamp: 1627854360
+  timestamp: 1625019360
 
   files:
     - RETRO/30-06-2021-SFA-Receipt.png
@@ -35,8 +35,8 @@
   announcement_url: https://twitter.com/retrostakepool/status/1410061295341039616
 
   charity_tx_id: DON943
-  
-  - ticker: RETRO
+
+- ticker: RETRO
   recipient: 
     name: Cure Cancer Australia Foundation
     address: PO BOX A2434, Sydney South PO NSW 1235 Australia
@@ -73,3 +73,4 @@
   announcement_url: https://twitter.com/retrostakepool/status/1421950600032358401
 
   charity_tx_id: 1276
+

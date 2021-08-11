@@ -20,7 +20,7 @@
                     "type": "string"
                  },
                  "tel": {
-                    "type": "string"
+                    "type": ["integer", "string"]
                  },
                  "contact": {
                     "type": "string"
@@ -51,6 +51,9 @@
             }
           },
           "charity_tx_id": {
+              "type": "string"
+          },
+          "charity_tx_proof_url": {
               "type": "string"
           },
           "announcement_url": {
