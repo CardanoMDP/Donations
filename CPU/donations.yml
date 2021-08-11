@@ -1,0 +1,95 @@
+---
+
+- ticker: CPU
+  recipient: 
+    name: Water Wells for Africa 
+    address: Manhattan Beach, California, 90267, United States
+    tel: +1 212 777 1337
+    contact: https://waterwellsforafrica.org/contact-us/
+  ada: 100 
+  usd: 154.2 
+  timestamp: 1623840720 
+  files:
+    - CPU/16-06-2021.png
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1405119595195912193
+  intermediate_txs:
+    - provider: Litecoin 
+      tx_id: fcbc0a87c1b6168fcbf4011cbaf91c9425440b50452381e66bd51144a3ce30da 
+  custom:
+    donationType: community
+
+- ticker: CPU
+  recipient: 
+    name: Ocean Defenders Alliance
+    address: 19744 Beach Blvd.Box 446 Huntington Beach, CA 92648
+    tel: +1 714 584-8782
+    contact: https://www.oceandefenders.org/contact/contact.html
+  ada: 100 
+  usd: 136.4
+  timestamp: 1625846671 
+  files:
+    - CPU/09-07-2021.png
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1413539840319238149
+  intermediate_txs:
+    - provider: Litecoin 
+      tx_id: 4028057deb0e2466b1bdc074459ed52711ac35e27742bb3370305769075fa283 
+  custom:
+    donationType: nature
+
+- ticker: CPU
+  recipient: 
+    name: Sea Shepherd UK
+    address: 27 Old Gloucester Street, London, WC1N 3AX
+    tel: +44(0)3001110501
+    contact: https://www.seashepherd.org.uk/contact/contact.html
+  ada: 100 
+  usd: 123.94
+  timestamp: 1626396183 
+  files:
+    - CPU/16-07-2021.png
+  charity_tx_id: ea3eed61f9719e13ef15e07b9f9baadeabac79264d3a04d791f7d6039e4e94ba
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1415842763304734729
+  intermediate_txs:
+    - provider: Litecoin 
+      tx_id: ea3eed61f9719e13ef15e07b9f9baadeabac79264d3a04d791f7d6039e4e94ba 
+  custom:
+    donationType: nature    
+
+- ticker: CPU
+  recipient: 
+    name: Forgotten Animals
+    address: 17 Cork House 5 Durnsford road, London, SW19 8GR
+    tel: +44(0)7966066814
+    contact: https://forgottenanimals.org/contact/
+  ada: 100 
+  usd: 121.07
+  timestamp: 1627150002 
+  files:
+    - CPU/24-07-2021.png
+  charity_tx_id: e5ee0742cbc13fe43c247f26b6ba082d748d1d038b70ea05cff67d8eba23d044
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1419006831779799043
+  intermediate_txs:
+    - provider: Litecoin 
+      tx_id: e5ee0742cbc13fe43c247f26b6ba082d748d1d038b70ea05cff67d8eba23d044
+  custom:
+    donationType: animals 
+
+- ticker: CPU
+  recipient: 
+    name: Code to Inspire
+    address: 9643+QQM, Herat, Afghanistan
+    tel: 079 830 0430
+    contact: info@codetoinspire.org
+  ada: 100 
+  usd: 130.6
+  timestamp: 1627658310
+  files:
+    - CPU/30-07-2021.png
+  charity_tx_id: 092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1419006831779799043
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: 092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856
+  custom:
+    donationType: education
+
