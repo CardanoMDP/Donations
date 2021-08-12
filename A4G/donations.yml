@@ -1,0 +1,60 @@
+---
+
+# Notes: 
+#   - Frequency: all donation entries are single donations. If you donate 
+#                monthly to a charity you will have to add new entries here on
+#                a monthly basis.
+
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 38
+  usd: 51
+  timestamp: 1625118441   
+
+  files:
+    - A4G/2021-07-01-transaction-confirmation.jpg
+    - A4G/2021-07-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 30
+  usd: 51
+  timestamp: 1622526441   
+
+  files:
+    - A4G/2021-06-01-transaction-confirmation.jpg
+    - A4G/2021-06-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 45
+  usd: 58.5
+  timestamp: 1619868789   
+
+  files:
+    - A4G/2021-05-01-transaction-confirmation.jpg
+    - A4G/2021-05-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
