@@ -22,7 +22,6 @@
     - provider: LTC
       tx_id: e777c4627043d175d7bc65c566f732af15f6b30d53a0159d9f344471e701d0ec
 
-
 - ticker: PSYA
   recipient: 
     name: Chacruna Institute
