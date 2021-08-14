@@ -26,7 +26,7 @@
   recipient: 
     name: Chacruna Institute
     address: San Francisco, CA 94109, US
-    # tel: 
+    tel: "" 
     contact: info@chacruna.net 
   ada: 70 # <- These must be numbers. Can be decimals though. See below
   usd: 94 # Only usd currency accepted, check on xe.com for exchange rate.
