@@ -76,3 +76,32 @@ Some other things to keep in mind are:
 Formating checks:
 
 * Ensure that `ada` and `usd` values are `dot` denominated `42.1` is fine, ~`42,1`~ is not!
+
+
+
+## Keeping your repository up to date with the upstream repository (CardanoMDP/Donations)
+
+When you submit a PR, if your submitted branch isn't up to date with the `CardanoMDP/Donations` repository we will not be able to merge your PR. 
+Because of that you need to make sure that your forked repo is up to date with with ours.
+
+Two ways of doing this:
+
+* Using the github page of your repository
+* Using github CLI
+
+
+
+1. Using the github page of your repository
+   1. Go to the webpage of your repository (example: `https://github.com/github-name/forked-repository`) 
+   2. Press Fetch Upstream
+   3. Press Fetch and merge
+![image](https://user-images.githubusercontent.com/38225333/129491626-c2f7742b-bfb7-492e-a51f-2be788856e1a.png)
+
+2. Using the github CLI
+   1. Navigate to the root of your repository with terminal
+   2. Add the upstream repository `git remote add upstream git://github.com/CardanoMDP/Donations.git`
+   3. Fetch upstream `git fetch upstream`
+   4. Merge upstream main branch with your main branch `git merge upstream/main main` 
+
+
+
