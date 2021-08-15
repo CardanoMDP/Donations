@@ -51,6 +51,9 @@
             }
           },
           "charity_tx_id": {
+              "type": ["integer", "string"]
+          },
+          "charity_tx_proof_url": {
               "type": "string"
           },
           "announcement_url": {
