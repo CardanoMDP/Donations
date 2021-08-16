@@ -131,3 +131,22 @@
   custom:
     donationType: community
 
+- ticker: CPU
+  recipient: 
+    name: Coral Restoration Foundation
+    address: 89111 Overseas Hwy, Tavernier, Florida 33070
+    tel: (305) 453-7030
+    contact: https://www.coralrestoration.org/about
+  ada: 100 
+  usd: 213.6
+  timestamp: 1629140094
+  files:
+    - CPU/16-08-2021.png
+  charity_tx_id: eff2480db0ffddc69248518b891b0a52b99198ef9eb613de970e5f6ac561c16c
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: eff2480db0ffddc69248518b891b0a52b99198ef9eb613de970e5f6ac561c16c
+  custom:
+    donationType: nature
+
+
