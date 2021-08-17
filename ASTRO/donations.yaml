@@ -1,11 +1,4 @@
 ---
-
-# Notes: 
-#   - Frequency: all donation entries are single donations. If you donate 
-#                monthly to a charity you will have to add new entries here on
-#                a monthly basis.
-#   - General: Please remove comments before submitting.
-
 - ticker: ASTRO
 
   recipient: 
