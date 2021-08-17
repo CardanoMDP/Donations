@@ -1,1 +1,16 @@
+---
+- ticker: BRO
+  recipient: 
+    name: Kids Alive International 
+    address: 2507 Cumberland Drive, Valparaiso, IN 46383-2503
+    tel: +1 800 KIDS 330
+    contact: phyllis.pierson@kidsalive.org
 
+  ada: 47.85 # <- These must be numbers. Can be decimals though. See below
+  usd: 100.00 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1629136148 
+  # ^ This is a unix timestamp of the moment you donated.
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+
+  files:
+    - BRO/Oasis-giving-thru-august-2021.png
