@@ -87,9 +87,7 @@ Because of that you need to make sure that your forked repo is up to date with w
 Two ways of doing this:
 
 * Using the github page of your repository
-* Using github CLI
-
-
+* Using git CLI
 
 1. Using the github page of your repository
    1. Go to the webpage of your repository (example: `https://github.com/github-name/forked-repository`) 
@@ -97,11 +95,11 @@ Two ways of doing this:
    3. Press Fetch and merge
 ![image](https://user-images.githubusercontent.com/38225333/129491626-c2f7742b-bfb7-492e-a51f-2be788856e1a.png)
 
-2. Using the github CLI
-   1. Navigate to the root of your repository with terminal
+2. Using the git CLI
+   1. Clone your fork and navigate to the root of your repository
    2. Add the upstream repository `git remote add upstream git://github.com/CardanoMDP/Donations.git`
    3. Fetch upstream `git fetch upstream`
    4. Merge upstream main branch with your main branch `git merge upstream/main main` 
-
+   5. Push  the up-to-date repository to your fork `git push origin`
 
 
