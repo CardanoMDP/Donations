@@ -31,4 +31,6 @@
   timestamp: 1624608000
   files:
     - VITAL/lobby16/2021-06-25/PaymentConfirmation.pdf
-
+  custom:
+    - custom_attribute1: abc
+    - custom_attribute2: def
