@@ -56,7 +56,7 @@
       
   custom:
   # ^ Custom additional attributes without validation. It might be useful if you want to process the file for your own purpose.
-    - custom_attribute1: abc
-    - custom_attribute2: cde
+    custom_attribute1: abc
+    custom_attribute2: cde
 
 
