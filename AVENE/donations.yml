@@ -1,0 +1,30 @@
+---
+
+- ticker: AVENE
+  recipient:
+    name: West Africa Decentralized Alliance
+    address: Accra, Ghana
+    tel: +233 54 257 8107
+    contact: hello@wadalliance.org
+  ada: 150
+  usd: 234.62 # 1.5641
+  timestamp: 1623048284 # 2021-06-07 06:44:44 UTC
+  files:
+    - AVENE/2021-06-WADA.png
+  announcement_url: https://twitter.com/avenepool/status/1401799126291996672
+  charity_tx_id: 9a34b0c6137d72efe719dd9814323116ee7aa82b641ed94364ae3a7319e136c0
+
+- ticker: AVENE
+  recipient:
+    name: West Africa Decentralized Alliance
+    address: Accra, Ghana
+    tel: +233 54 257 8107
+    contact: hello@wadalliance.org
+  ada: 500
+  usd: 609.70 # 1.2194
+  timestamp: 1617917653 # 2021-04-08 21:34:13 UTC
+  files:
+    - AVENE/2021-04-WADA.png
+    - AVENE/WADA-foundation.png
+  announcement_url: https://twitter.com/avenepool/status/1380414004292640769
+  charity_tx_id: 94884beda74c6242e43dea3e2be0f7dfece06dfcaf7573917b020aca2bd5ec51
