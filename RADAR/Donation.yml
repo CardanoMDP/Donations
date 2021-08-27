@@ -6,13 +6,13 @@
     tel: ----
     contact: info@coincenter.org
 
-  ada: 
-  usd: 
-  timestamp: 
+  ada: 50
+  usd: 137.50
+  timestamp:	1629935090 
   # ^ This is a unix timestamp of the moment you donated.
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
-  files:
+  files: RADAR/RADAR Coin Center August 2021.txt
   # ^ a list of files relating to the donation. Usualy photos or screenshots 
   #   of the receipts.
   #   Make sure to add only relative paths that begin from the root of the 
