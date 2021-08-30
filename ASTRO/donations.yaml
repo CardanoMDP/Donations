@@ -1,0 +1,82 @@
+---
+- ticker: ASTRO
+
+  recipient: 
+    name: Sociedad Malagueña de Astronomía
+    address: C/República Argentina Nº9 29016 Málaga, Spain
+    tel: +34 952602936
+    contact: info@astromalaga.com
+
+  ada: 52.92505 
+  usd: 70.3 
+  timestamp: 1626678660 
+
+  files:
+    - ASTRO/2021-07-19Recibi.pdf
+
+  announcement_url: https://twitter.com/AstropoolO/status/1412347353244311552
+
+  intermediate_txs:
+    - provider: Paypal 
+      tx_id: 60S4492488576394S 
+
+- ticker: ASTRO
+
+  recipient: 
+    name: Sociedad Malagueña de Astronomía
+    address: C/República Argentina Nº9 29016 Málaga, Spain
+    tel: +34 952 602 936
+    contact: info@astromalaga.com
+
+  ada: 17.1975
+  usd: 21.05
+  timestamp: 1627801860 
+
+  files:
+    - ASTRO/2021-08-12Recibi.pdf
+
+  announcement_url: https://twitter.com/AstropoolO/status/1424672137013497857
+  intermediate_txs:
+    - provider: Paypal 
+      tx_id: 89068514G8714524L
+
+- ticker: ASTRO
+
+  recipient: 
+    name: Astrolab 
+    address: C/Castillo s/n, 29410 Málaga
+    tel: +34 658 664 380
+    contact: info@astromalaga.com
+
+  ada: 52.92505 
+  usd: 70.3
+  timestamp: 1626678660 
+
+  files:
+    - ASTRO/ASTROLAB-junio.png
+
+  announcement_url: https://twitter.com/AstropoolO/status/1410673109548609538
+  intermediate_txs:
+    - provider: Cardano 
+      tx_id: 68e4a0501d84aeebbf55c5281a562aecb4d92016d2e02d93aa61c3b1a1269f8d 
+
+- ticker: ASTRO
+
+  recipient: 
+    name: Astrolab 
+    address: C/Castillo s/n, 29410 Málaga
+    tel: +34 658 664 380
+    contact: info@astromalaga.com
+
+  ada: 17.1975
+  usd: 21.05
+  timestamp: 1627801860 
+
+  files:
+    - ASTRO/ASTROLAB-julio.png
+
+  announcement_url: https://twitter.com/AstropoolO/status/1424672137013497857
+  intermediate_txs:
+    - provider: Cardano 
+      tx_id: a418c653ca2d7576366a0289e073f2882b567e5fb06bab8c8c713db75de0a278               
+
