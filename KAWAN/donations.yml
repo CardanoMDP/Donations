@@ -67,3 +67,17 @@
   files:
     - KAWAN/30-Jul-2021.jpg
   announcement_url: https://kawancardano.com/newBlogPost-page_ui-ex_aBfWmVLsrI-jGJ9
+  
+ - ticker: KAWAN
+  recipient: 
+    name: Rumah Zakat
+    address: Jl.Turangga No.33 Bandung, Indonesia 
+    website: www.rumahzakat.org
+    contact: welcome@rumahzakat.org
+    tel: "+62804 100 1000"
+  ada: 224
+  usd: 572
+  timestamp: 1630076921
+  files:
+    - KAWAN/27-Aug-2021.jpg
+  announcement_url: https://twitter.com/KawanuaP/status/1431275732257280003
