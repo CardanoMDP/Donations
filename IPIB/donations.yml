@@ -23,3 +23,43 @@
   files:
     - IPIB/STC_Aprile21ed.pdf
   charity_tx_id: 2104021784313838480320066720IT
+  
+- ticker: IPIB
+  announcement_url: *ann
+  recipient: *stc 
+  ada: 45
+  usd: 58
+  timestamp: 1620200937
+  files:
+    - IPIB/STC_Maggio21.pdf
+  charity_tx_id: 79190ee22175ce21999bc2dc55427376e893b2ecdf0f182681d871f5aa7f2491
+
+- ticker: IPIB
+  announcement_url: *ann
+  recipient: *stc 
+  ada: 32
+  usd: 45
+  timestamp: 1622798511
+  files:
+    - IPIB/STC_Giugno21.pdf
+  charity_tx_id: 1de64e9614d3b26d00e15008a403e5e6613767137e5b2d07047a178c618e5657
+
+- ticker: IPIB
+  announcement_url: *ann
+  recipient: *stc 
+  ada: 45
+  usd: 75
+  timestamp: 1625848293
+  files:
+    - IPIB/STC_July21.pdf
+  charity_tx_id: bc49d361df2c8006a5bc72ee806d93c632b4cd812bf1c3ab2391c51e79283880
+  
+- ticker: IPIB
+  announcement_url: *ann
+  recipient: *stc 
+  ada: 480
+  usd: 700
+  timestamp: 1628501813
+  files:
+    - IPIB/STC_August21.pdf
+  charity_tx_id: 745b7ff708c8e6e21ded76e8ecce545c239626e8adf425979c604b0c1b94f497
