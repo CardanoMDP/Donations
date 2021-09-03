@@ -169,4 +169,24 @@
   custom:
     donationType: community
 
+- ticker: CPU
+  recipient: 
+    name: American Foundation for Suicide Prevention
+    address: 199 Water St. 11th Floor New York, NY 10038
+    tel: (212) 363-3500
+    contact: info@afsp.org
+  ada: 100 
+  usd: 304.3
+  timestamp: 1630686198
+  files:
+    - CPU/03-09-2021.png
+  charity_tx_id: 7271018f96fdfe20c39bf1d5751fa76c6c9dcd63232151e803fc4b282b353b29
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: 7271018f96fdfe20c39bf1d5751fa76c6c9dcd63232151e803fc4b282b353b29
+  custom:
+    donationType: community
+
+
+
 
