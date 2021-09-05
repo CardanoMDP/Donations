@@ -37,19 +37,26 @@
 
 
   announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
-  # ^ A link to the announcement of your donation
+  # ^ [OPTIONAL] A link to the announcement of your donation
 
   charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
-  # ^ CharityReferencePaymentID etc...
+  # ^ [OPTIONAL] CharityReferencePaymentID etc...
 
+  charity_tx_proof_url: http://charity-url.org/donationsfrom/you
+  # ^ [OPTIONAL] URL which is hosted by the Charity which either lists all your donations or proofs that the recipient address is owned by the charitiy organization
 
   intermediate_txs:
-  # ^ This is a list of
+  # ^ [OPTIONAL] This is a list of
     - provider: Paypal # The canonical name of the provider you used
       tx_id: 53667941B3363534Y # The transaction ID the provider gave you 
     - provider: Cardano
       tx_id: 76e6d3338c2ec040b7c991d00e065d048797e2a28efc02ff27b72e51e8be3254
     - provider: ZCash
       tx_id: 1619b17dd4ab2e51b707a25f3befa26db593bb1cb8c4fa0102a7202760b82b06
+      
+  custom:
+  # ^ Custom additional attributes without validation. It might be useful if you want to process the file for your own purpose.
+    custom_attribute1: abc
+    custom_attribute2: cde
 
 
