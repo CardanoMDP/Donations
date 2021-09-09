@@ -188,6 +188,28 @@
   custom:
     donationType: community
 
+- ticker: CPU
+  recipient: 
+    name: Trees for the Future
+    address: 1400 Spring St. Suite 500, Silver Spring, MD 20910
+    tel: (+1) 301-565-0630
+    contact: info@trees.org
+  ada: 100 
+  usd: 255.7
+  timestamp: 1631210712
+  files:
+    - CPU/09-09-2021.png
+  charity_tx_id: fc68d0656944d3b7cfcabc724f7e0b185fc128223fef5d19fd3e1ecd5ca8ebfe
+  announcement_url: 
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: fc68d0656944d3b7cfcabc724f7e0b185fc128223fef5d19fd3e1ecd5ca8ebfe
+  custom:
+    donationType: nature
+
+
+
+
 
 
 
