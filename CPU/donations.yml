@@ -200,7 +200,7 @@
   files:
     - CPU/09-09-2021.png
   charity_tx_id: fc68d0656944d3b7cfcabc724f7e0b185fc128223fef5d19fd3e1ecd5ca8ebfe
-  announcement_url: 
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1436031751260880898
   intermediate_txs: 
     - provider: Litecoin 
       tx_id: fc68d0656944d3b7cfcabc724f7e0b185fc128223fef5d19fd3e1ecd5ca8ebfe
