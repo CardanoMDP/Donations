@@ -91,3 +91,16 @@
     - NIMUE/donation-7.png
   announcement_url: https://twitter.com/nimuepool/status/1424682957709643784
   
+- ticker: NIMUE
+  recipient: 
+    name: Dierenartsen Zonder Grenzen vzw (Vétérinaires Sans Frontières Belgium)
+    address: Kunstlaan 7-8, 1210 Brussel, Belgium
+    tel: +32 2 539 09 89
+    contact: info@vsf-belgium.org
+  ada: 52.0
+  usd: 116.76
+  timestamp: 1629398400
+  files:
+    - NIMUE/donation-8.png
+  announcement_url: https://twitter.com/nimuepool/status/1428455616075415552
+  
