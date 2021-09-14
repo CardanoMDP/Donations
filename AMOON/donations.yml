@@ -5,7 +5,7 @@
     tel: 1-800-728-3843
     contact: supportercare@savechildren.org
   ada: 60
-  usd: $132.00
+  usd: 132.00
   timestamp: 1629001620
   files:
     - AMOON/Save_The_Children_First_Donation_20210814.png
@@ -19,7 +19,7 @@
     tel: 1-800-728-3843
     contact: supportercare@savechildren.org
   ada: 44
-  usd: $127.16
+  usd: 127.16
   timestamp: 1630295280
   files:
     - AMOON/Save_The_Children_2nd_Donation_20210829.png
@@ -33,7 +33,7 @@
     tel: 1-800-728-3843
     contact: supportercare@savechildren.org
   ada: 50
-  usd: $125
+  usd: 125
   timestamp: 1631064300
   files:
     - AMOON/Save_The_Children_3rd_Donation_20210908.png
@@ -47,15 +47,9 @@
     tel: 1-800-728-3843
     contact: supportercare@savechildren.org
   ada: 36
-  usd: $90
+  usd: 90
   timestamp: 1631088240
   files:
     - AMOON/Save_The_Children_4th_Donation_20210908.png
   announcement_url: https://adamoon.net/donations.html
   charity_tx_proof_url: https://adapay.finance/pay/29be75e0-48b5-479a-9ed0-95bb27f4ba48
-
-
-
-
-
-
