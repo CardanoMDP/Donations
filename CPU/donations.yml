@@ -207,6 +207,27 @@
   custom:
     donationType: nature
 
+- ticker: CPU
+  recipient:
+    name: African Wildlife Foundation
+    address: Ngong Road, Karen P.O. Box 310, 00502 Nairobi, Kenya
+    tel: +254 711 063 000
+    contact: africanwildlife@awf.org
+  ada: 100
+  usd: 235.5
+  timestamp: 1631654621
+  files:
+    - CPU/14-09-2021.png
+  charity_tx_id: b9ed45e4cc7d167ad257453587bca8f2a447f1488e6947da7661c1ec6ed87546
+  announcement_url: 
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: b9ed45e4cc7d167ad257453587bca8f2a447f1488e6947da7661c1ec6ed87546
+  custom:
+    donationType: animals
+
+
+
 
 
 
