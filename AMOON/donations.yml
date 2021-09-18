@@ -24,7 +24,7 @@
   files:
     - AMOON/Save_The_Children_2nd_Donation_20210829.png
   announcement_url: https://adamoon.net/donations.html
-  charity_tx_proof_url:https://adapay.finance/pay/517db2c4-94b2-4d20-bb03-70c5d979c217
+  charity_tx_proof_url: https://adapay.finance/pay/517db2c4-94b2-4d20-bb03-70c5d979c217
 
 - ticker: AMOON
   recipient:
