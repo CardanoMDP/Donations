@@ -1,0 +1,39 @@
+- ticker: NORB
+  
+  recipient: 
+    name: ASPCA
+    address: 424 East 92nd Street New York, NY 10128
+    tel: +1 800 628 0028
+    contact: publicinformation@aspca.org
+
+  ada: 27.13178295
+  usd: 35
+  timestamp: 1627487460 
+
+  files:
+    - NORB/20210728_ASPCA.jpg
+
+  announcement_url: https://norbpool.club/donations/1
+  charity_tx_id: 132475342
+
+- ticker: NORB
+  
+  recipient: 
+    name: African Wildlife Foundation
+    address: 1100 New Jersey Ave SE, Suite 900 Washington, DC 20003
+    tel: ​+1-888​-494​-5354​
+    contact: africanwildlife@awf.org
+
+  ada: 17.92114695
+  usd: 50
+  timestamp: 1630327800 
+
+  files:
+    - NORB/20210830_AWF.png
+
+  announcement_url: https://norbpool.club/donations/2
+  charity_tx_id: 4095828
+  intermediate_txs:
+    - provider: Paypal
+      tx_id: 9YK15008RR878710Y
+      
