@@ -1,0 +1,75 @@
+- ticker: RETRO
+  recipient: 
+    name: Cure Cancer Australia Foundation
+    address: PO BOX A2434, Sydney South PO NSW 1235 Australia
+    tel: +61 2 8072 6188
+    contact: info@curecancer.com.au
+
+  ada: 83.37
+  usd: 113.58
+  timestamp: 1625018505
+
+  files:
+    - RETRO/30-06-2021-CCAU-Receipt.png
+    - RETRO/30-06-2021-CCAU-Payment.png
+
+  announcement_url: https://twitter.com/retrostakepool/status/1410056815543427075
+
+  charity_tx_id: ch_1J7sieF07d34bW4aW00ZcZI3
+
+- ticker: RETRO
+  recipient: 
+    name: Sony Foundation Australia
+    address: 11-19 Hargrave Street, East Sydney NSW 2010 Australia
+    tel: +61 2 9383 6230
+    contact: info@sonyfoundation.org.au
+
+  ada: 83.37
+  usd: 113.58
+  timestamp: 1625019360
+
+  files:
+    - RETRO/30-06-2021-SFA-Receipt.png
+    - RETRO/30-06-2021-SFA-Payment.png
+
+  announcement_url: https://twitter.com/retrostakepool/status/1410061295341039616
+
+  charity_tx_id: DON943
+
+- ticker: RETRO
+  recipient: 
+    name: Cure Cancer Australia Foundation
+    address: PO BOX A2434, Sydney South PO NSW 1235 Australia
+    tel: +61 2 8072 6188
+    contact: info@curecancer.com.au
+
+  ada: 56.96
+  usd: 76.62
+  timestamp: 1627853100
+
+  files:
+    - RETRO/02-08-2021-CCAU-Receipt.png
+    - RETRO/02-08-2021-CCAU-Payment.jpg
+
+  announcement_url: https://twitter.com/retrostakepool/status/1421950600032358401
+
+  charity_tx_id: ch_1JJlv5F07d34bW4aFQuVz1U0
+
+- ticker: RETRO
+  recipient: 
+    name: Sony Foundation Australia
+    address: 11-19 Hargrave Street, East Sydney NSW 2010 Australia
+    tel: +61 2 9383 6230
+    contact: info@sonyfoundation.org.au
+
+  ada: 56.96
+  usd: 76.62
+  timestamp: 1627853460
+
+  files:
+    - RETRO/02-08-2021-SFA-Receipt.png
+    - RETRO/02-08-2021-SFA-Payment.jpg
+
+  announcement_url: https://twitter.com/retrostakepool/status/1421950600032358401
+
+  charity_tx_id: i1276
