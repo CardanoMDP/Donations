@@ -1,0 +1,22 @@
+- ticker: DEGAS
+
+  recipient: 
+    name: Rocky Mountain Institute
+    address: 2490 Junction Place, Suite 200 Boulder, CO  80301
+    tel: +1 303.245.1003
+    contact: outreach@rmi.org
+
+  ada: 125 
+  usd: 268.21
+  timestamp: 1629126161 
+
+
+  files:
+     - DEGAS/donation1.png
+
+  announcement_url: https://degas-pool.com/?page_id=507
+
+  charity_tx_id: 1c7e1e681451fdcd95c3bd44bbc7a71c7799e4ae6987fe3147eca9846b2e3dd1
+      
+  custom:
+    custom_attribute1: https://explorer.cardano.org/en/transaction?id=1c7e1e681451fdcd95c3bd44bbc7a71c7799e4ae6987fe3147eca9846b2e
