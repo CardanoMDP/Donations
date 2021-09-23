@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "BELGA",
+    "recipient": {
+      "name": "La Ferme Nos Pilifs",
+      "address": "347 Trassersweg, 1120, Neder-over-Heembeek, Belgium",
+      "tel": "+32 (0)2 262 11 06",
+      "contact": "info@pilifs.be"
+    },
+    "ada": 350,
+    "usd": 414,
+    "timestamp": 1615398980,
+    "files": [
+      "BELGA/LFNP-350-20210310-redacted.png"
+    ],
+    "announcement_url": "https://twitter.com/BelgaPool/status/1370016340522700804"
+  },
+  {
+    "ticker": "BELGA",
+    "recipient": {
+      "name": "La Ferme Nos Pilifs",
+      "address": "347 Trassersweg, 1120, Neder-over-Heembeek, Belgium",
+      "tel": "+32 (0)2 262 11 06",
+      "contact": "info@pilifs.be"
+    },
+    "ada": 51.6,
+    "usd": 63.28,
+    "timestamp": 1620044609,
+    "files": [
+      "BELGA/LFNP-52.50-20210503-redacted.png"
+    ],
+    "announcement_url": "https://twitter.com/BelgaPool/status/1389176376616497152"
+  },
+  {
+    "ticker": "BELGA",
+    "recipient": {
+      "name": "La Ferme Nos Pilifs",
+      "address": "347 Trassersweg, 1120, Neder-over-Heembeek, Belgium",
+      "tel": "+32 (0)2 262 11 06",
+      "contact": "info@pilifs.be"
+    },
+    "ada": 86.7,
+    "usd": 118,
+    "timestamp": 1625087696,
+    "files": [
+      "BELGA/LFNP-100-20210630-redacted.png"
+    ],
+    "announcement_url": "https://twitter.com/BelgaPool/status/1410324042821799937"
+  }
+]

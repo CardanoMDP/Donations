@@ -1,0 +1,26 @@
+[
+  {
+    "ticker": "MSTR",
+    "recipient": {
+      "name": "Malala Fund",
+      "address": "P.O. Box 73767, Washington, D.C. 20056",
+      "tel": "+1 202 618 2806",
+      "contact": "info@malalafund.org"
+    },
+    "ada": 36,
+    "usd": 64,
+    "timestamp": 1629187740,
+    "files": [
+      "MSTR/2021-08-22-MF.png"
+    ],
+    "announcement_url": "https://twitter.com/MStakepool/status/1428151609217847300",
+    "charity_tx_id": "1EijKjPSDVchuxeatipnf16Vc6rcSFR5L2",
+    "charity_tx_proof_url": "https://www.blockchain.com/btc/address/1EijKjPSDVchuxeatipnf16Vc6rcSFR5L2",
+    "intermediate_txs": [
+      {
+        "provider": "Kraken",
+        "tx_id": "TGYFYW-Y2LDH-AU4AAU"
+      }
+    ]
+  }
+]

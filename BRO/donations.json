@@ -1,0 +1,17 @@
+[
+  {
+    "ticker": "BRO",
+    "recipient": {
+      "name": "Kids Alive International",
+      "address": "2507 Cumberland Drive, Valparaiso, IN 46383-2503",
+      "tel": "+1 800 KIDS 330",
+      "contact": "phyllis.pierson@kidsalive.org"
+    },
+    "ada": 47.85,
+    "usd": 100,
+    "timestamp": 1629136148,
+    "files": [
+      "BRO/Aug-2021-Oasis.png"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "ticker": "FEEL",
+    "recipient": {
+      "name": "Amigos de Inharrime",
+      "address": "R BARÃO DE SABROSA 213, 1900-089, AREEIRO LISBOA, LISBOA",
+      "tel": "000 000 000",
+      "contact": "amigosinharrime@gmail.com"
+    },
+    "ada": 100,
+    "usd": 117.15,
+    "timestamp": 1609545600,
+    "files": [
+      "FEEL/1609545600_amigos_inharrime.png"
+    ],
+    "announcement_url": "https://www.amigosinharrime.pt/serpadrinho"
+  }
+]

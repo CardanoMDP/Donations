@@ -1,0 +1,19 @@
+[
+  {
+    "ticker": "GAIA",
+    "announcement_url": "https://www.gaiastakepool.com/charities",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Road, Suite 1000-D,  Shelburne, VT 05482 United States",
+      "tel": "+1 800 408 7850",
+      "contact": "matt@onetreeplanted.org"
+    },
+    "ada": 125,
+    "usd": 23,
+    "timestamp": 1609383600,
+    "files": [
+      "GAIA/2020-12-31-OTP.jpg"
+    ],
+    "charity_tx_id": "46-4664562"
+  }
+]

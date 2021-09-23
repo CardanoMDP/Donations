@@ -1,0 +1,19 @@
+[
+  {
+    "ticker": "BOSON",
+    "recipient": {
+      "name": "Cybathlon, Reha-Initiative of the ETH Zurich Foundation",
+      "address": "Weinbergstrasse 29, 8006 Zurich, Switzerland",
+      "tel": "+41 44 632 49 08",
+      "contact": "spenden@ethz-foundation.ch"
+    },
+    "ada": 90,
+    "usd": 108.7,
+    "timestamp": 1627333440,
+    "files": [
+      "BOSON/epoch_278_cybathlon_letter_small.jpg",
+      "BOSON/epoch_278_cybathlon.png"
+    ],
+    "announcement_url": "https://twitter.com/Ada4Science/status/1423027246298710033"
+  }
+]
