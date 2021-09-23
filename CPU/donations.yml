@@ -93,3 +93,101 @@
   custom:
     donationType: education
 
+- ticker: CPU
+  recipient: 
+    name: Amref Health Africa, Inc.
+    address: Langata Road, P.O Box 27691 – 00506 Nairobi, Kenya
+    tel: +254 20 6993000
+    contact: https://amrefusa.org/about-us/
+  ada: 100 
+  usd: 134.7
+  timestamp: 1628161551
+  files:
+    - CPU/05-08-2021.png
+  charity_tx_id: bcbc53691dc33c24915edbfea2a314a47ea311d7e567b46ce0174a8b31086147
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1423248433440346112
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: bcbc53691dc33c24915edbfea2a314a47ea311d7e567b46ce0174a8b31086147
+  custom:
+    donationType: community
+
+- ticker: CPU
+  recipient: 
+    name: The Hunger Project
+    address: 110 W 30th Street, New York, NY 10001, USA
+    tel: +1 212.251.9100
+    contact: https://thp.org/contact/
+  ada: 100 
+  usd: 158.3
+  timestamp: 1628626440
+  files:
+    - CPU/10-08-2021.png
+  charity_tx_id: f39e08a3fabf290ba905af4c732cc57121bae1b179e4a142a86e33bd9787bc24
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1425259157683310598
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: f39e08a3fabf290ba905af4c732cc57121bae1b179e4a142a86e33bd9787bc24
+  custom:
+    donationType: community
+
+- ticker: CPU
+  recipient: 
+    name: Coral Restoration Foundation
+    address: 89111 Overseas Hwy, Tavernier, Florida 33070
+    tel: (305) 453-7030
+    contact: https://www.coralrestoration.org/about
+  ada: 100 
+  usd: 213.6
+  timestamp: 1629140094
+  files:
+    - CPU/16-08-2021.png
+  charity_tx_id: eff2480db0ffddc69248518b891b0a52b99198ef9eb613de970e5f6ac561c16c
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1427349270773051394
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: eff2480db0ffddc69248518b891b0a52b99198ef9eb613de970e5f6ac561c16c
+  custom:
+    donationType: nature
+
+- ticker: CPU
+  recipient: 
+    name: The Adventure Project
+    address: 228 Park Ave S, PMB 86132New York, NY, 10003-1502
+    tel: (650) 303 1899
+    contact: hello@theadventureproject.org
+  ada: 100 
+  usd: 294.2
+  timestamp: 1629754014
+  files:
+    - CPU/23-08-2021.png
+  charity_tx_id: 497df3e9775d91e28d7aee062eb11bec07103c3b900d76583fe7b10bd8a8376d
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1429922584007745540
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: 497df3e9775d91e28d7aee062eb11bec07103c3b900d76583fe7b10bd8a8376d
+  custom:
+    donationType: community
+
+- ticker: CPU
+  recipient: 
+    name: American Foundation for Suicide Prevention
+    address: 199 Water St. 11th Floor New York, NY 10038
+    tel: (212) 363-3500
+    contact: info@afsp.org
+  ada: 100 
+  usd: 304.3
+  timestamp: 1630686198
+  files:
+    - CPU/03-09-2021.png
+  charity_tx_id: 7271018f96fdfe20c39bf1d5751fa76c6c9dcd63232151e803fc4b282b353b29
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1433832330305720321
+  intermediate_txs: 
+    - provider: Litecoin 
+      tx_id: 7271018f96fdfe20c39bf1d5751fa76c6c9dcd63232151e803fc4b282b353b29
+  custom:
+    donationType: community
+
+
+
+
