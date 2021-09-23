@@ -1,0 +1,63 @@
+---
+
+- ticker: PSYA
+  recipient: 
+    name: MAPS, Multidisciplinary Association for Psychedelic Studies
+    address: 3141 Stevens Creek Blvd 40563, San Jose, CA 95117
+    tel: +1 831-429-MDMA (6362)
+    contact: giving@maps.org
+  ada: 137 # <- These must be numbers. Can be decimals though. See below
+  usd: 192 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1625569261 
+  files:
+    - PSYA/first.jpg
+    - PSYA/first_LTC.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1412525129087737863
+  # charity_tx_id: c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133
+  intermediate_txs:
+    - provider: FixedFloat # The canonical name of the provider you used
+      tx_id: NQRMQM # The transaction ID the provider gave you 
+    - provider: Cardano
+      tx_id: 3013c245ce60e815ab7fdbbea94bcaea0ea505bf94cd264a2b8335fc8b505768
+    - provider: LTC
+      tx_id: e777c4627043d175d7bc65c566f732af15f6b30d53a0159d9f344471e701d0ec
+
+- ticker: PSYA
+  recipient: 
+    name: Chacruna Institute
+    address: San Francisco, CA 94109, US
+    tel: "" 
+    contact: info@chacruna.net 
+  ada: 70 # <- These must be numbers. Can be decimals though. See below
+  usd: 94 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1627997520 
+  files:
+    - PSYA/july_chacruna.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1422597360094416905
+  # charity_tx_id: 
+  intermediate_txs:
+    - provider: FixedFloat # The canonical name of the provider you used
+      tx_id: K5NAV1 # The transaction ID the provider gave you 
+    - provider: Cardano
+      tx_id: fd02a84a56a67151dcd37c3ff12f2ad15889c7d33d09e39232dfcdf2e461ad87
+    - provider: BTC
+      tx_id: 97d9c5933b2591dc58483d5797eb5980e66c09795b43a9182b14fb961107c26a
+
+
+- ticker: PSYA
+  recipient: 
+    name: One Tree Planted
+    address: 145 Pine Haven Shores Rd 1000D Shelburne, Vermont, 05482, US
+    tel: 1-800-408-7850
+    contact: https://onetreeplanted.org/pages/contact-us
+  ada: 17.3 # <- These must be numbers. Can be decimals though. See below
+  usd: 23 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1627997520 
+  files:
+    - PSYA/julyOneTreePlanted.jpg
+    - PSYA/Certificate.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1422597360094416905
+  # charity_tx_id: 
+  intermediate_txs:
+    - provider: PayPal # The canonical name of the provider you used
+      tx_id: 30T15131D29431845 # The transaction ID the provider gave you
