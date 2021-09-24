@@ -53,3 +53,25 @@
   files:
     - ONE/3_Sunnybrook_receipt 6/15/2021
     
+    
+- ticker: ONE
+
+  recipient: 
+    name: Kids With Cancer Donation Donation
+    address: 
+    tel: 
+    contact: rog.one.stakepool@gmail.com
+
+  ada: 25.00
+  usd: 52.71
+  timestamp: 1629341691
+
+  files:
+    - ONE/Kids With Cancer Donations 8/18/2021
+    
+ announcement_url: https://rogpool.com/donations/
+    
+ intermediate_txs:
+    - provider: Cardano
+      tx_id: 693db2444bc392f0501ffa8d7ed45c554329231f95bb37ed6262a7ce04186a19
+    
