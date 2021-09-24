@@ -35,7 +35,7 @@
   timestamp: 1581540300
 
   files:
-    - ONE/2_Sunnybrook_receipt 12/02/2020
+    - ONE/2_Sunnybrook_receipt 12/02/2020.pdf
         
     
 - ticker: ONE
@@ -51,7 +51,7 @@
   timestamp: 
 
   files:
-    - ONE/3_Sunnybrook_receipt 6/15/2021
+    - ONE/3_Sunnybrook_receipt 6/15/2021.pdf
     
     
 - ticker: ONE
@@ -67,7 +67,7 @@
   timestamp: 1629341691
 
   files:
-    - ONE/Kids With Cancer Donations 8/18/2021
+    - ONE/Kids_With_Cancer_Donations_8/18/2021.png
     
  announcement_url: https://rogpool.com/donations/
     
