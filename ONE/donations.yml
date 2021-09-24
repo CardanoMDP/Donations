@@ -14,9 +14,42 @@
     tel: +1 416-480-4483
     contact: foundation@sunnybrook.ca
 
-  ada: 2145
+  ada: 111.11
   usd: 10.00
   timestamp: 1606231680
 
   files:
     - ONE/1_Sunnybrook_receipt 11:24:2020.pdf
+    
+    
+- ticker: ONE
+
+  recipient: 
+    name: Sunnybrook Health Sciences Centre Foundation
+    address: 2075 Bayview Avenue, KGW-01 | Toronto, Ontario M4N 3M5
+    tel: +1 416-480-4483
+    contact: foundation@sunnybrook.ca
+
+  ada: 433.33
+  usd: 65.00
+  timestamp: 1581540300
+
+  files:
+    - ONE/2_Sunnybrook_receipt 12/02/2020
+        
+    
+- ticker: ONE
+
+  recipient: 
+    name: Sunnybrook Health Sciences Centre Foundation
+    address: 2075 Bayview Avenue, KGW-01 | Toronto, Ontario M4N 3M5
+    tel: +1 416-480-4483
+    contact: foundation@sunnybrook.ca
+
+  ada: 269.02
+  usd: 495.00
+  timestamp: 
+
+  files:
+    - ONE/3_Sunnybrook_receipt 6/15/2021
+    
