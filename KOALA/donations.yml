@@ -1,21 +1,10 @@
----
-
-# Notes: 
-#   - Frequency: all donation entries are single donations. If you donate 
-#                monthly to a charity you will have to add new entries here on
-#                a monthly basis.
-#   - General: Please remove comments before submitting.
-
-- ticker: TICKR
-  # ^ No POOL ID!??? Yes, the alliance would not allow duplicate tickers anyway
-  #                  and we can always pull the pool ID from the membership 
-  #                  JSONs history. Use upper case letters for the ticker.
+- ticker: KOALA
 
   recipient: 
-    name: Pencils of Promise
-    address: 1 Unicorn Road, 111th Floor, NY 10010, New York, USA
-    tel: +1 212 777 1337
-    contact: team@pencilsofpromise.com
+    name: Friends of the Koala inc
+    address: 23 Rifle Range Rd, East Lismore, NSW 2480, Australia
+    tel: +61 2 6621 4664
+    contact: manager@friendsofthekoala.org
 
   ada: 2145 # <- These must be numbers. Can be decimals though. See below
   usd: 265.3 # Only usd currency accepted, check on xe.com for exchange rate.
@@ -24,17 +13,10 @@
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
   files:
-  # ^ a list of files relating to the donation. Usualy photos or screenshots 
-  #   of the receipts.
-  #   Make sure to add only relative paths that begin from the root of the 
-  #   repo (they should include your Ticker name).
-  #   The paths are case sensitive (also for the Ticker name)
-    - TICKR/2020-09-02-TGB.png
-    - TICKR/2020-09-02-photo-of-delivery.png
-
-
-  ## The following properties are optional
-
+    - KOALA/AdoptionCertificate_1.jpg
+    - KOALA/AdoptionCertificate_2.jpg
+    - KOALA/receipt 1.PNG
+    - KOALA/receipt 2.PNG
 
   announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
   # ^ [OPTIONAL] A link to the announcement of your donation
