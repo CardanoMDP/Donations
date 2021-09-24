@@ -1,11 +1,8 @@
-
----
-
 - ticker: KOALA
   recipient: 
     name: Friends of the Koala inc
     address: 23 Rifle Range Rd, East Lismore, NSW 2480, Australia
-    tel: "+61266214664"
+    tel: +61266214664
     contact: supportakoala@friendsofthekoala.org
   ada: 1164.4
   usd: 190.38
@@ -19,7 +16,7 @@
   recipient: 
     name: Friends of the Koala inc
     address: 23 Rifle Range Rd, East Lismore, NSW 2480, Australia
-    tel: "+61266214664"
+    tel: +61266214664
     contact: supportakoala@friendsofthekoala.org
   ada: 162
   usd: 190.80
@@ -33,7 +30,7 @@
   recipient: 
     name: KOALA Fund Wallet
     address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
-    tel: 
+    tel: +12345
     contact: https://twitter.com/KOALA_Steve
   ada: 300
   usd: 390.66
@@ -46,7 +43,7 @@
   recipient: 
     name: KOALA Fund Wallet
     address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
-    tel: 
+    tel: +12345
     contact: https://twitter.com/KOALA_Steve
   ada: 448.7
   usd: 726.71
@@ -59,7 +56,7 @@
   recipient: 
     name: KOALA Fund Wallet
     address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
-    tel: 
+    tel: +12345
     contact: https://twitter.com/KOALA_Steve
   ada: 148.4
   usd: 217.20
@@ -72,7 +69,7 @@
   recipient: 
     name: KOALA Fund Wallet
     address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
-    tel: 
+    tel: +12345
     contact: https://twitter.com/KOALA_Steve
   ada: 600.719187
   usd: 791.57
@@ -85,7 +82,7 @@
   recipient: 
     name: KOALA Fund Wallet
     address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
-    tel: 
+    tel: +12345
     contact: https://twitter.com/KOALA_Steve
   ada: 800
   usd: 2355.36
@@ -98,7 +95,7 @@
   recipient: 
     name: KOALA Fund Wallet
     address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
-    tel: 
+    tel: +12345
     contact: https://twitter.com/KOALA_Steve
   ada: 520
   usd: 1421.26
