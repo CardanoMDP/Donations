@@ -12,7 +12,7 @@
   timestamp: 1608173207
   files:
     - KOALA/AdoptionCertificate_1.jpg
-    - KOALA/receipt 1.PNG
+    - KOALA/receipt1.PNG
   announcement_url: https://koalapool.org/pool-budget.html
       
 - ticker: KOALA
@@ -26,7 +26,7 @@
   timestamp: 1616813207
   files:
     - KOALA/AdoptionCertificate_2.jpg
-    - KOALA/receipt 2.PNG
+    - KOALA/receipt2.PNG
   announcement_url: https://koalapool.org/pool-budget.html
   
 - ticker: KOALA
@@ -39,7 +39,7 @@
   usd: 390.66
   timestamp: 1616128619
   files:
-    - KOALA/fund deposit1.png
+    - KOALA/funddeposit1.png
   announcement_url: https://koalapool.org/pool-budget.html
   
 - ticker: KOALA
@@ -52,7 +52,7 @@
   usd: 726.71
   timestamp: 1620435277
   files:
-    - KOALA/fund deposit2.png
+    - KOALA/funddeposit2.png
   announcement_url: https://koalapool.org/pool-budget.html
   
 - ticker: KOALA
@@ -65,7 +65,7 @@
   usd: 217.20
   timestamp: 1621666711
   files:
-    - KOALA/fund deposit3.png
+    - KOALA/funddeposit3.png
   announcement_url: https://koalapool.org/pool-budget.html
   
 - ticker: KOALA
@@ -78,7 +78,7 @@
   usd: 791.57
   timestamp: 1627794080
   files:
-    - KOALA/fund deposit4.png
+    - KOALA/funddeposit4.png
   announcement_url: https://koalapool.org/pool-budget.html
   
 - ticker: KOALA
@@ -91,7 +91,7 @@
   usd: 2355.36
   timestamp: 1630056587
   files:
-    - KOALA/fund deposit5.png
+    - KOALA/funddeposit5.png
   announcement_url: https://koalapool.org/pool-budget.html
   
 - ticker: KOALA
@@ -104,5 +104,5 @@
   usd: 1421.26
   timestamp: 1630299417
   files:
-    - KOALA/fund deposit6.png
+    - KOALA/funddeposit6.png
   announcement_url: https://koalapool.org/pool-budget.html
