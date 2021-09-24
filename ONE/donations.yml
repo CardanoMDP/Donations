@@ -1,0 +1,23 @@
+---
+
+# Notes: 
+#   - Frequency: all donation entries are single donations. If you donate 
+#                monthly to a charity you will have to add new entries here on
+#                a monthly basis.
+#   - General: Please remove comments before submitting.
+
+- ticker: ONE
+
+  recipient: 
+    name: Sunnybrook Health Sciences Centre Foundation
+    address: 2075 Bayview Avenue, KGW-01 | Toronto, Ontario M4N 3M5
+    tel: +1 416-480-4483
+    contact: foundation@sunnybrook.ca
+
+  ada: 2145
+  usd: 10.00
+  timestamp: 1606231680
+
+  files:
+    - TICKR/2020-09-02-TGB.png
+    - TICKR/2020-09-02-photo-of-delivery.png
