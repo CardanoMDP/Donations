@@ -30,13 +30,26 @@
   
   - ticker: KOALA
   recipient: 
-    name: Friends of the Koala inc
-    address: 23 Rifle Range Rd, East Lismore, NSW 2480, Australia
-    tel: "+61266214664"
-    contact: supportakoala@friendsofthekoala.org
-  ada: 162
-  usd: 190.80
-  timestamp: 1616813207
+    name: KOALA Fund Wallet
+    address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
+    tel: 
+    contact: https://twitter.com/KOALA_Steve
+  ada: 300
+  usd: 
+  timestamp: 1616128619
   files:
-    - KOALA/AdoptionCertificate_2.jpg
+    - KOALA/fund deposit1.png
+  announcement_url: https://koalapool.org/pool-budget.html
+  
+    - ticker: KOALA
+  recipient: 
+    name: KOALA Fund Wallet
+    address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
+    tel: 
+    contact: https://twitter.com/KOALA_Steve
+  ada: 300
+  usd: 
+  timestamp: 1616128619
+  files:
+    - KOALA/fund deposit2.png
   announcement_url: https://koalapool.org/pool-budget.html
