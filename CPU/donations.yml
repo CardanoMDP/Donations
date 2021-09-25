@@ -226,7 +226,24 @@
   custom:
     donationType: animals
 
-
+- ticker: CPU
+  recipient:
+    name: Orangutan Outreach
+    address: P.O. Box 833 Hudson, NY 12534, USA
+    tel: 1 (917) 328 7934
+    contact: info@redapes.org
+  ada: 100
+  usd: 233.9
+  timestamp: 1632565880
+  files:
+    - CPU/25-09-2021.png
+  charity_tx_id: 65ccea57242e985eeca3f8e52c5aa5cff09183669d7b5e5cc773077ffec01f9f
+  announcement_url: 
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: 65ccea57242e985eeca3f8e52c5aa5cff09183669d7b5e5cc773077ffec01f9f
+  custom:
+    donationType: animals
 
 
 
