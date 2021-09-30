@@ -14,7 +14,7 @@
     - GAIA/2020-12-31-OTP.jpg
   charity_tx_id: 46-4664562
   
-  - ticker: GAIA
+- ticker: GAIA
   announcement_url: *ann
   recipient: *otp
   ada: 321.02
@@ -24,7 +24,7 @@
     - GAIA/2020-12-04-OTP.jpg
   charity_tx_id: 46-4664562
 
-  - ticker: GAIA
+- ticker: GAIA
   announcement_url: &ann https://www.gaiastakepool.com/charities
   recipient: &toc
     name: The Ocean Cleanup North Pacific Foundation
@@ -38,7 +38,7 @@
     - GAIA/2020-12-10-TOC.jpg
   charity_tx_id: 81-5132355
 
-  - ticker: GAIA
+- ticker: GAIA
   announcement_url: *ann
   recipient: *toc
   ada: 125
