@@ -63,3 +63,16 @@
   files:
     - IPIB/STC_August21.pdf
   charity_tx_id: 745b7ff708c8e6e21ded76e8ecce545c239626e8adf425979c604b0c1b94f497
+
+- ticker: IPIB
+  announcement_url: *ann
+  recipient: *stc 
+  ada: 460
+  usd: 1150
+  timestamp: 1631259903
+  files:
+    - IPIB/STC_September21.pdf
+  charity_tx_id: https://adapay.finance/pay/0eaedbbf-4d91-4ff4-a295-3fa110fcedcb
+  intermediate_txs:
+    - provider: Cardano
+      tx_id: 4356009df309f7a40cc6107d953640026c52888956f9dd868ee56cde3990ea0d
