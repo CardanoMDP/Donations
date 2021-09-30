@@ -13,3 +13,13 @@
   files:
     - GAIA/2020-12-31-OTP.jpg
   charity_tx_id: 46-4664562
+
+- ticker: GAIA
+  announcement_url: *ann 
+  recipient: *otp
+  ada: 125
+  usd: 50.00
+  timestamp: 1607080195
+  files:
+    - GAIA/2020-12-04-OTP.jpg
+  charity_tx_id: "145710"
