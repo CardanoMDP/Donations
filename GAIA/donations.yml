@@ -13,13 +13,37 @@
   files:
     - GAIA/2020-12-31-OTP.jpg
   charity_tx_id: 46-4664562
-
+  
 - ticker: GAIA
-  announcement_url: *ann 
+  announcement_url: *ann
   recipient: *otp
-  ada: 125
+  ada: 321.02
   usd: 50.00
-  timestamp: 1607080195
+  timestamp: 1607130000
   files:
     - GAIA/2020-12-04-OTP.jpg
-  charity_tx_id: "145710"
+  charity_tx_id: 46-4664562
+
+- ticker: GAIA
+  announcement_url: &ann https://www.gaiastakepool.com/charities
+  recipient: &toc
+    name: The Ocean Cleanup North Pacific Foundation
+    address: 535 Mission Street, San Francisco, CA 94105, USA
+    tel: N/A , https://theoceancleanup.com/north-pacific-foundation/
+    contact: press@theoceancleanup.com
+  ada: 346.62
+  usd: 50.00
+  timestamp: 1607648400
+  files:
+    - GAIA/2020-12-10-TOC.jpg
+  charity_tx_id: 81-5132355
+
+- ticker: GAIA
+  announcement_url: *ann
+  recipient: *toc
+  ada: 125
+  usd: 23.00
+  timestamp: 1609462800
+  files:
+    - GAIA/2020-12-31-OTP.jpg
+  charity_tx_id: 81-5132355
