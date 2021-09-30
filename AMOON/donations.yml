@@ -50,10 +50,9 @@
   usd: 90
   timestamp: 1631088240
   files:
-    - AMOON/Save_The_Children_4th_Donation_20210924.png
+      - AMOON/Save_The_Children_4th_Donation_20210908.png
   announcement_url: https://adamoon.net/donations.html
   charity_tx_proof_url: https://adapay.finance/pay/29be75e0-48b5-479a-9ed0-95bb27f4ba48
-
 
 - ticker: AMOON
   recipient:
@@ -98,3 +97,4 @@
     - AMOON/Save_The_Children_7th_Donation_20210908.png
   announcement_url: https://adamoon.net/donations.html
   charity_tx_proof_url: https://adapay.finance/pay/dcb89777-a13c-40cf-89e1-bb8684f39ea7
+
