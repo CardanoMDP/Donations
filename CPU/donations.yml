@@ -245,7 +245,24 @@
   custom:
     donationType: animals
 
-
+- ticker: CPU
+  recipient:
+    name: Children’s Cancer Association
+    address: Ste 140, Portland, Oregon, 97209 United States
+    tel: (503) 244-3141
+    contact: https://joyrx.org/contact/
+  ada: 100
+  usd: 225.4
+  timestamp: 1633186039
+  files:
+    - CPU/02-10-2021.png
+  charity_tx_id: 8a3af7997496bf052301595bdcf865a17aeaa6250186c2366a43410c77158e64
+  announcement_url: 
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: 8a3af7997496bf052301595bdcf865a17aeaa6250186c2366a43410c77158e64
+  custom:
+    donationType: community
 
 
 
