@@ -61,3 +61,44 @@
   intermediate_txs:
     - provider: PayPal # The canonical name of the provider you used
       tx_id: 30T15131D29431845 # The transaction ID the provider gave you
+
+
+- ticker: PSYA
+  recipient: 
+    name: TheraPsil
+    address: Victoria, British Columbia
+    tel: "" 
+    contact: info@therapsil.ca 
+  ada: 281.2 # <- These must be numbers. Can be decimals though. See below
+  usd: 674.51 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1631745180 
+  files:
+    - PSYA/TherapsilDonate.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1438551692119887876
+  charity_tx_proof_url: https://therapsil.ca/donate/
+  intermediate_txs:
+    - provider: ChangeNow # The canonical name of the provider you used
+      tx_id: 4e90a7e95ee20e # The transaction ID the provider gave you 
+    - provider: Cardano
+      tx_id: 3e86bda50d493c2104e57a2e8a1f963dc3ebcfd0b50668ed00a0cefbea8cbbc2
+    - provider: BTC
+      tx_id: e142ac5a336cd04864ec8afb677734a9dbe60b3f3256d336a83064277c14beb8
+
+
+- ticker: PSYA
+  recipient: 
+    name: One Tree Planted
+    address: 145 Pine Haven Shores Rd 1000D Shelburne, Vermont, 05482, US
+    tel: 1-800-408-7850
+    contact: https://onetreeplanted.org/pages/contact-us
+  ada: 70.3 # <- These must be numbers. Can be decimals though. See below
+  usd: 200 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1630960620 
+  files:
+    - PSYA/OneTreePlantedAugust.jpg
+    - PSYA/OneTreePlantedAugustConversion.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1434988194685140995
+  # charity_tx_id: 
+  intermediate_txs:
+    - provider: PayPal # The canonical name of the provider you used
+      tx_id: 5LE851170A893102E # The transaction ID the provider gave you

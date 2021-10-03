@@ -13,6 +13,42 @@
     tel: +44 (0)20 3272 0300
     contact: info@savethechildren.org
 
+  ada: 544
+  usd: 1512
+  timestamp: 1630513695   
+
+  files:
+    - A4G/2021-09-01-transaction-confirmation.jpg
+    - A4G/2021-09-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 164.9
+  usd: 219
+  timestamp: 1627902000   
+
+  files:
+    - A4G/2021-08-02-transaction-confirmation.jpg
+    - A4G/2021-08-02-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
   ada: 38
   usd: 51
   timestamp: 1625118441   
