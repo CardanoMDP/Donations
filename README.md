@@ -59,7 +59,7 @@ For a documented example see [example.donations.yml](./example.donations.yml).
 For a realworld example see the [SPEC](./SPEC) folder.
 
 
-## Validating Dontations
+## Validating Donations
 
 If you have been given write permissions to `CardanoMDP/Donations` you can now aprove Pull Requests. To do this, please keep the following things in mind.
 
