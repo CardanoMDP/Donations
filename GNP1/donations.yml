@@ -321,3 +321,45 @@
      - GNP1/Wavelength_28_Sep_2021_2021.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "290775965"
+  
+- ticker: GNP1 
+  recipient: 
+    name: ReThink Mental Illness
+    address: 89 Albert Embankment, London SE1 7TP
+    tel: +44 300 5000927
+    contact: info@rethink.org
+  ada: 61.26
+  usd: 136.00
+  timestamp: 1633531200
+  files:
+     - GNP1/ReThink_6_Oct_2021.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Provided"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Strongminds
+    address: 515 Valley Street Suite 200 Maplewood NJ 07040 USA
+    tel: +1 862-222-4906
+    contact: Rasa@strongminds.org
+  ada: 61.26
+  usd: 136.00
+  timestamp: 1633530600 
+  files:
+     - GNP1/Strongminds_6a_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "#1231-6388"
+  
+- ticker: GNP1 
+  recipient: 
+    name: World Federation for Mental Health
+    address: 6800 Park Ten Blvd, Suite 220-N San Antonio, Texas 78213 U.S.A
+    tel: 
+    contact: info@wfmh.global
+  ada: 61.26
+  usd: 136.00
+  timestamp: 1633529880
+  files:
+     - GNP1/WFMH_6_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "5608605559584047"
