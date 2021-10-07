@@ -251,3 +251,45 @@
      - GNP1/BAATN.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "Non Supplied"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Sport in Mind
+    address: Rivermead Leisure Centre Richmond Ave Reading Berks RG1 8EQ
+    tel: +44 7341 267740
+    contact:  info@sportinmind.org
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1627830000 
+  files:
+     - GNP1/Sport_in_Mind_6_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "ch_3JhbaiCnW9jqvZdw1V8AjTAt"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Black Dog Institute
+    address: Hospital Road, Prince of Wales Hospital, Randwick NSW 2031 Australia
+    tel: +61 2 9382 4530
+    contact: blackdog@blackdog.org.au 
+  ada: 28.20
+  usd: 74.60
+  timestamp: 1629700920
+  files:
+     - GNP1/Black_Dog_23_Aug_2021.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "8641431"
+  
+- ticker: GNP1 
+  recipient: 
+    name: National Suicide Prevention Alliance
+    address: Not Provided
+    tel: Not Provided (Only crisis line numbers)
+    contact: Only Webpage Contact Forms provided
+  ada: 49.47
+  usd: 137.48
+  timestamp: 1630228210
+  files:
+     - GNP1/NSPA.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "IDN036434118000"
