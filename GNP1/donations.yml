@@ -258,13 +258,13 @@
     address: Rivermead Leisure Centre Richmond Ave Reading Berks RG1 8EQ
     tel: +44 7341 267740
     contact:  info@sportinmind.org
-  ada: 62.50
-  usd: 136.00
-  timestamp: 1627830000 
+  ada: 62.70
+  usd: 81.60
+  timestamp: 1627826460 
   files:
-     - GNP1/Sport_in_Mind_6_Oct_2021_wp.png
+     - GNP1/Sport in Mind.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
-  charity_tx_id: "ch_3JhbaiCnW9jqvZdw1V8AjTAt"
+  charity_tx_id: "ch_1JJiwZCnW9jqvZdw0b24hnoU"
   
 - ticker: GNP1 
   recipient: 
@@ -363,3 +363,17 @@
      - GNP1/WFMH_6_Oct_2021_wp.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "5608605559584047"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Sport in Mind
+    address: Rivermead Leisure Centre Richmond Ave Reading Berks RG1 8EQ
+    tel: +44 7341 267740
+    contact:  info@sportinmind.org
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1633528860
+  files:
+     - GNP1/Sport_in_Mind_6_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "ch_3JhbaiCnW9jqvZdw1V8AjTAt"
