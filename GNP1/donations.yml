@@ -377,3 +377,17 @@
      - GNP1/Sport_in_Mind_6_Oct_2021_wp.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "ch_3JhbaiCnW9jqvZdw1V8AjTAt"
+  
+- ticker: GNP1 
+  recipient: 
+    name: BAATN
+    address: 62 Hale End Road, London, E17 4BQ
+    tel: +44 20 3600 0712
+    contact:  administrator@baatn.org.uk
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1633531320 
+  files:
+     - GNP1/BAATN_6_Oct_2021.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Supplied"
