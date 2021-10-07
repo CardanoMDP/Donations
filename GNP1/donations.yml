@@ -283,9 +283,9 @@
 - ticker: GNP1 
   recipient: 
     name: National Suicide Prevention Alliance
-    address: Not Provided
-    tel: Not Provided (Only crisis line numbers)
-    contact: Only Webpage Contact Forms provided
+    address: The Upper Mill, Kingston Road, Ewell, Surrey KT17 2AF
+    tel: +44 20 8394 8275
+    contact: info@nspa.org.uk
   ada: 49.47
   usd: 137.48
   timestamp: 1630228210
@@ -293,3 +293,31 @@
      - GNP1/NSPA.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "IDN036434118000"
+  
+- ticker: GNP1 
+  recipient: 
+    name: ReThink Mental Illness
+    address: 89 Albert Embankment, London SE1 7TP
+    tel: +44 300 5000927
+    contact: info@rethink.org
+  ada: 47.80
+  usd: 108.00
+  timestamp: 1632474610
+  files:
+     - GNP1/ReThink Mental Illness.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Provided"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Wavelength
+    address: 159a High Street Hornchurch Essex RM11 3YB
+    tel: Non Provided (Office closed due to Covid)
+    contact: info@wavelength.org.uk
+  ada: 49.87
+  usd: 103.72
+  timestamp: 1632820210
+  files:
+     - GNP1/Wavelength_28_Sep_2021_2021.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "290775965"
