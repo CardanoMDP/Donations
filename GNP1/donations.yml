@@ -391,3 +391,47 @@
      - GNP1/BAATN_6_Oct_2021.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "Non Supplied"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Anxiety UK
+    address: Nunes House 447 Chester Road Manchester M16 9HA
+    tel: +44 161 2267727
+    contact:  fundraising@beateatingdisorders.org.uk
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1633527120 
+  files:
+     - GNP1/Anxiety_UK_6_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "7H568625YS6276222"
+  
+- ticker: GNP1
+  recipient: 
+    name: Young Minds
+    address: 4th Floor, India House, YoungMinds, Curlew St, London SE1 2ND
+    tel: +44 20 7089 5050
+    contact: fundraising@youngminds.org.uk
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1633526100
+  files:
+     - GNP1/Young_Minds_6_Oct_2021.png  
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Y4429"
+  
+- ticker: GNP1 
+  recipient: 
+    name: OCD UK
+    address: Harvest Barn Chevin Green Farm Chevin Road Belper Derbyshire DE56 2UN
+    tel: +44 800 0487012
+    contact: office@.ocduk.org
+  ada: 62.50
+  usd: 136
+  timestamp: 1633525020 
+  files:
+     - GNP1/OCD_6_Oct_2021_wp.png 
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "#31054"
+  
+  
