@@ -107,6 +107,8 @@
 - ticker: PSYA
   recipient: 
     name: Veritree - Verified Global Restoration Projects
+    address: ""
+    tel: ""
     contact: https://ito.veritree.com/
   ada: 55 # <- These must be numbers. Can be decimals though. See below
   usd: 124 # Only usd currency accepted, check on xe.com for exchange rate.
