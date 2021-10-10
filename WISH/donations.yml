@@ -1,5 +1,5 @@
 - ticker: WISH
-  recipient: 
+  recipient: &aka
     name: Akaraka Limited
     address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
     tel: +65 9640 6890
@@ -10,7 +10,7 @@
   files:
     - WISH/20210406Akaraka-DBSReceipt.jpg
     - WISH/20210406Akaraka-Confirmation.jpg
-  announcement_url: https://blockchainlens.wordpress.com/2021/04/07/first-donation-by-wish-pool/
+  announcement_url: &ann https://blockchainlens.wordpress.com/donations/
   intermediate_txs:
     - provider: DBS
       tx_id: MBI29176257837L47
@@ -77,7 +77,34 @@
   timestamp: 1628381160
   files:
     - WISH/20210808Akaraka-DBSReceipt.jpg
+    - WISH/20210808Akaraka-Confirmation.jpg
   announcement_url: https://blockchainlens.wordpress.com/2021/08/09/charity-donations-and-pool-updates/
   intermediate_txs:
     - provider: DBS
       tx_id: IMBI332928xxxxC667499769166
+  
+  - ticker: WISH
+  recipient: *aka
+  ada: 15.70
+  usd: 37.20 # 50 SGD donated for Sep 21
+  timestamp: 1631599320
+  files:
+    - WISH/20210914Akaraka-DBSReceipt.jpg
+    - WISH/20210914Akaraka-Confirmation.jpg
+  announcement_url: *ann
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI34557278854M34
+      
+  - ticker: WISH
+  recipient: *aka
+  ada: 16.55
+  usd: 36.89 # 50 SGD donated for Oct 21
+  timestamp: 1633824660
+  files:
+    - WISH/20211010Akaraka-DBSReceipt.PNG
+    - WISH/20211010Akaraka-Confirmation.PNG
+  announcement_url: *ann
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI35561721664N21
