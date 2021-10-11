@@ -264,6 +264,28 @@
   custom:
     donationType: community
 
+- ticker: CPU
+  recipient:
+    name: SolarBuddy
+    address: Australia, 36 Wyandra St. Newstead,QLD 4006
+    tel: +61 (0)7 3257 7380
+    contact: https://solarbuddy.org/enquire-now
+  ada: 100
+  usd: 213.91
+  timestamp: 1633986269
+  files:
+    - CPU/11-10-2021.png
+  charity_tx_id: 612eed234db2dba05f044844961c3f82370b9cd9dc246b3f34994bf2b7cfa5e2
+  announcement_url: 
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: 612eed234db2dba05f044844961c3f82370b9cd9dc246b3f34994bf2b7cfa5e2
+  custom:
+    donationType: community
+
+
+
+
 
 
 
