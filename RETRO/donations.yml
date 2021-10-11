@@ -110,7 +110,7 @@
 
   charity_tx_id: i1348
   
-  - ticker: RETRO
+- ticker: RETRO
   recipient: 
     name: Cure Cancer Australia Foundation
     address: PO BOX A2434, Sydney South PO NSW 1235 Australia
