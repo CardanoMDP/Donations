@@ -2,8 +2,8 @@
          
   recipient: 
     name: Coin Center
-    address: Washington D.C., USA
-    tel: ----
+    address: 700 K Street NW, Suite 300, Washington D.C., 20001 USA
+    tel: 202-804-6013
     contact: info@coincenter.org
 
   ada: 50
@@ -13,4 +13,22 @@
   #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
 
   files: RADAR/RADAR Coin Center Sept 2021.txt
+ 
+ 
+ - ticker: RADAR
+         
+  recipient: 
+    name: Coin Center
+    address: 700 K Street NW, Suite 300, Washington D.C., 20001 USA
+    tel: 202-804-6013
+    contact: info@coincenter.org
+
+  ada: 151
+  usd: 337.13
+  timestamp:	 
+  # ^ This is a unix timestamp of the moment you donated.
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+
+  files: RADAR/RADAR Coin Center Oct 2021.pdf
+ 
  
