@@ -93,7 +93,7 @@
   custom:
     gbp: 50
   
-  - ticker: WISH
+- ticker: WISH
   recipient: *aka
   ada: 15.70
   usd: 37.20 # 50 SGD donated for Sep 21
