@@ -96,7 +96,7 @@
 - ticker: WISH
   recipient: *aka
   ada: 15.70
-  usd: 37.20 # 50 SGD donated for Sep 21
+  usd: 37.20
   timestamp: 1631599320
   files:
     - WISH/20210914Akaraka-DBSReceipt.jpg
@@ -105,6 +105,9 @@
   intermediate_txs:
     - provider: DBS
       tx_id: MBI34557278854M34
+  custom:
+    comment: "50 SGD donated for Sep 21"
+    
       
   - ticker: WISH
   recipient: *aka
@@ -118,4 +121,5 @@
   intermediate_txs:
     - provider: DBS
       tx_id: MBI35561721664N21
-
+  custom:
+    comment: "50 SGD donated for Oct 21"
