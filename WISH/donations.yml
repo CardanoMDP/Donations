@@ -5,7 +5,7 @@
     tel: +65 9640 6890
     contact: info@akaraka.org.sg
   ada: 32.26
-  usd: 37.75 # 50 SGD donated
+  usd: 37.75
   timestamp: 1617715560 
   files:
     - WISH/20210406Akaraka-DBSReceipt.jpg
@@ -14,6 +14,8 @@
   intermediate_txs:
     - provider: DBS
       tx_id: MBI29176257837L47
+  custom:
+    gbp: 50
 
 - ticker: WISH
   recipient: 
@@ -22,7 +24,7 @@
     tel: +65 6337 4119
     contact: info@charis-singapore.org
   ada: 24.81
-  usd: 37.75 # 50 SGD donated
+  usd: 37.75
   timestamp: 1619839740 
   files:
     - WISH/20210501Charis-DBSReceipt.jpg
@@ -31,6 +33,8 @@
   intermediate_txs:
     - provider: DBS
       tx_id: MBI29929594075M93
+  custom:
+    gbp: 50
       
 - ticker: WISH
   recipient: 
@@ -39,7 +43,7 @@
     tel: +65 9640 6890
     contact: info@akaraka.org.sg
   ada: 23.14
-  usd: 34.01 # 50 SGD donated
+  usd: 34.01
   timestamp: 1623573120 
   files:
     - WISH/20210613Akaraka-DBSReceipt.jpg
@@ -48,6 +52,8 @@
   intermediate_txs:
     - provider: DBS
       tx_id: MBI31326278736N55
+  custom:
+    gbp: 50
 
 - ticker: WISH
   recipient: 
@@ -56,7 +62,7 @@
     tel: +65 9640 6890
     contact: info@akaraka.org.sg
   ada: 47.25
-  usd: 36.80 # 50 SGD donated
+  usd: 36.80
   timestamp: 1625871420 
   files:
     - WISH/20210710Akaraka-DBSReceipt.jpg
@@ -65,6 +71,8 @@
   intermediate_txs:
     - provider: DBS
       tx_id: MBI32300625927M24
+  custom:
+    gbp: 50
 
 - ticker: WISH
   recipient: 
@@ -73,7 +81,7 @@
     tel: +65 9640 6890
     contact: info@akaraka.org.sg
   ada: 47.25
-  usd: 36.80 # 50 SGD donated
+  usd: 36.80
   timestamp: 1628381160
   files:
     - WISH/20210808Akaraka-DBSReceipt.jpg
@@ -82,6 +90,8 @@
   intermediate_txs:
     - provider: DBS
       tx_id: IMBI332928xxxxC667499769166
+  custom:
+    gbp: 50
   
   - ticker: WISH
   recipient: *aka
@@ -108,3 +118,4 @@
   intermediate_txs:
     - provider: DBS
       tx_id: MBI35561721664N21
+
