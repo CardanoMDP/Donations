@@ -56,4 +56,3 @@
   intermediate_txs:
     - provider: Cardano
       tx_id: 693db2444bc392f0501ffa8d7ed45c554329231f95bb37ed6262a7ce04186a19
-    
