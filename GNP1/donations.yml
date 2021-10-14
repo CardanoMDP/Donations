@@ -251,3 +251,185 @@
      - GNP1/BAATN.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "Non Supplied"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Sport in Mind
+    address: Rivermead Leisure Centre Richmond Ave Reading Berks RG1 8EQ
+    tel: +44 7341 267740
+    contact:  info@sportinmind.org
+  ada: 62.70
+  usd: 81.60
+  timestamp: 1627826460 
+  files:
+     - GNP1/Sport_in_Mind.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "ch_1JJiwZCnW9jqvZdw0b24hnoU"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Black Dog Institute
+    address: Hospital Road, Prince of Wales Hospital, Randwick NSW 2031 Australia
+    tel: +61 2 9382 4530
+    contact: blackdog@blackdog.org.au 
+  ada: 28.20
+  usd: 74.60
+  timestamp: 1629700920
+  files:
+     - GNP1/Black_Dog_23_Aug_2021.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "8641431"
+  
+- ticker: GNP1 
+  recipient: 
+    name: National Suicide Prevention Alliance
+    address: The Upper Mill, Kingston Road, Ewell, Surrey KT17 2AF
+    tel: +44 20 8394 8275
+    contact: info@nspa.org.uk
+  ada: 49.47
+  usd: 137.48
+  timestamp: 1630228210
+  files:
+     - GNP1/NSPA.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "IDN036434118000"
+  
+- ticker: GNP1 
+  recipient: 
+    name: ReThink Mental Illness
+    address: 89 Albert Embankment, London SE1 7TP
+    tel: +44 300 5000927
+    contact: info@rethink.org
+  ada: 47.80
+  usd: 108.00
+  timestamp: 1632474610
+  files:
+     - GNP1/ReThink_Mental_Illness.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Provided"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Wavelength
+    address: 159a High Street Hornchurch Essex RM11 3YB
+    tel: Non Provided (Office closed due to Covid)
+    contact: info@wavelength.org.uk
+  ada: 49.87
+  usd: 103.72
+  timestamp: 1632820210
+  files:
+     - GNP1/Wavelength_28_Sep_2021_2021.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "290775965"
+  
+- ticker: GNP1 
+  recipient: 
+    name: ReThink Mental Illness
+    address: 89 Albert Embankment, London SE1 7TP
+    tel: +44 300 5000927
+    contact: info@rethink.org
+  ada: 61.26
+  usd: 136.00
+  timestamp: 1633531200
+  files:
+     - GNP1/ReThink_6_Oct_2021.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Provided"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Strongminds
+    address: 515 Valley Street Suite 200 Maplewood NJ 07040 USA
+    tel: +1 862-222-4906
+    contact: Rasa@strongminds.org
+  ada: 61.26
+  usd: 136.00
+  timestamp: 1633530600 
+  files:
+     - GNP1/Strongminds_6a_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "#1231-6388"
+  
+- ticker: GNP1 
+  recipient: 
+    name: World Federation for Mental Health
+    address: 6800 Park Ten Blvd, Suite 220-N San Antonio, Texas 78213 U.S.A
+    tel: 0000
+    contact: info@wfmh.global
+  ada: 61.26
+  usd: 136.00
+  timestamp: 1633529880
+  files:
+     - GNP1/WFMH_6_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "5608605559584047"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Sport in Mind
+    address: Rivermead Leisure Centre Richmond Ave Reading Berks RG1 8EQ
+    tel: +44 7341 267740
+    contact:  info@sportinmind.org
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1633528860
+  files:
+     - GNP1/Sport_in_Mind_6_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "ch_3JhbaiCnW9jqvZdw1V8AjTAt"
+  
+- ticker: GNP1 
+  recipient: 
+    name: BAATN
+    address: 62 Hale End Road, London, E17 4BQ
+    tel: +44 20 3600 0712
+    contact:  administrator@baatn.org.uk
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1633531320 
+  files:
+     - GNP1/BAATN_6_Oct_2021.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Supplied"
+  
+- ticker: GNP1 
+  recipient: 
+    name: Anxiety UK
+    address: Nunes House 447 Chester Road Manchester M16 9HA
+    tel: +44 161 2267727
+    contact:  fundraising@beateatingdisorders.org.uk
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1633527120 
+  files:
+     - GNP1/Anxiety_UK_6_Oct_2021_wp.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "7H568625YS6276222"
+  
+- ticker: GNP1
+  recipient: 
+    name: Young Minds
+    address: 4th Floor, India House, YoungMinds, Curlew St, London SE1 2ND
+    tel: +44 20 7089 5050
+    contact: fundraising@youngminds.org.uk
+  ada: 62.50
+  usd: 136.00
+  timestamp: 1633526100
+  files:
+     - GNP1/Young_Minds_6_Oct_2021.png  
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Y4429"
+  
+- ticker: GNP1 
+  recipient: 
+    name: OCD UK
+    address: Harvest Barn Chevin Green Farm Chevin Road Belper Derbyshire DE56 2UN
+    tel: +44 800 0487012
+    contact: office@.ocduk.org
+  ada: 62.50
+  usd: 136
+  timestamp: 1633525020 
+  files:
+     - GNP1/OCD_6_Oct_2021_wp.png 
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "#31054"
