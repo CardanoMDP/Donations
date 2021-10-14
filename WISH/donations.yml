@@ -92,7 +92,7 @@
       tx_id: IMBI332928xxxxC667499769166
   custom:
     gbp: 50
-  
+
 - ticker: WISH
   recipient: *aka
   ada: 15.70
@@ -107,9 +107,8 @@
       tx_id: MBI34557278854M34
   custom:
     comment: "50 SGD donated for Sep 21"
-    
       
-  - ticker: WISH
+- ticker: WISH
   recipient: *aka
   ada: 16.55
   usd: 36.89 # 50 SGD donated for Oct 21
