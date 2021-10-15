@@ -36,4 +36,21 @@
   intermediate_txs:
     - provider: Paypal
       tx_id: 9YK15008RR878710Y
-      
+
+- ticker: NORB
+  
+  recipient: 
+    name: Animal Welfare Institute
+    address: 900 Pennsylvania Avenue SE, Washington, DC 20003
+    tel: ​+1-202-337-2332
+    contact: donations@awionline.org
+
+  ada: 24.038
+  usd: 50
+  timestamp: 1633026650 
+
+  files:
+    - NORB/20210930_AWI.png
+
+  announcement_url: https://norbpool.club/donations/3
+  charity_tx_id: 32313
