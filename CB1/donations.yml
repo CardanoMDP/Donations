@@ -1,6 +1,6 @@
 ---
 
-- ticker: CB1
+- ticker: CBROS
   recipient: 
     name: Médecins sans frontières
     address: Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU
@@ -10,10 +10,10 @@
   usd: 41.14
   timestamp: 1623819600
   files:
-    - CB1/MSF_2021_Q2.pdf
+    - CBROS/MSF_2021_Q2.pdf
   announcement_url: https://www.coudrebros.eu/#donations
 
-- ticker: CB1
+- ticker: CBROS
   recipient: 
     name: Auto*Mat, z. s.
     address: Vodičkova 36, 110 00 Praha 1, Czech Republic, EU
@@ -23,10 +23,10 @@
   usd: 13.73
   timestamp: 1623733200
   files:
-    - CB1/AutoMat_2021_Q2.pdf
+    - CBROS/AutoMat_2021_Q2.pdf
   announcement_url: https://www.coudrebros.eu/#donations
 
-- ticker: CB1
+- ticker: CBROS
   recipient: 
     name: Médecins sans frontières
     address: Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU
@@ -36,10 +36,10 @@
   usd: 41.14
   timestamp: 1631768400
   files:
-    - CB1/MSF_2021_Q3.pdf
+    - CBROS/MSF_2021_Q3.pdf
   announcement_url: https://www.coudrebros.eu/#donations
 
-- ticker: CB1
+- ticker: CBROS
   recipient: 
     name: Auto*Mat, z. s.
     address: Vodičkova 36, 110 00 Praha 1, Czech Republic, EU
@@ -49,7 +49,7 @@
   usd: 13.73
   timestamp: 1631682000
   files:
-    - CB1/AutoMat_2021_Q3.pdf
+    - CBROS/AutoMat_2021_Q3.pdf
   announcement_url: https://www.coudrebros.eu/#donations
 
 
