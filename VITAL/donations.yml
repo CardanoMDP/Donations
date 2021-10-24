@@ -32,3 +32,18 @@
   files:
     - VITAL/lobby16/2021-06-25/PaymentConfirmation.pdf
 
+- ticker: VITAL
+  announcement_url: *vitalmission
+  recipient: &veritree
+    name: Veritree Cardano Forest
+    address: 230-1275 Venables Street Vancouver, BC V6A 2E4
+    tel: 1-833-520-1145
+    contact: info@veritree.com
+  ada: 500
+  usd: 1060
+  timestamp: 1635036960
+  files:
+    - VITAL/lobby16/2021-06-25/PaymentConfirmation.pdf
+  intermediate_txs:
+    - provider: Cardano
+      tx_id: 6938a5a4c6bf58cc7b6dc73cb8100ed1c91ff1039a1bd29753c82dfc36792d5b
