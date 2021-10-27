@@ -15,3 +15,42 @@
 
   announcement_url: https://norbpool.club/donations/1
   charity_tx_id: 132475342
+
+- ticker: NORB
+  
+  recipient: 
+    name: African Wildlife Foundation
+    address: 1100 New Jersey Ave SE, Suite 900 Washington, DC 20003
+    tel: ​+1-888​-494​-5354​
+    contact: africanwildlife@awf.org
+
+  ada: 17.92114695
+  usd: 50
+  timestamp: 1630327800 
+
+  files:
+    - NORB/20210830_AWF.png
+
+  announcement_url: https://norbpool.club/donations/2
+  charity_tx_id: 4095828
+  intermediate_txs:
+    - provider: Paypal
+      tx_id: 9YK15008RR878710Y
+
+- ticker: NORB
+  
+  recipient: 
+    name: Animal Welfare Institute
+    address: 900 Pennsylvania Avenue SE, Washington, DC 20003
+    tel: ​+1-202-337-2332
+    contact: donations@awionline.org
+
+  ada: 24.038
+  usd: 50
+  timestamp: 1633026650 
+
+  files:
+    - NORB/20210930_AWI.png
+
+  announcement_url: https://norbpool.club/donations/3
+  charity_tx_id: 32313
