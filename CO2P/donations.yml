@@ -1,0 +1,55 @@
+---
+
+
+- ticker: CO2P
+
+
+  recipient: 
+    name: GREEN FOREST FUND e.V.
+    address: Rehovotstraße 5, 69115 Heidelberg, Germany
+    tel: 
+    contact: contact@greenforestfund.de
+
+  ada: 200  
+  usd: 60.75 
+  timestamp: 1610631446 
+
+
+  files:
+    - CO2P/GreenForestFund_Beleg.jpg
+
+
+- ticker: CO2P
+
+
+  recipient: 
+    name: Trees for Life
+    address: Trees for Life, 566 East Whins, The Park, Findhorn Bay, Forres, IV36 3TH, Scotland
+    tel: +44 01309 691292
+    contact: info@treesforlife.org.uk
+
+  ada: 903.81  
+  usd: 750.17
+  timestamp: 1616859906 
+
+
+  files:
+    - CO2P/TreesForLife.png
+
+
+- ticker: CO2P
+
+
+  recipient: 
+    name: Trees for Life
+    address: Trees for Life, 566 East Whins, The Park, Findhorn Bay, Forres, IV36 3TH, Scotland
+    tel: +44 01309 691292
+    contact: info@treesforlife.org.uk
+
+  ada: 1684.89 
+  usd: 1238.4
+  timestamp: 1625133861 
+
+
+  files:
+    - CO2P/TreesforLife2_new.jpg
