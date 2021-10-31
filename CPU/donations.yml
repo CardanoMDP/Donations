@@ -283,6 +283,25 @@
   custom:
     donationType: community
 
+- ticker: CPU
+  recipient:
+    name: Citizens' Climate Education Receipt
+    address: 1330 Orange Ave 309 Coronado CA 92118
+    tel: 619-437-7142
+    contact: https://citizensclimateeducation.org/contact/
+  ada: 100
+  usd: 195.32
+  timestamp: 1635692566
+  files:
+    - CPU/31-10-2021.png
+  charity_tx_id: 850f662e2b74a462b2e13fe7f88b8cab632d9341765c97b16e504f743abb2d11
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: 850f662e2b74a462b2e13fe7f88b8cab632d9341765c97b16e504f743abb2d11
+  custom:
+    donationType: community
+
+
 
 
 
