@@ -46,8 +46,6 @@
     - AIR/02-08-2021_OTP_receipt.pdf
     - AIR/02-08-2021_OTP_certificate.pdf
   charity_tx_id: Invoice No. 208225
-  intermediate_txs:
-    - provider: Paypal
     
 - ticker: AIR
   announcement_url: https://www.crisisgroup.org/donate
