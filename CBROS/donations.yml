@@ -51,3 +51,29 @@
   files:
     - CBROS/AutoMat_2021_Q3.pdf
   announcement_url: https://www.coudrebros.eu/#donations
+  
+  - ticker: CBROS
+  recipient: 
+    name: Médecins sans frontières
+    address: Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU
+    tel: +420 257 090 151
+    contact: dary@lekari-bez-hranic.cz
+  ada: 136.00
+  usd: 252.53
+  timestamp: 1636042880
+  files:
+    - CBROS/MSF_2021_Q4_Extra_Payment.pdf
+  announcement_url: https://www.coudrebros.eu/#donations
+
+- ticker: CBROS
+  recipient: 
+    name: Auto*Mat, z. s.
+    address: Vodičkova 36, 110 00 Praha 1, Czech Republic, EU
+    tel: +420 212 240 666
+    contact: auto-mat@auto-mat.cz
+  ada: 34
+  usd: 63.13
+  timestamp: 1636042880
+  files:
+    - CBROS/AutoMat_2021_Q3.pdf
+  announcement_url: https://www.coudrebros.eu/#donations
