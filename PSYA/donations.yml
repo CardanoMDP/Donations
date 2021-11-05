@@ -166,14 +166,14 @@
     address: V Honech 687, 250 67 Klecany
     tel: ""
     contact: info@psyres.eu
-  ada: 424.36 # <- These must be numbers. Can be decimals though. See below
-  usd: 858.64 # Only usd currency accepted, check on xe.com for exchange rate.
+  ada: 424.3 # <- These must be numbers. Can be decimals though. See below
+  usd: 858.6 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1636057980 
   files:
     - PSYA/PSYRES_October.jpg
   announcement_url: https://twitter.com/psyadapool/status/1456386377558503428
   # charity_tx_id: 
-  charity_tx_proof_url: https://psyres.eu/en/i-want-to-support/
+  charity_tx_proof_url: https://psyres.eu/en/i-want-to-support
   intermediate_txs:
     - provider: FixedFloat # The canonical name of the provider you used
       tx_id: 574HTA # The transaction ID the provider gave you
