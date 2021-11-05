@@ -143,7 +143,7 @@
     - provider: LTC # The canonical name of the provider you used
       tx_id: 010fe485f6ad261d1406eb643f57fcea6eeac474260a2920ef45a804117087a0 # The transaction ID the provider gave you
       
-  - ticker: PSYA
+- ticker: PSYA
   recipient: 
     name: Veritree - Verified Global Restoration Projects
     address: ""
@@ -160,7 +160,8 @@
     - provider: Cardano # The canonical name of the provider you used
       tx_id: b7a537453250b61ff6631560cd4f24013df65a4bd5dcc3e7d5a2cf955d94e0f0 # The transaction ID the provider gave you
       
-  - ticker: PSYA
+      
+- ticker: PSYA
   recipient: 
     name: Psychedelic research foundation
     address: V Honech 687, 250 67 Klecany
