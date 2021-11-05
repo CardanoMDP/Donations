@@ -142,3 +142,42 @@
       tx_id: c83deaad11c9cfcc1b96217c3517b741013fbb9a29c8d3d03cb61514867edc4d # The transaction ID the provider gave you
     - provider: LTC # The canonical name of the provider you used
       tx_id: 010fe485f6ad261d1406eb643f57fcea6eeac474260a2920ef45a804117087a0 # The transaction ID the provider gave you
+      
+  - ticker: PSYA
+  recipient: 
+    name: Veritree - Verified Global Restoration Projects
+    address: ""
+    tel: ""
+    contact: https://ito.veritree.com/
+  ada: 106 # <- These must be numbers. Can be decimals though. See below
+  usd: 221.5 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1635972180 
+  files:
+    - PSYA/Veritree_October.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1456386377558503428
+  # charity_tx_id: 
+  intermediate_txs:
+    - provider: Cardano # The canonical name of the provider you used
+      tx_id: b7a537453250b61ff6631560cd4f24013df65a4bd5dcc3e7d5a2cf955d94e0f0 # The transaction ID the provider gave you
+      
+  - ticker: PSYA
+  recipient: 
+    name: Psychedelic research foundation
+    address: V Honech 687, 250 67 Klecany
+    tel: ""
+    contact: info@psyres.eu
+  ada: 424.36 # <- These must be numbers. Can be decimals though. See below
+  usd: 858.64 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1636057980 
+  files:
+    - PSYA/PSYRES_October.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1456386377558503428
+  # charity_tx_id: 
+  charity_tx_proof_url: https://psyres.eu/en/i-want-to-support/
+  intermediate_txs:
+    - provider: FixedFloat # The canonical name of the provider you used
+      tx_id: 574HTA # The transaction ID the provider gave you
+    - provider: Cardano # The canonical name of the provider you used
+      tx_id: 2fafc601e4e31805bae7f2ba32b5504e2883e4c9309f479a55e46886c4f2cdc5 # The transaction ID the provider gave you
+    - provider: BTC # The canonical name of the provider you used
+      tx_id: 8f0a37f72a90bb625c32b42422e10394a2750e47d2da6900a73f3c7c45c0ac3e # The transaction ID the provider gave you
