@@ -25,3 +25,16 @@
   files:
     - ADAR/2021_June_20_KIVA_Donation.PNG
   charity_tx_id: "58922601"
+- ticker: ADAR
+  recipient: 
+    name: KIVA
+    address: 986 Mission Street, 4th Floor, San Francisco 94103, California, USA
+    tel: +1 828 479 5482
+    contact: contactus@mail.kiva.org
+  ada: 195.12 # <- These must be numbers. Can be decimals though. See below
+  usd: 400.00 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1636842710 
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+  files:
+    - ADAR/2021_Nov_13_KIVA_Donation.PNG
+  charity_tx_id: "60309773"
