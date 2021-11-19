@@ -14,3 +14,17 @@
     - ATFF/2021-08-04-donation001-AFM.pdf
   announcement_url: https://www.atffpool.at/fileadmin/user_upload/2021-08-04-donation001-AFM-blur.png
   charity_tx_id: 044644
+  
+- ticker: ATFF
+  recipient: 
+    name: Tunnel To Towers Foundation EIN 02-0554654
+    address: 2361 Hylan Blvd. Staten Island, NY 10306
+    tel: +1 718 987 1931
+    contact: Info@Tunnel2Towers.org
+  ada: 68
+  usd: 193.80
+  timestamp: 1630941913
+  files:
+    - ATFF/2021-09-06-donation002-T2TF.png
+  announcement_url: https://www.atffpool.at/fileadmin/user_upload/2021-09-06-donation002-T2TF.png
+  charity_tx_id: 9BF38856KC877160V
