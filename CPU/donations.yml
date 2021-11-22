@@ -302,7 +302,7 @@
   custom:
     donationType: community
 
-    - ticker: CPU
+- ticker: CPU
   recipient:
     name: Little Pink Houses- Breast Cancer Family Retreats
     address: 2442 Tribek Court Burlington, NC 27215
