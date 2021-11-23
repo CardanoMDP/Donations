@@ -13,6 +13,72 @@
     tel: +44 (0)20 3272 0300
     contact: info@savethechildren.org
 
+  ada: 644
+  usd: 1458
+  timestamp: 1633096023   
+
+  files:
+    - A4G/2021-10-01-transaction-confirmation.jpg
+    - A4G/2021-10-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: 17428d0a7f1867a17f3b70c4e434722199c845bf9755fa77a37405f9f27372b3
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 544
+  usd: 1512
+  timestamp: 1630513695   
+
+  files:
+    - A4G/2021-09-01-transaction-confirmation.jpg
+    - A4G/2021-09-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: 99c69710c9cfd8843c7140e3496343cd4d52de500e41d2301083d0ecc7c5985a
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 164.9
+  usd: 219
+  timestamp: 1627902000   
+
+  files:
+    - A4G/2021-08-02-transaction-confirmation.jpg
+    - A4G/2021-08-02-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: eaaeeb13c1c77a0263fb7dd84650fe9266dc82032eacfaf13e8547604f8492c0
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
   ada: 38
   usd: 51
   timestamp: 1625118441   
@@ -22,6 +88,10 @@
     - A4G/2021-07-01-payment-confirmation.jpg
     
   announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: 73bfd38f6c66380040d60ad481f4f9a6943c1c1544b3cd8d7cadee583e48dc2d
   
 - ticker: A4G  
 
@@ -41,6 +111,10 @@
     
   announcement_url: https://www.ada4good.com/donations
   
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: 90cf831a07f48c5a077b1396d5e315b9e3ba81ddf4f41504d4eac496310b09ab
+  
 - ticker: A4G  
 
   recipient: 
@@ -58,3 +132,7 @@
     - A4G/2021-05-01-payment-confirmation.jpg
     
   announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: 8827015bfc079ef27d2a51dd53c92213b7190aed23fe7bbb471f82807b7e1b89
