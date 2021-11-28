@@ -64,3 +64,16 @@
   timestamp: 1636866000
   files:
      - ALOOP/2021-11-16 22_30.png
+
+- ticker: ALOOP
+  announcement_url: https://ablegamers.org/
+  recipient:
+    name: The AbleGamers Charity
+    address: 179 E. Burr Blvd, Suite Q Kearneysville, WV 25430
+    tel: +1 703 891 9017
+    contact: inquiries@ablegamers.com
+  ada: 80
+  usd: 120.00
+  timestamp: 1638137055
+  files:
+     - ALOOP/2021-11-28-ABG.png
