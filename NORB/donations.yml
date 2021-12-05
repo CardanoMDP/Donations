@@ -72,3 +72,21 @@
 
   announcement_url: https://norbpool.club/donations/4
   charity_tx_id: 87225158
+
+- ticker: NORB
+
+  recipient:
+    name: Wildlife Conservation Society
+    address: 2300 Southern Boulevard Bronx, New York 10460
+    tel: +1-718-220-5100
+    contact: membership@wcs.org
+
+  ada: 377
+  usd: 606.97
+  timestamp: 1638378900
+
+  files:
+    - NORB/2021-12-01_WCS_Recipt_Clean.png
+
+  announcement_url: https://norbpool.club/donations/5
+  charity_tx_id: 4300192
