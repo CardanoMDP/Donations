@@ -12,7 +12,7 @@
   files:
      - FEEL/1609545600_amigos_inharrime.png  
   announcement_url: https://www.amigosinharrime.pt/serpadrinho
-  
+ 
 - ticker: FEEL
   announcement_url: https://ito.veritree.com
   recipient: Veritree
@@ -20,8 +20,8 @@
     address: 230-1275 Venables Street Vancouver, BC V6A 2E4
     tel: 1-833-520-1145
     contact: info@veritree.com
-  ada: 100
   usd: 245
+  ada: 100
   timestamp: 1632812586
   files:
     - FEEL/25-09-2021_veritree_pof.pdf
