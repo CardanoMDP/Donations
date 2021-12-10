@@ -14,17 +14,17 @@
   announcement_url: https://www.amigosinharrime.pt/serpadrinho
  
 - ticker: FEEL
-  announcement_url: https://www.crisisgroup.org/donate
+  announcement_url: https://ito.veritree.com/
   recipient:
-    name: International Crisis Group
-    address: 19-20 Piccadilly 3rd floor London, W1J 0DG United Kingdom
-    tel: +44 (0)2034 090 603
-    contact: london@crisisgroup.org
-  usd: 406
-  ada: 261
-  timestamp: 1638665400
+    name: Veritree Cardano Forest
+    address: 230-1275 Venables Street Vancouver, BC V6A 2E4
+    tel: 1-833-520-1145
+    contact: info@veritree.com
+  usd: 100
+  ada: 245
+  timestamp: 1632812586
   files:
-    - FEEL/02-12-2021-crisis_group.png
+    - FEEL/25-09-2021_veritree_pof.pdf
     
 - ticker: FEEL
   announcement_url: https://www.crisisgroup.org/donate
