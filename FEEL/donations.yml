@@ -25,9 +25,6 @@
   timestamp: 1632812586
   files:
     - FEEL/25-09-2021_veritree_pof.pdf
-  intermediate_txs:
-    - provider: Cardano
-      tx_id: 45679162cdcc004a5fa1a0fd0c9b2fefe563071d2d63fcfd42b19ce437770eaf
  
 - ticker: FEEL
   announcement_url: https://www.crisisgroup.org/donate
