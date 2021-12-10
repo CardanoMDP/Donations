@@ -12,3 +12,16 @@
   files:
      - FEEL/1609545600_amigos_inharrime.png  
   announcement_url: https://www.amigosinharrime.pt/serpadrinho
+  
+- ticker: FEEL
+  announcement_url: https://www.crisisgroup.org/donate
+  recipient:
+    name: International Crisis Group
+    address: 19-20 Piccadilly 3rd floor London, W1J 0DG United Kingdom
+    tel: +44 (0)2034 090 603
+    contact: london@crisisgroup.org
+  usd: 406
+  ada: 261
+  timestamp: 1638665400
+  files:
+    - FEEL/02-12-2021-crisis_group.png
