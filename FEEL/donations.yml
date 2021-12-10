@@ -25,3 +25,16 @@
   timestamp: 1638665400
   files:
     - FEEL/02-12-2021-crisis_group.png
+    
+- ticker: FEEL
+  recipient: Veritree
+    name: Veritree Cardano Forest
+    address: 230-1275 Venables Street Vancouver, BC V6A 2E4
+    tel: 1-833-520-1145
+    contact: info@veritree.com
+  usd: 245
+  ada: 100
+  timestamp: 1632812586
+  files:
+    - FEEL/25-09-2021_veritree_pof.pdf
+  announcement_url: https://ito.veritree.com
