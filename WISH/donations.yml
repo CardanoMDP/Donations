@@ -122,3 +122,33 @@
       tx_id: MBI35561721664N21
   custom:
     comment: "50 SGD donated for Oct 21"
+    
+- ticker: WISH
+  recipient: *aka
+  ada: 16.31
+  usd: 37.10 # 50 SGD donated for Nov 21
+  timestamp: 1636380060
+  files:
+    - WISH/20211108Akaraka-DBSReceipt.PNG
+    - WISH/20211108Akaraka-Confirmation.PNG
+  announcement_url: *ann
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI36821908718N96
+  custom:
+    comment: "50 SGD donated for Nov 21"
+    
+- ticker: WISH
+  recipient: *aka
+  ada: 16.31
+  usd: 37.10 # 50 SGD donated for Dec 21
+  timestamp: 1639092180
+  files:
+    - WISH/20211210Akaraka-DBSReceipt.jpg
+    - WISH/20211210Akaraka-Confirmation.jpg
+  announcement_url: *ann
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI38231576101N66
+  custom:
+    comment: "50 SGD donated for Dec 21"
