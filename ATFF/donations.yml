@@ -42,3 +42,16 @@
     - ATFF/2021-10-19-donation003-PSBV.png
   announcement_url: https://twitter.com/AtfFpool/status/1451512350176124938
   charity_tx_id: 52014639
+  
+    - ticker: ATFF
+  recipient: 
+    name: @fire - Internationaler Katastrophenschutz Deutschland e.V.
+    address: Brunings Kamp 8c, 49134 Wallenhorst, Germany
+    contact: vorstand@at-fire.de
+  ada: 136
+  usd: 165.79
+  timestamp: 1640006834
+  files:
+    - ATFF/2021-12-20-donation004-atfire.png
+  announcement_url: https://twitter.com/AtfFpool/status/1472923948694355970
+  charity_tx_id: 20869975272562613
