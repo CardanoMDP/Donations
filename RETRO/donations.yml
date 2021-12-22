@@ -182,7 +182,7 @@
 
   charity_tx_id: i1509
   
-  - ticker: RETRO
+- ticker: RETRO
   recipient: 
     name: Cure Cancer Australia Foundation
     address: PO BOX A2434, Sydney South PO NSW 1235 Australia
@@ -201,7 +201,7 @@
   charity_tx_id: 4983-2877-9042-5066
 
 - ticker: RETRO
-  recipient: 
+  recipient:
     name: Sony Foundation Australia
     address: 11-19 Hargrave Street, East Sydney NSW 2010 Australia
     tel: +61 2 9383 6230
