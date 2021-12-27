@@ -321,6 +321,25 @@
   custom:
     donationType: community
 
+- ticker: CPU
+  recipient:
+    name: Pediatric Brain Tumor Foundation Receipt
+    address: 6065 Roswell Road NE, Suite 505 Atlanta, GA 30328
+    tel: 800-253-6530
+    contact: http://www.curethekids.org/about-us/contact.html
+  ada: 100
+  usd: 159.84
+  timestamp: 1640617924
+  files:
+    - CPU/27-12-2021.png
+  charity_tx_id: c865d4e5064141f84c165c3258fc2aad42e78dced9c69d8e63f015a81fa15e7a
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: c865d4e5064141f84c165c3258fc2aad42e78dced9c69d8e63f015a81fa15e7a
+  custom:
+    donationType: community
+
+
 
 
 
