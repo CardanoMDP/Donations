@@ -337,7 +337,7 @@
     - provider: Litecoin
       tx_id: c865d4e5064141f84c165c3258fc2aad42e78dced9c69d8e63f015a81fa15e7a
   custom:
-    donationType: community
+    donationType: community 
 
 
 
