@@ -12,12 +12,9 @@
 
   files:
     - PANL/2021-12-30-Veritree.png
-    - PANL/2021-12-30-transactionLinks.txt
+    - PANL/2021-12-30-transactionLinks.md
 
-  ## The following properties are optional
-
-  announcement_url: https://kind.software/article/spectrum-pool-spec-donations.html
-  # ^ [OPTIONAL] A link to the announcement of your donation
+  announcement_url: https://twitter.com/PANL_stakepool/status/1476652826847760385
 
   charity_tx_id: e1dc6a0bcd61ae7da4c1d52478407f4f31c4b3a2d0e9f0a970ab5ea9bcb41c30
 
