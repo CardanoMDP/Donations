@@ -1,7 +1,7 @@
 Address used for Transaction (owner wallet for PANL): 
 https://cardanoscan.io/address/addr1qxzma5dp0m3478nv0pnlym89t5hvy9ckxxun8c3ecd9k9chcr580ee4mntrh3mq0nvm6jjtnxgaf0zk9e4yacxreelwq2wgzrx
 
-Transaction to Veritree: 
+Transaction to Veritree:
 https://cardanoscan.io/transaction/e1dc6a0bcd61ae7da4c1d52478407f4f31c4b3a2d0e9f0a970ab5ea9bcb41c30
 
 Return Transaction from Veritree:
