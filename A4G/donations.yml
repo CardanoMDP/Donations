@@ -27,7 +27,7 @@
     - provider: Cardano
       tx_id: 90d753af994e594ba5e42df96da7d504e6235fc3bcb3825991d35e5a706e92fd
   
-  - ticker: A4G  
+- ticker: A4G  
 
   recipient: 
     name: Save the Children
