@@ -11,3 +11,15 @@
   timestamp: 1634229000
   files:
     - LHS/20211020_Aleimar.pdf
+
+- ticker: LHS
+  recipient: 
+    name: Aleimar
+    address: via Curiel 21/D - 20066 Melzo (MI) - Italy
+    tel: +39 02 95737958
+    contact: info@aleimar.it
+  ada: 200
+  usd: 227.4
+  timestamp: 1641835800
+  files:
+    - LHS/20220110_Aleimar.jpg
