@@ -243,7 +243,7 @@
       tx_id: fd484b811727fbcbf885179a08cda50efbf42d8be4fa82c8b7f03641a6def233 # The transaction ID the provider gave you
       
   
- - ticker: PSYA
+- ticker: PSYA
   recipient: 
     name: Erowid 
     address: Erowid, PO Box 1116, Grass Valley CA 95945 USA
