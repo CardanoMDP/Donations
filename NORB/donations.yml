@@ -1,6 +1,6 @@
 - ticker: NORB
-  
-  recipient: 
+
+  recipient:
     name: ASPCA
     address: 424 East 92nd Street New York, NY 10128
     tel: +1 800 628 0028
@@ -8,7 +8,7 @@
 
   ada: 27.13178295
   usd: 35
-  timestamp: 1627487460 
+  timestamp: 1627487460
 
   files:
     - NORB/20210728_ASPCA.jpg
@@ -17,8 +17,8 @@
   charity_tx_id: 132475342
 
 - ticker: NORB
-  
-  recipient: 
+
+  recipient:
     name: African Wildlife Foundation
     address: 1100 New Jersey Ave SE, Suite 900 Washington, DC 20003
     tel: +1-888-494-5354
@@ -26,7 +26,7 @@
 
   ada: 17.92114695
   usd: 50
-  timestamp: 1630327800 
+  timestamp: 1630327800
 
   files:
     - NORB/20210830_AWF.png
@@ -38,8 +38,8 @@
       tx_id: 9YK15008RR878710Y
 
 - ticker: NORB
-  
-  recipient: 
+
+  recipient:
     name: Animal Welfare Institute
     address: 900 Pennsylvania Avenue SE, Washington, DC 20003
     tel: +1-202-337-2332
@@ -47,7 +47,7 @@
 
   ada: 24.038
   usd: 50
-  timestamp: 1633026650 
+  timestamp: 1633026650
 
   files:
     - NORB/20210930_AWI.png
@@ -90,3 +90,21 @@
 
   announcement_url: https://norbpool.club/donations/5
   charity_tx_id: 4300192
+
+- ticker: NORB
+
+  recipient:
+    name: Friends of Animals
+    address: 777 Post Road Suite 205 Darien, CT 06820
+    tel: +1-203-656-1522
+    contact: donations@donate.friendsofanimals.org
+
+  ada: 433.544311
+  usd: 542
+  timestamp: 1641420720
+
+  files:
+    - NORB/2022_01_01_Friends_Of_Animals.png
+
+  announcement_url: https://norbpool.club/donations/6
+  charity_tx_id: 4074
