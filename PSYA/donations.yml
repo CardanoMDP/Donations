@@ -184,7 +184,7 @@
       tx_id: 8f0a37f72a90bb625c32b42422e10394a2750e47d2da6900a73f3c7c45c0ac3e # The transaction ID the provider gave you
       
       
-      - ticker: PSYA
+- ticker: PSYA
   recipient: 
     name: Veritree - Verified Global Restoration Projects
     address: ""
@@ -225,7 +225,7 @@
       tx_id: d5f8816a38a776d761fc1a0310c05fb3c8a7739a704eebdaf529b703a3711c85 # The transaction ID the provider gave you
 
 
-      - ticker: PSYA
+- ticker: PSYA
   recipient: 
     name: Veritree - Verified Global Restoration Projects
     address: ""
@@ -243,7 +243,7 @@
       tx_id: fd484b811727fbcbf885179a08cda50efbf42d8be4fa82c8b7f03641a6def233 # The transaction ID the provider gave you
       
   
-  - ticker: PSYA
+ - ticker: PSYA
   recipient: 
     name: Erowid 
     address: Erowid, PO Box 1116, Grass Valley CA 95945 USA
