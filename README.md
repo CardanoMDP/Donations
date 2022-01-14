@@ -58,3 +58,48 @@ For a documented example see [example.donations.yml](./example.donations.yml).
 
 For a realworld example see the [SPEC](./SPEC) folder.
 
+
+## Validating Donations
+
+If you have been given write permissions to `CardanoMDP/Donations` you can now aprove Pull Requests. To do this, please keep the following things in mind.
+
+* Check that the uploaded receipts identify the name of the operator or the pool
+* Check that the dates match (timezone issue might arise here)
+* Importantly Check the reported values that are being claimed
+
+Some other things to keep in mind are:
+
+* Is this receipt unique? Ideally a receipt should have some sort of official tx id
+* Is the receiving party a real charity (they should have a website and ideally some sort of bank account info)
+* Is there a possibility the operator is paying themselves?
+
+Formating checks:
+
+* Ensure that `ada` and `usd` values are `dot` denominated `42.1` is fine, ~`42,1`~ is not!
+
+
+
+## Keeping your repository up to date with the upstream repository (CardanoMDP/Donations)
+
+When you submit a PR, if your submitted branch isn't up to date with the `CardanoMDP/Donations` repository we will not be able to merge your PR. 
+Because of that you need to make sure that your forked repo is up to date with with ours.
+
+Two ways of doing this:
+
+* Using the github page of your repository
+* Using git CLI
+
+1. Using the github page of your repository
+   1. Go to the webpage of your repository (example: `https://github.com/github-name/forked-repository`) 
+   2. Press Fetch Upstream
+   3. Press Fetch and merge
+![image](https://user-images.githubusercontent.com/38225333/129491626-c2f7742b-bfb7-492e-a51f-2be788856e1a.png)
+
+2. Using the git CLI
+   1. Clone your fork and navigate to the root of your repository
+   2. Add the upstream repository `git remote add upstream git://github.com/CardanoMDP/Donations.git`
+   3. Fetch upstream `git fetch upstream`
+   4. Merge upstream main branch with your main branch `git merge upstream/main main` 
+   5. Push  the up-to-date repository to your fork `git push origin`
+
+
