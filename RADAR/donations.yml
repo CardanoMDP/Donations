@@ -9,10 +9,9 @@ recipient:
   timestamp:      1629935090 
   files: 
     - RADAR/RADAR Coin Center Sept 2021.txt
- 
- 
+    
  - ticker: RADAR
-  recipient: 
+ recipient: 
     name: Coin Center
     address: 700 K Street NW, Suite 300, Washington D.C., 20001 USA
     tel: 202-804-6013
