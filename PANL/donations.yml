@@ -2,6 +2,8 @@
 
   recipient: 
     name: Veritree Cardano Forest ITO
+    address: ""
+    tel: ""
     contact: https://ito.veritree.com/
 
   ada: 1200
