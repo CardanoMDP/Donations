@@ -56,7 +56,7 @@
     - ADAR/2021_Dec_10_KIVA_Donation.PNG
   charity_tx_id: "60612848"
   
-  - ticker: ADAR
+- ticker: ADAR
   recipient: 
     name: KIVA
     address: 986 Mission Street, 4th Floor, San Francisco 94103, California, USA
