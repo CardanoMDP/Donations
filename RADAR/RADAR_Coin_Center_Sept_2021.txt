@@ -1,0 +1,25 @@
+Receipt: Coin Center Successful Donation
+From:Antonie Hodge (antonie@coincenter.org)
+To:md_sullivan@yahoo.com
+Date:Thursday, August 26, 2021, 11:22 AM EDT
+Dear Michael,
+Thank you for your donation of $50 ADA.
+Your support helps Coin Center serve as a trusted and credible source of information about cryptocurrencies and decentralized computing technologies that policymakers can turn to, as well as a strong advocate for a regulatory climate that preserves the freedom to innovate.
+
+Our efforts are focused on producing and publishing policy research from respected academics and experts, educating policymakers and the media, and engaging in advocacy for sound public policy as it relates to Bitcoin and permissionless blockchain technologies. Make sure you check out coincenter.org for the latest updates.
+
+Thank you again for your commitment to Coin Center. We look forward to sharing the success of our efforts with you.
+
+Best,
+
+Jerry Brito
+Executive Director
+If you make a donation of $50 or more using the payment processor form, you can expect your package in approximately 45 days. If you are internationally located, please expect up to 60 days to receive your donor package. This is subject to change due to volume. We appreciate your patience.
+**Coin Center is a not-for-profit 501(c)(4) organization. Contributions are not deductible for income tax purposes. No goods or services will be received in return for this gift. Coin Center funds will not be used to make contributions to candidates for elected office or political committees that support such candidates.**
+
+Order details:
+Submission time: Aug 17, 2021 2:06 PM
+Donated amount: $50 with Other Cryptocurrencies
+md_sullivan@yahoo.com
+Confirmation tx: https://explorer.cardano.org/en/transaction?id=81654419d6548ac1dcb2598212727ed45cb5ca094022ca39f7f1c801faf1b8dc
+
