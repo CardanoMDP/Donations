@@ -8,7 +8,7 @@
     usd: 137.50
     timestamp:      1629935090 
     files:
-        - RADAR/RADAR Coin Center Sept 2021.txt
+        - RADAR/RADAR_Coin_Center_Sept_2021.txt
         
 -   ticker: RADAR
     recipient:
@@ -20,7 +20,7 @@
     usd: 337.13
     timestamp:    1633482114
     files:
-        - RADAR/RADAR Coin Center Oct 2021.pdf
+        - RADAR/RADAR_Coin_Center_Oct_2021.pdf
   
 -   ticker: RADAR
     recipient: 
@@ -32,4 +32,4 @@
     usd: 126.14
     timestamp:      1638337241
     files: 
-        - RADAR/RADAR Coin Center Dec 2021.pdf
+        - RADAR/RADAR_Coin_Center_Dec_2021.pdf
