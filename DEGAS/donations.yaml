@@ -1,0 +1,67 @@
+- ticker: DEGAS
+
+  recipient: 
+    name: Rocky Mountain Institute
+    address: 2490 Junction Place, Suite 200 Boulder, CO  80301
+    tel: +1 303.245.1003
+    contact: outreach@rmi.org
+
+  ada: 125 
+  usd: 268.21
+  timestamp: 1629126161 
+
+
+  files:
+     - DEGAS/donation-proof.jpg
+
+  announcement_url: https://degas-pool.com/?page_id=507
+
+  charity_tx_id: 1c7e1e681451fdcd95c3bd44bbc7a71c7799e4ae6987fe3147eca9846b2e3dd1
+      
+  custom:
+    custom_attribute1: https://explorer.cardano.org/en/transaction?id=1c7e1e681451fdcd95c3bd44bbc7a71c7799e4ae6987fe3147eca9846b2e3dd1
+    
+    
+- ticker: DEGAS
+
+  recipient: 
+    name: Rocky Mountain Institute
+    address: 2490 Junction Place, Suite 200 Boulder, CO  80301
+    tel: +1 303.245.1003
+    contact: outreach@rmi.org
+
+  ada: 250 
+  usd: 562.50
+  timestamp: 	1631165547 
+
+
+  files:
+     - DEGAS/donation-proof2.jpg
+
+  announcement_url: https://degas-pool.com/?page_id=507
+
+  charity_tx_id: 6938f2167002af6bfe872d132126823cde2bec07155bb9133c9d8bc435627c88
+      
+  custom:
+    custom_attribute1: https://explorer.cardano.org/en/transaction?id=6938f2167002af6bfe872d132126823cde2bec07155bb9133c9d8bc435627c88
+
+- ticker: DEGAS
+
+  recipient: 
+    name: Cardano Forest Veritree ITO
+    contact: https://ito.veritree.com/
+
+  ada: 1000 
+  usd: 2270
+  timestamp: 	1633701855
+
+
+  files:
+     - DEGAS/donation-proof3.jpg
+
+  announcement_url: https://degas-pool.com/?page_id=507
+
+  charity_tx_id: 37ea5bcbcb439fc9e2dc0d51d8bd7af0273c8d77dcc38326d4186028b8cd1f74
+      
+  custom:
+    custom_attribute1: https://explorer.cardano.org/en/transaction?id=37ea5bcbcb439fc9e2dc0d51d8bd7af0273c8d77dcc38326d4186028b8cd1f74
