@@ -193,7 +193,7 @@
   ada: 87 # <- These must be numbers. Can be decimals though. See below
   usd: 123.5 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1638436034 
-  files: ""
+  files: []
   announcement_url: https://twitter.com/psyadapool/status/1468675867526193157
   # charity_tx_id: 
   charity_tx_proof_url: https://ito.veritree.com/
@@ -234,7 +234,7 @@
   ada: 122 # <- These must be numbers. Can be decimals though. See below
   usd: 150 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1641588540 
-  files: ""
+  files: []
   announcement_url: https://twitter.com/psyadapool/status/1479984762345463813
   # charity_tx_id: 
   charity_tx_proof_url: https://ito.veritree.com/
@@ -252,7 +252,7 @@
   ada: 488 # <- These must be numbers. Can be decimals though. See below
   usd: 581 # Only usd currency accepted, check on xe.com for exchange rate.
   timestamp: 1641726420 
-  files: ""
+  files: []
   announcement_url: https://twitter.com/psyadapool/status/1468675867526193157
   # charity_tx_id: 
   charity_tx_proof_url: https://erowid.org/donations/donations_cryptocurrency.php
