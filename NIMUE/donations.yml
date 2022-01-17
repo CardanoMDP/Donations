@@ -1,0 +1,132 @@
+---
+
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 8.30
+  usd: 10.00
+  timestamp: 1617870170
+  files:
+    - NIMUE/donation-1.png
+  announcement_url: https://twitter.com/nimuepool/status/1380149904413241344
+  
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 33.30
+  usd: 50.00
+  timestamp: 1620282325
+  files:
+    - NIMUE/donation-2.png
+  announcement_url: https://twitter.com/nimuepool/status/1390222116784640003
+
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 65.00
+  usd: 100.00
+  timestamp: 1622457395
+  files:
+    - NIMUE/donation-3.png
+  announcement_url: https://twitter.com/nimuepool/status/1399364150871134208
+
+- ticker: NIMUE
+  recipient: 
+    name: Dierenartsen Zonder Grenzen vzw (Vétérinaires Sans Frontières Belgium)
+    address: Kunstlaan 7-8, 1210 Brussel, Belgium
+    tel: +32 2 539 09 89
+    contact: info@vsf-belgium.org
+  ada: 90.20
+  usd: 118.57
+  timestamp: 1622556000
+  files:
+    - NIMUE/donation-4.png
+  announcement_url: https://twitter.com/nimuepool/status/1410601793071960075
+
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 201.90
+  usd: 250.00
+  timestamp: 1627600899
+  files:
+    - NIMUE/donation-5.png
+  announcement_url: https://twitter.com/nimuepool/status/1421117513677553671
+
+- ticker: NIMUE
+  recipient: 
+    name: Dierenartsen Zonder Grenzen vzw (Vétérinaires Sans Frontières Belgium)
+    address: Kunstlaan 7-8, 1210 Brussel, Belgium
+    tel: +32 2 539 09 89
+    contact: info@vsf-belgium.org
+  ada: 91.50
+  usd: 118.85
+  timestamp: 1627601493
+  files:
+    - NIMUE/donation-6.png
+  announcement_url: https://twitter.com/nimuepool/status/1421117513677553671
+
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 17.70
+  usd: 25.00
+  timestamp: 1628501605
+  files:
+    - NIMUE/donation-7.png
+  announcement_url: https://twitter.com/nimuepool/status/1424682957709643784
+  
+- ticker: NIMUE
+  recipient: 
+    name: Dierenartsen Zonder Grenzen vzw (Vétérinaires Sans Frontières Belgium)
+    address: Kunstlaan 7-8, 1210 Brussel, Belgium
+    tel: +32 2 539 09 89
+    contact: info@vsf-belgium.org
+  ada: 52.0
+  usd: 116.76
+  timestamp: 1629398400
+  files:
+    - NIMUE/donation-8.png
+  announcement_url: https://twitter.com/nimuepool/status/1428455616075415552
+  
+- ticker: NIMUE
+  recipient: 
+    name: Dierenartsen Zonder Grenzen vzw (Vétérinaires Sans Frontières Belgium)
+    address: Kunstlaan 7-8, 1210 Brussel, Belgium
+    tel: +32 2 539 09 89
+    contact: info@vsf-belgium.org
+  ada: 191.70
+  usd: 417.94
+  timestamp: 1633336837
+  files:
+    - NIMUE/donation-9.png
+  announcement_url: https://twitter.com/nimuepool/status/1444950284799823874
+  
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 248.00
+  usd: 500.00
+  timestamp: 1636379560
+  files:
+    - NIMUE/donation-10.png
+  announcement_url: https://twitter.com/nimuepool/status/1457716631229063168
+  

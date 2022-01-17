@@ -11,3 +11,83 @@
   timestamp: 1625091960
   files:
      - OZZY/20210630_CancerResearchUK.jpeg
+  charity_tx_id: L6U0Q5TA9OL
+
+- ticker: OZZY
+  recipient:
+    name: Cancer Research UK
+    address: 2 Redman Place, London, E20 1JQ, United Kingdom
+    tel: 0300 1231022
+    contact: supporter.services@cancer.org.uk
+  ada: 273.09
+  usd: 348.86
+  timestamp: 1627772340
+  files:
+    - OZZY/20210731_CancerResearchUK.png
+    - OZZY/20210731_CancerResearchUK_2.jpeg
+  charity_tx_id: XGGSXXKPRZ
+
+- ticker: OZZY
+  recipient:
+    name: Cancer Research UK
+    address: 2 Redman Place, London, E20 1JQ, United Kingdom
+    tel: 0300 1231022
+    contact: supporter.services@cancer.org.uk
+  ada: 230
+  usd: 664.64
+  timestamp: 1630449000
+  files:
+    - OZZY/20210831_CancerResearchUK.jpeg
+  charity_tx_id: HMS1TP11B9M
+
+- ticker: OZZY
+  recipient:
+    name: Cancer Research UK
+    address: 2 Redman Place, London, E20 1JQ, United Kingdom
+    tel: 0300 1231022
+    contact: supporter.services@cancer.org.uk
+  ada: 369.73
+  usd: 994
+  timestamp: 1633042200
+  files:
+    - OZZY/20210930_CancerResearchUK.jpeg
+  charity_tx_id: VB8S4K8TLI
+
+- ticker: OZZY
+  recipient:
+    name: Cancer Research UK
+    address: 2 Redman Place, London, E20 1JQ, United Kingdom
+    tel: 0300 1231022
+    contact: supporter.services@cancer.org.uk
+  ada: 416.55
+  usd: 831
+  timestamp: 1635724799
+  files:
+    - OZZY/20211031_CancerResearchUK.jpeg
+  charity_tx_id: 1HUK5Z5JSH1
+
+- ticker: OZZY
+  recipient:
+    name: Cancer Research UK
+    address: 2 Redman Place, London, E20 1JQ, United Kingdom
+    tel: 0300 1231022
+    contact: supporter.services@cancer.org.uk
+  ada: 337.69
+  usd: 547.54
+  timestamp: 1638316799
+  files:
+    - OZZY/20211130_CancerResearchUK.jpeg
+  charity_tx_id: 242HRDV6
+
+- ticker: OZZY
+  recipient:
+    name: Cancer Research UK
+    address: 2 Redman Place, London, E20 1JQ, United Kingdom
+    tel: 0300 1231022
+    contact: supporter.services@cancer.org.uk
+  ada: 524.9
+  usd: 736.59
+  timestamp: 1640995199
+  files:
+    - OZZY/20211231_CancerResearchUK.jpeg
+  charity_tx_id: A1E77JFG
