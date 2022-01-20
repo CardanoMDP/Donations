@@ -96,7 +96,7 @@
     - KAWAN/30-Sep-2021.jpg
   announcement_url: https://twitter.com/KawanuaP/status/1443621805025992708
   
-  - ticker: KAWAN
+- ticker: KAWAN
   recipient: 
     name: YAYASAN KITABISA INDONESIA
     address: Jl. Raya Cilandak KKO No.31, RT.13/RW.8, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550
@@ -110,3 +110,30 @@
     - KAWAN/03-Nov-2021.jpg
   announcement_url: https://twitter.com/KawanuaP/status/1455873035781623808
 
+- ticker: KAWAN
+  recipient: 
+    name: YAYASAN KITABISA HATI BAIK
+    address: Jl. Raya Cilandak KKO No.31, RT.13/RW.8, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550
+    website: https://kitabisa.com
+    contact: support@kitabisa.com
+    tel: "-"
+  ada: 375
+  usd: 473.28
+  timestamp: 1639344140
+  files:
+    - KAWAN/13-Des-2021.jpg
+  announcement_url: https://www.kawancardano.com/newBlogPost-zvHp_Z
+  
+- ticker: KAWAN
+  recipient: 
+    name: YAYASAN SILOAM PAPUA
+    address: Jl. Raya Cilandak KKO No.31, RT.13/RW.8, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550
+    website: https://yayasansiloampapua.com/
+    contact: siloampapuaministry@gmail.com
+    tel: "+6285320000363"
+  ada: 260
+  usd: 381.03
+  timestamp: 1642494080
+  files:
+    - KAWAN/18-Jan-2022.jpg
+  announcement_url: https://www.kawancardano.com/newBlogPost-zZ8B0b
