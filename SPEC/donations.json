@@ -1,0 +1,189 @@
+[
+  {
+    "ticker": "SPEC",
+    "announcement_url": "https://kind.software/article/spectrum-pool-spec-donations.html",
+    "recipient": {
+      "name": "Pencils of Promise",
+      "address": "1115 Broadway, 11th Floor, NY 10010, New York, USA",
+      "tel": "+1 212 777 3170",
+      "contact": "team@pencilsofpromise.com"
+    },
+    "ada": 2145,
+    "usd": 265.3,
+    "timestamp": 1599026880,
+    "files": [
+      "SPEC/2020-09-02-TGB.png"
+    ],
+    "charity_tx_id": "c9a866dd665285299236164805bfdeb8e46ac20cee76407ba2bd0e2fe553b133"
+  },
+  {
+    "ticker": "SPEC",
+    "announcement_url": "https://kind.software/article/spectrum-pool-spec-donations.html",
+    "recipient": {
+      "name": "Pencils of Promise",
+      "address": "1115 Broadway, 11th Floor, NY 10010, New York, USA",
+      "tel": "+1 212 777 3170",
+      "contact": "team@pencilsofpromise.com"
+    },
+    "ada": 1330,
+    "usd": 146.6,
+    "timestamp": 1603459680,
+    "files": [
+      "SPEC/2020-10-23-TGB.jpg"
+    ],
+    "charity_tx_id": "1619b17dd4ab2e51b707a25f3befa26db593bb1cb8c4fa0102a7202760b82b06",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "76e6d3338c2ec040b7c991d00e065d048797e2a28efc02ff27b72e51e8be3254"
+      },
+      {
+        "provider": "ZCash",
+        "tx_id": "1619b17dd4ab2e51b707a25f3befa26db593bb1cb8c4fa0102a7202760b82b06"
+      }
+    ]
+  },
+  {
+    "ticker": "SPEC",
+    "announcement_url": "https://kind.software/article/spectrum-pool-spec-donations.html",
+    "recipient": {
+      "name": "Pencils of Promise",
+      "address": "1115 Broadway, 11th Floor, NY 10010, New York, USA",
+      "tel": "+1 212 777 3170",
+      "contact": "team@pencilsofpromise.com"
+    },
+    "ada": 1010,
+    "usd": 156.4,
+    "timestamp": 1609168320,
+    "files": [
+      "SPEC/2020-12-29-TGB.png"
+    ],
+    "charity_tx_id": "b481b29d306e6793a97f48563d524fce3833017dadbfeb0686b92ebe384859ab",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "a037627df263e411bdcaa374356b2161cfbf4aeffaea6bc88fd5dd1ff89af9fe"
+      },
+      {
+        "provider": "ZCash",
+        "tx_id": "474b283120be22c82ed66c1cbe40612fcae0140616dc0cb3d6846b284785dd8f"
+      }
+    ]
+  },
+  {
+    "ticker": "SPEC",
+    "announcement_url": "https://kind.software/article/spectrum-pool-spec-donations.html",
+    "recipient": {
+      "name": "Pencils of Promise",
+      "address": "1115 Broadway, 11th Floor, NY 10010, New York, USA",
+      "tel": "+1 212 777 3170",
+      "contact": "team@pencilsofpromise.com"
+    },
+    "ada": 620,
+    "usd": 254.3,
+    "timestamp": 1612220077,
+    "files": [
+      "SPEC/2021-02-01-TGB.png"
+    ],
+    "charity_tx_id": "474b283120be22c82ed66c1cbe40612fcae0140616dc0cb3d6846b284785dd8f",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "a037627df263e411bdcaa374356b2161cfbf4aeffaea6bc88fd5dd1ff89af9fe"
+      },
+      {
+        "provider": "ZCash",
+        "tx_id": "474b283120be22c82ed66c1cbe40612fcae0140616dc0cb3d6846b284785dd8f"
+      }
+    ]
+  },
+  {
+    "ticker": "SPEC",
+    "announcement_url": "https://kind.software/article/spectrum-pool-spec-donations.html",
+    "recipient": {
+      "name": "Pencils of Promise",
+      "address": "1115 Broadway, 11th Floor, NY 10010, New York, USA",
+      "tel": "+1 212 777 3170",
+      "contact": "team@pencilsofpromise.com"
+    },
+    "ada": 647,
+    "usd": 750.1,
+    "timestamp": 1615167164,
+    "files": [
+      "SPEC/2021-03-07-TGB.png"
+    ],
+    "charity_tx_id": "83da15b425bcdf102abd8139e4e4a32cf381438445c6a1decde42e9e7b72408d",
+    "intermediate_txs": [
+      {
+        "provider": "ZCash",
+        "tx_id": "83da15b425bcdf102abd8139e4e4a32cf381438445c6a1decde42e9e7b72408d"
+      }
+    ]
+  },
+  {
+    "ticker": "SPEC",
+    "announcement_url": "https://kind.software/article/spectrum-pool-spec-donations.html",
+    "recipient": {
+      "name": "Pencils of Promise",
+      "address": "1115 Broadway, 11th Floor, NY 10010, New York, USA",
+      "tel": "+1 212 777 3170",
+      "contact": "team@pencilsofpromise.com"
+    },
+    "ada": 1348,
+    "usd": 1604,
+    "timestamp": 1617534673,
+    "files": [
+      "SPEC/2021-04-04-EPOCHS.png",
+      "SPEC/2021-04-04-ZEC.png",
+      "SPEC/2021-04-04-TGB.png"
+    ],
+    "charity_tx_id": "35ac49fcd115ad6c37cab35c88dc21bd6204da0862fe58862613720d44de3a6e",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "fb92b2b3cb8fc193d89fbf8babd654fd88226ce4526a1183b211cbc1af28fa32"
+      },
+      {
+        "provider": "ZCash",
+        "tx_id": "35ac49fcd115ad6c37cab35c88dc21bd6204da0862fe58862613720d44de3a6e"
+      }
+    ]
+  },
+  {
+    "ticker": "SPEC",
+    "announcement_url": "https://kind.software/article/spectrum-pool-spec-donations.html",
+    "recipient": {
+      "name": "Pencils of Promise",
+      "address": "1115 Broadway, 11th Floor, NY 10010, New York, USA",
+      "tel": "+1 212 777 3170",
+      "contact": "team@pencilsofpromise.com"
+    },
+    "ada": 3756,
+    "usd": 6717,
+    "timestamp": 1628932418,
+    "files": [
+      "SPEC/2021-08-14-EPOCHS.png",
+      "SPEC/2021-08-14-ZEC.png",
+      "SPEC/2021-08-14-TGB.png"
+    ],
+    "charity_tx_id": "59cd106f55a900362a3a9be6a30f9887ac81f673641c41c857eecf48860b0fda",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "38478282a26202025c7969a73ab6c85d59004c7cc3c6fa911e24569dde7c4768"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "59cd106f55a900362a3a9be6a30f9887ac81f673641c41c857eecf48860b0fda"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "b6b904e5d6438ff89a293e3059328621453f59bc87e044255f966d12669d2cd2"
+      },
+      {
+        "provider": "ZCash",
+        "tx_id": "2c708dd5c803c2955de435ea9ea52d780c384fdd14685a9ca4a8914077f810ed"
+      }
+    ]
+  }
+]

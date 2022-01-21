@@ -1,0 +1,42 @@
+[
+  {
+    "ticker": "VITAL",
+    "announcement_url": "https://responsible-staking.at/en/mission",
+    "recipient": {
+      "name": "Verein Regenwald der Österreicher",
+      "address": "Koniczekweg 9, A-1140 Wien, Österreich",
+      "tel": "+43-(0)6642042629",
+      "contact": "info@regenwald.at"
+    },
+    "ada": 147.7,
+    "usd": 214.21,
+    "timestamp": 1624221900,
+    "files": [
+      "VITAL/regenwald/2021-06-20/PaymentConfirmation.pdf",
+      "VITAL/regenwald/2021-06-20/Certificate-MM6K5CUS-9808.pdf"
+    ],
+    "charity_tx_id": "9808",
+    "intermediate_txs": [
+      {
+        "provider": "Paypal",
+        "tx_id": "4MG28976HC623060Y"
+      }
+    ]
+  },
+  {
+    "ticker": "VITAL",
+    "announcement_url": "https://responsible-staking.at/en/mission",
+    "recipient": {
+      "name": "lobby.16",
+      "address": "Zollergasse 20/2a, 1070 Wien, Österreich",
+      "tel": "+43-(0)12364154",
+      "contact": "office@lobby16.org"
+    },
+    "ada": 169.5,
+    "usd": 238,
+    "timestamp": 1624608000,
+    "files": [
+      "VITAL/lobby16/2021-06-25/PaymentConfirmation.pdf"
+    ]
+  }
+]

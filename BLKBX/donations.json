@@ -1,0 +1,53 @@
+[
+  {
+    "ticker": "BLKBX",
+    "announcement_url": "https://www.blackboxpool.io/post/donating-to-the-royal-flying-doctor-service-of-australia",
+    "recipient": {
+      "name": "Royal Flying Doctor Service of Australia",
+      "address": "3 Eagle Dr, Jandakot WA 6164, Australia",
+      "tel": "+61 8 9417 6300",
+      "contact": "westops@rfdswa.com.au"
+    },
+    "ada": 31.6,
+    "usd": 38.8,
+    "timestamp": 1617994202,
+    "files": [
+      "BLKBX/10-4-21.jpg"
+    ],
+    "charity_tx_id": "1350605"
+  },
+  {
+    "ticker": "BLKBX",
+    "announcement_url": "https://www.blackboxpool.io/post/donating-to-the-royal-flying-doctor-service-of-australia-1",
+    "recipient": {
+      "name": "Royal Flying Doctor Service of Australia",
+      "address": "3 Eagle Dr, Jandakot WA 6164, Australia",
+      "tel": "+61 8 9417 6300",
+      "contact": "westops@rfdswa.com.au"
+    },
+    "ada": 60.7,
+    "usd": 80.4,
+    "timestamp": 1621536602,
+    "files": [
+      "BLKBX/21-5-21.jpg"
+    ],
+    "charity_tx_id": "VWED4754127"
+  },
+  {
+    "ticker": "BLKBX",
+    "announcement_url": "https://www.blackboxpool.io/post/donating-to-the-royal-flying-doctor-service-of-australia-2",
+    "recipient": {
+      "name": "Royal Flying Doctor Service of Australia",
+      "address": "3 Eagle Dr, Jandakot WA 6164, Australia",
+      "tel": "+61 8 9417 6300",
+      "contact": "westops@rfdswa.com.au"
+    },
+    "ada": 46.8,
+    "usd": 73.8,
+    "timestamp": 1622400602,
+    "files": [
+      "BLKBX/31-5-21.jpg"
+    ],
+    "charity_tx_id": "1397436"
+  }
+]

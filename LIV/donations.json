@@ -1,0 +1,47 @@
+[
+  {
+    "ticker": "LIV",
+    "recipient": {
+      "name": "The Greenhouse Project",
+      "address": "Tiber Street Site, Lodge Ln, Toxteth, Liverpool L8 0TP, United Kingdom",
+      "tel": "+44 1517268099",
+      "contact": "pam@greenhouseproject.org.uk"
+    },
+    "ada": 1186,
+    "usd": 138.7,
+    "timestamp": 1609957920,
+    "files": [
+      "LIV/20210106_Greenhouse_Project.png"
+    ]
+  },
+  {
+    "ticker": "LIV",
+    "recipient": {
+      "name": "The Greenhouse Project",
+      "address": "Tiber Street Site, Lodge Ln, Toxteth, Liverpool L8 0TP, United Kingdom",
+      "tel": "+44 1517268099",
+      "contact": "pam@greenhouseproject.org.uk"
+    },
+    "ada": 616,
+    "usd": 138.7,
+    "timestamp": 1612167000,
+    "files": [
+      "LIV/20210201_Greenhouse_Project.jpg"
+    ]
+  },
+  {
+    "ticker": "LIV",
+    "recipient": {
+      "name": "Damien John Kelly House",
+      "address": "Cunard Buildings (Head Office), Liverpool, L3 1DS, United Kingdom",
+      "tel": "+44 1513293987",
+      "contact": "pam@greenhouseproject.org.uk"
+    },
+    "ada": 324,
+    "usd": 138.7,
+    "timestamp": 1612518540,
+    "files": [
+      "LIV/20210205_DamienJohnKellyHouse.png"
+    ]
+  }
+]

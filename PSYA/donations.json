@@ -1,0 +1,140 @@
+[
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "MAPS, Multidisciplinary Association for Psychedelic Studies",
+      "address": "3141 Stevens Creek Blvd 40563, San Jose, CA 95117",
+      "tel": "+1 831-429-MDMA (6362)",
+      "contact": "giving@maps.org"
+    },
+    "ada": 137,
+    "usd": 192,
+    "timestamp": 1625569261,
+    "files": [
+      "PSYA/first.jpg",
+      "PSYA/first_LTC.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1412525129087737863",
+    "intermediate_txs": [
+      {
+        "provider": "FixedFloat",
+        "tx_id": "NQRMQM"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "3013c245ce60e815ab7fdbbea94bcaea0ea505bf94cd264a2b8335fc8b505768"
+      },
+      {
+        "provider": "LTC",
+        "tx_id": "e777c4627043d175d7bc65c566f732af15f6b30d53a0159d9f344471e701d0ec"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Chacruna Institute",
+      "address": "San Francisco, CA 94109, US",
+      "tel": "",
+      "contact": "info@chacruna.net"
+    },
+    "ada": 70,
+    "usd": 94,
+    "timestamp": 1627997520,
+    "files": [
+      "PSYA/july_chacruna.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1422597360094416905",
+    "intermediate_txs": [
+      {
+        "provider": "FixedFloat",
+        "tx_id": "K5NAV1"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "fd02a84a56a67151dcd37c3ff12f2ad15889c7d33d09e39232dfcdf2e461ad87"
+      },
+      {
+        "provider": "BTC",
+        "tx_id": "97d9c5933b2591dc58483d5797eb5980e66c09795b43a9182b14fb961107c26a"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Rd 1000D Shelburne, Vermont, 05482, US",
+      "tel": "1-800-408-7850",
+      "contact": "https://onetreeplanted.org/pages/contact-us"
+    },
+    "ada": 17.3,
+    "usd": 23,
+    "timestamp": 1627997520,
+    "files": [
+      "PSYA/julyOneTreePlanted.jpg",
+      "PSYA/Certificate.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1422597360094416905",
+    "intermediate_txs": [
+      {
+        "provider": "PayPal",
+        "tx_id": "30T15131D29431845"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "TheraPsil",
+      "address": "Victoria, British Columbia",
+      "tel": "",
+      "contact": "info@therapsil.ca"
+    },
+    "ada": 281.2,
+    "usd": 674.51,
+    "timestamp": 1631745180,
+    "files": [
+      "PSYA/TherapsilDonate.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1438551692119887876",
+    "charity_tx_proof_url": "https://therapsil.ca/donate/",
+    "intermediate_txs": [
+      {
+        "provider": "ChangeNow",
+        "tx_id": "4e90a7e95ee20e"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "3e86bda50d493c2104e57a2e8a1f963dc3ebcfd0b50668ed00a0cefbea8cbbc2"
+      },
+      {
+        "provider": "BTC",
+        "tx_id": "e142ac5a336cd04864ec8afb677734a9dbe60b3f3256d336a83064277c14beb8"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Rd 1000D Shelburne, Vermont, 05482, US",
+      "tel": "1-800-408-7850",
+      "contact": "https://onetreeplanted.org/pages/contact-us"
+    },
+    "ada": 70.3,
+    "usd": 200,
+    "timestamp": 1630960620,
+    "files": [
+      "PSYA/OneTreePlantedAugust.jpg",
+      "PSYA/OneTreePlantedAugustConversion.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1434988194685140995",
+    "intermediate_txs": [
+      {
+        "provider": "PayPal",
+        "tx_id": "5LE851170A893102E"
+      }
+    ]
+  }
+]

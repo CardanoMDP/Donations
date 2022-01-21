@@ -1,0 +1,127 @@
+[
+  {
+    "ticker": "IPIB",
+    "announcement_url": "https://www.italianspib.it/the-giveaway",
+    "recipient": {
+      "name": "Save the Children ITALIA ONLUS",
+      "address": "Piazza di San Francesco di Paola, 9 00184 Roma",
+      "tel": "+39 06 4807001",
+      "contact": "info.italia@savethechildren.org"
+    },
+    "ada": 30,
+    "usd": 36,
+    "timestamp": 1615155180,
+    "files": [
+      "IPIB/STC_Marzo21ed.pdf"
+    ],
+    "charity_tx_id": "2103071771787782480320066720IT"
+  },
+  {
+    "ticker": "IPIB",
+    "announcement_url": "https://www.italianspib.it/the-giveaway",
+    "recipient": {
+      "name": "Save the Children ITALIA ONLUS",
+      "address": "Piazza di San Francesco di Paola, 9 00184 Roma",
+      "tel": "+39 06 4807001",
+      "contact": "info.italia@savethechildren.org"
+    },
+    "ada": 48,
+    "usd": 60,
+    "timestamp": 1617353040,
+    "files": [
+      "IPIB/STC_Aprile21ed.pdf"
+    ],
+    "charity_tx_id": "2104021784313838480320066720IT"
+  },
+  {
+    "ticker": "IPIB",
+    "announcement_url": "https://www.italianspib.it/the-giveaway",
+    "recipient": {
+      "name": "Save the Children ITALIA ONLUS",
+      "address": "Piazza di San Francesco di Paola, 9 00184 Roma",
+      "tel": "+39 06 4807001",
+      "contact": "info.italia@savethechildren.org"
+    },
+    "ada": 45,
+    "usd": 58,
+    "timestamp": 1620200937,
+    "files": [
+      "IPIB/STC_Maggio21.pdf"
+    ],
+    "charity_tx_id": "79190ee22175ce21999bc2dc55427376e893b2ecdf0f182681d871f5aa7f2491"
+  },
+  {
+    "ticker": "IPIB",
+    "announcement_url": "https://www.italianspib.it/the-giveaway",
+    "recipient": {
+      "name": "Save the Children ITALIA ONLUS",
+      "address": "Piazza di San Francesco di Paola, 9 00184 Roma",
+      "tel": "+39 06 4807001",
+      "contact": "info.italia@savethechildren.org"
+    },
+    "ada": 32,
+    "usd": 45,
+    "timestamp": 1622798511,
+    "files": [
+      "IPIB/STC_Giugno21.pdf"
+    ],
+    "charity_tx_id": "1de64e9614d3b26d00e15008a403e5e6613767137e5b2d07047a178c618e5657"
+  },
+  {
+    "ticker": "IPIB",
+    "announcement_url": "https://www.italianspib.it/the-giveaway",
+    "recipient": {
+      "name": "Save the Children ITALIA ONLUS",
+      "address": "Piazza di San Francesco di Paola, 9 00184 Roma",
+      "tel": "+39 06 4807001",
+      "contact": "info.italia@savethechildren.org"
+    },
+    "ada": 45,
+    "usd": 75,
+    "timestamp": 1625848293,
+    "files": [
+      "IPIB/STC_July21.pdf"
+    ],
+    "charity_tx_id": "bc49d361df2c8006a5bc72ee806d93c632b4cd812bf1c3ab2391c51e79283880"
+  },
+  {
+    "ticker": "IPIB",
+    "announcement_url": "https://www.italianspib.it/the-giveaway",
+    "recipient": {
+      "name": "Save the Children ITALIA ONLUS",
+      "address": "Piazza di San Francesco di Paola, 9 00184 Roma",
+      "tel": "+39 06 4807001",
+      "contact": "info.italia@savethechildren.org"
+    },
+    "ada": 480,
+    "usd": 700,
+    "timestamp": 1628501813,
+    "files": [
+      "IPIB/STC_August21.pdf"
+    ],
+    "charity_tx_id": "745b7ff708c8e6e21ded76e8ecce545c239626e8adf425979c604b0c1b94f497"
+  },
+  {
+    "ticker": "IPIB",
+    "announcement_url": "https://www.italianspib.it/the-giveaway",
+    "recipient": {
+      "name": "Save the Children ITALIA ONLUS",
+      "address": "Piazza di San Francesco di Paola, 9 00184 Roma",
+      "tel": "+39 06 4807001",
+      "contact": "info.italia@savethechildren.org"
+    },
+    "ada": 460,
+    "usd": 1150,
+    "timestamp": 1631259903,
+    "files": [
+      "IPIB/STC_September21.pdf"
+    ],
+    "charity_tx_id": "https://adapay.finance/pay/0eaedbbf-4d91-4ff4-a295-3fa110fcedcb",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "4356009df309f7a40cc6107d953640026c52888956f9dd868ee56cde3990ea0d"
+      }
+    ]
+  }
+]

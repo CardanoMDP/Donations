@@ -1,0 +1,95 @@
+[
+  {
+    "ticker": "SEAL",
+    "recipient": {
+      "name": "Fokarium Stacja Morska",
+      "address": "Morska 2, 84-150 Hel",
+      "tel": "58 / 675-08-36",
+      "contact": "hel@ug.edu.pl"
+    },
+    "ada": 32.6,
+    "usd": 43.3,
+    "timestamp": 1619514415,
+    "files": [
+      "SEAL/payment_fokarium.png"
+    ]
+  },
+  {
+    "ticker": "SEAL",
+    "recipient": {
+      "name": "Ocean Conservation Namibia",
+      "address": "Waterfront, End of Atlantic Street",
+      "tel": "+264811497377",
+      "contact": "info@ocnamibia.org"
+    },
+    "ada": 35.26,
+    "usd": 50,
+    "timestamp": 1618564015,
+    "files": [
+      "SEAL/payment_ocn.png"
+    ]
+  },
+  {
+    "ticker": "SEAL",
+    "recipient": {
+      "name": "Zoo Liberec",
+      "address": "Lidove sady 425/1, 460 01  Liberec 1, Czechia",
+      "tel": "+420 482 710 616",
+      "contact": "info@zooliberec.cz"
+    },
+    "ada": 38,
+    "usd": 46,
+    "timestamp": 1616843755,
+    "files": [
+      "SEAL/payment4.png"
+    ]
+  },
+  {
+    "ticker": "SEAL",
+    "recipient": {
+      "name": "Seal Rescue Ireland",
+      "address": "Courtown Harbour Co.Wexford Y25 PD92",
+      "tel": "053 942 4980",
+      "contact": "info@sealrescueireland.org"
+    },
+    "ada": 31,
+    "usd": 35.43,
+    "timestamp": 1616843755,
+    "files": [
+      "SEAL/payment3.png",
+      "SEAL/certificate_puppis.png"
+    ]
+  },
+  {
+    "ticker": "SEAL",
+    "recipient": {
+      "name": "Seal Rescue Ireland",
+      "address": "Courtown Harbour Co.Wexford Y25 PD92",
+      "tel": "053 942 4980",
+      "contact": "info@sealrescueireland.org"
+    },
+    "ada": 30,
+    "usd": 35.43,
+    "timestamp": 1616150944,
+    "files": [
+      "SEAL/payment2.png",
+      "SEAL/certificate_atria.png"
+    ]
+  },
+  {
+    "ticker": "SEAL",
+    "recipient": {
+      "name": "Seal Rescue Ireland",
+      "address": "Courtown Harbour Co.Wexford Y25 PD92",
+      "tel": "053 942 4980",
+      "contact": "info@sealrescueireland.org"
+    },
+    "ada": 33,
+    "usd": 35.43,
+    "timestamp": 1615664704,
+    "files": [
+      "SEAL/payment1.png",
+      "SEAL/certificate_gr.png"
+    ]
+  }
+]

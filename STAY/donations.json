@@ -1,0 +1,21 @@
+[
+  {
+    "ticker": "STAY",
+    "recipient": {
+      "name": "Clean Air Task Force",
+      "address": "114 State Street, 6th Floor Boston, MA 02109, USA.",
+      "tel": "617.624.0234",
+      "contact": "info@catf.us"
+    },
+    "ada": 17.73,
+    "usd": 26.25,
+    "timestamp": 1628468520,
+    "files": [
+      "STAY/9Aug2021_Clean-Air-Task-Force_1.png",
+      "STAY/9Aug2021_Clean-Air-Task-Force_2.png",
+      "STAY/9Aug2021_Clean-Air-Task-Force_3.png"
+    ],
+    "announcement_url": "https://twitter.com/stay_pool/status/1424680586543730688",
+    "charity_tx_id": 47630194
+  }
+]
