@@ -1,0 +1,18 @@
+---
+
+- ticker: HIPPO
+  announcement_url: &hippomission https://www.hippo-pool.com/mission
+  recipient: 
+    name: Sea Shepherd
+    address: 52 Alexander Boersstraat, 1071 KZ Amsterdam, The Netherlands
+    tel: +31 20 3330694
+    contact: https://seashepherd.org/contact/
+  ada: 34
+  usd: 67
+  timestamp: 1635861668
+  files:
+    - HIPPO/2021-11-02-hippo-donation-transaction-sea-shepherd.png
+    - HIPPO/2021-11-02-seashepherd-cardano-address.png
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: cd10b04632c3dc50ec14d6dea09907a216ec2b31c9027423a604690cc9b8b2bd

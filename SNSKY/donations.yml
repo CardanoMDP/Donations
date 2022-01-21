@@ -13,3 +13,17 @@
     - SNSKY/2021_05_100_Trees.jpeg
   charity_tx_id: 46-4664562
   announcement_url: https://forest-fundraiser.raisely.com/sam
+  
+- ticker: SNSKY
+  recipient:  
+    name: Veritree
+    address: 230-1275 Venables Street Vancouver, BC V6A 2E4
+    tel: 1-833-520-1145
+    contact: info@veritree.com
+  ada: 100
+  usd: 200
+  timestamp: 1636718315
+  files:
+    - SNSKY/2021_11_100_VeriTree.jpg
+  charity_tx_id: 46-4664562
+  announcement_url: https://pool.pm/f7c777fdd4531cf1c477551360e45b9684073c05c2fa61334f8f9add.VeritreeStarter
