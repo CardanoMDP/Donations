@@ -1,0 +1,15 @@
+  - ticker: CRPL
+  announcement_url: https://twitter.com/Carden_Pool/status/1436307180194574344?s=20
+  recipient:
+    name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
+    contact: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    tel:  falckfondazione@gmail.com
+    address: Fondazione Falck - Corso Venezia, 16 – 20121 Milano
+  ada: 12.766
+  eur: 30
+  timestamp: 1632199797
+  files:
+    - Certificazione_Fiscale_20210910_307840.png
+  intermediate_txs:
+    - provider: VISA 
+      tx_id: 163127084339857603
