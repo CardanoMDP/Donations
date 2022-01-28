@@ -10,9 +10,7 @@
   timestamp: 1632199797
   files:
     - Certificazione_Fiscale_20210910_307840.png
-  intermediate_txs:
-    - provider: VISA 
-      tx_id: 163127084339857603
+  charity_tx_id: 33820
 
   - ticker: CRPL
   announcement_url: https://twitter.com/Carden_Pool/status/1447234122506772480?s=20&t=Ac2nADFcUG123ee4DWvJfg
@@ -26,6 +24,4 @@
   timestamp: 1633879989
   files:
     - Certificazione_Fiscale_20211010_310088.png
-  intermediate_txs:
-    - provider: VISA 
-      tx_id: 
+  charity_tx_id: 34157
