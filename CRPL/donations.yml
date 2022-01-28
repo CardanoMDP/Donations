@@ -6,10 +6,26 @@
     tel:  falckfondazione@gmail.com
     address: Fondazione Falck - Corso Venezia, 16 – 20121 Milano
   ada: 12.766
-  eur: 30
+  eur: 30.00
   timestamp: 1632199797
   files:
     - Certificazione_Fiscale_20210910_307840.png
   intermediate_txs:
     - provider: VISA 
       tx_id: 163127084339857603
+
+  - ticker: CRPL
+  announcement_url: https://twitter.com/Carden_Pool/status/1447234122506772480?s=20&t=Ac2nADFcUG123ee4DWvJfg
+  recipient:
+    name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
+    contact: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    tel:  falckfondazione@gmail.com
+    address: Fondazione Falck - Corso Venezia, 16 – 20121 Milano
+  ada: 58.247
+  eur: 136.89
+  timestamp: 1633879989
+  files:
+    - Certificazione_Fiscale_20211010_310088.png
+  intermediate_txs:
+    - provider: VISA 
+      tx_id: 
