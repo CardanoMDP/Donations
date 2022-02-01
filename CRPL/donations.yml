@@ -2,26 +2,32 @@
   announcement_url: https://twitter.com/Carden_Pool/status/1436307180194574344?s=20
   recipient:
     name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
-    contact: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
-    tel:  falckfondazione@gmail.com
-    address: Fondazione Falck - Corso Venezia, 16 – 20121 Milano
+    contact: info@fcmilano.org
+    tel: +390237902520
+    address: Via D. Manin 23, 20121 Milano
   ada: 12.766
   eur: 30.00
-  timestamp: 1632199797
+  timestamp: 1631263379
   files:
     - Certificazione_Fiscale_20210910_307840.png
   charity_tx_id: 33820
+  custom:
+    project: ForestaMI
+    project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
 
   - ticker: CRPL
   announcement_url: https://twitter.com/Carden_Pool/status/1447234122506772480?s=20&t=Ac2nADFcUG123ee4DWvJfg
   recipient:
     name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
-    contact: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
-    tel:  falckfondazione@gmail.com
-    address: Fondazione Falck - Corso Venezia, 16 – 20121 Milano
+    contact: info@fcmilano.org
+    tel: +390237902520
+    address: Via D. Manin 23, 20121 Milano
   ada: 58.247
   eur: 136.89
-  timestamp: 1633879989
+  timestamp: 1633865459
   files:
     - Certificazione_Fiscale_20211010_310088.png
   charity_tx_id: 34157
+   custom:
+    project: ForestaMI
+    project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
