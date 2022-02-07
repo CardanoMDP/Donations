@@ -9,7 +9,7 @@
     address: Via D. Manin 23, 20121 Milano
   
   ada: 12.766
-  usd: 32.170
+  usd: 35.386
   timestamp: 1631263379
   
   files:
@@ -22,7 +22,8 @@
   custom:
     project: ForestaMI
     project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
-
+    eur_amount: 30
+    
 - ticker: CRPL
 
   recipient:
@@ -32,7 +33,7 @@
     address: Via D. Manin 23, 20121 Milano
     
   ada: 58.247
-  usd: 132.22
+  usd: 158.158
   timestamp: 1633865459
   
   files:
@@ -45,3 +46,4 @@
   custom:
     project: ForestaMI
     project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    eur_amount: 137
