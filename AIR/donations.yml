@@ -31,3 +31,32 @@
   intermediate_txs:
     - provider: Paypal
       tx_id: 9GL87000DN227934B
+
+- ticker: AIR
+  announcement_url: https://onetreeplanted.org
+  recipient:
+    name: One Tree Planted
+    address: 145 Pine Haven Shores Road, Suite 1000-D,  Shelburne, VT 05482 United States 
+    tel: +1 800 408 7850
+    contact: matt@onetreeplanted.org
+  usd: 1100
+  ada: 830
+  timestamp: 1627920000
+  files:
+    - AIR/02-08-2021_OTP_receipt.pdf
+    - AIR/02-08-2021_OTP_certificate.pdf
+  charity_tx_id: Invoice No. 208225
+    
+- ticker: AIR
+  announcement_url: https://www.crisisgroup.org/donate
+  recipient:
+    name: International Crisis Group
+    address: 19-20 Piccadilly 3rd floor London, W1J 0DG United Kingdom
+    tel: +44 (0)2034 090 603
+    contact: london@crisisgroup.org
+  usd: 232
+  ada: 177
+  timestamp: 1627920000
+  files:
+    - AIR/02-08-2021_ICG_receipt.jpg
+  charity_tx_id: Invoice No. 52-5170039
