@@ -489,3 +489,17 @@
      - GNP1/Rethink_30.Nov.2021.PNG
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "Non Provided"
+
+- ticker: GNP1 
+  recipient: 
+    name: Black Dog Institute
+    address: Hospital Road, Prince of Wales Hospital, Randwick NSW 2031 Australia
+    tel: +61 2 9382 4530
+    contact: blackdog@blackdog.org.au 
+  ada: 105.78
+  usd: 142.80
+  timestamp: 1640772000
+  files:
+     - GNP1/BDI_Australia_29_Dec_2021.PNG
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "9529070"
