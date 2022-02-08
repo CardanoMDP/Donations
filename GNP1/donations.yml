@@ -517,3 +517,17 @@
      - GNP1/Mind_17.Jan.2022.PNG
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "Not Provided"
+
+- ticker: GNP1 
+  recipient: 
+    name: Anxious Minds
+    address: The Vault 31 Station Road, Wallsend, North Tyneside, NE28 6RL
+    tel: +44 191 262 0305
+    contact: info@anxiousminds.co.uk
+  ada: 166.82
+  usd: 174.83
+  timestamp: 1643450400
+  files:
+     - GNP1/Anxious_Minds_Receipt2.PNG  
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "T637790525351553298U1664501C338668-710ae"
