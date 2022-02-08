@@ -503,3 +503,17 @@
      - GNP1/BDI_Australia_29_Dec_2021.PNG
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "9529070"
+
+- ticker: GNP1 
+  recipient: 
+    name: Mind
+    address: 2 Redman Place London E20 1JQ
+    tel: +44 (0)20 8519 2122
+    contact: supporterrelations@mind.org.uk 
+  ada: 61.38
+  usd: 96.68
+  timestamp: 1642413600
+  files:
+     - GNP1/Mind_17.Jan.2022.PNG
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Not Provided"
