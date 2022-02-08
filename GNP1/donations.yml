@@ -433,3 +433,17 @@
      - GNP1/OCD_6_Oct_2021_wp.png 
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "#31054"
+
+- ticker: GNP1 
+  recipient: 
+    name: Anxiety UK
+    address: Nunes House 447 Chester Road Manchester M16 9HA
+    tel: +44 161 2267727
+    contact:  fundraising@beateatingdisorders.org.uk
+  ada: 77.09
+  usd: 164.22
+  timestamp: 1635152400 
+  files:
+     - GNP1/Anxiety_UK_25_Oct_2021_web.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "334405"
