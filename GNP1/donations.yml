@@ -475,3 +475,17 @@
      - GNP1/Strongminds_23_Nov_2021_web.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "1499-4826"
+
+- ticker: GNP1 
+  recipient: 
+    name: ReThink Mental Illness
+    address: 89 Albert Embankment, London SE1 7TP
+    tel: +44 300 5000927
+    contact: info@rethink.org
+  ada: 83.13
+  usd: 133.00
+  timestamp: 1638266400
+  files:
+     - GNP1/Rethink_30.Nov.2021.PNG
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "Non Provided"
