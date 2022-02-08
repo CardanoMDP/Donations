@@ -447,3 +447,17 @@
      - GNP1/Anxiety_UK_25_Oct_2021_web.png
   announcement_url: https://grahamsnumberplus1.com/charity-donations/
   charity_tx_id: "334405"
+
+- ticker: GNP1 
+  recipient: 
+    name: Therapy for Black Men
+    address: 116 West 23rd Street, New York, NY 10011
+    tel: +1 (646) 780-8278
+    contact:  info@therapyforblackmen.org
+  ada: 75.11
+  usd: 147.22
+  timestamp: 1635847200 
+  files:
+     - GNP1/Therapy_For_Black_Men_2_Nov_2021_web.png
+  announcement_url: https://grahamsnumberplus1.com/charity-donations/
+  charity_tx_id: "17317184"
