@@ -28,7 +28,7 @@
 
 - ticker: SAPIO
   recipient:
-    name: Association of Parents of Children with Neoplastic Disease "The Floga"
+    name: Association of Parents of Children with Neoplastic Disease "Floga"
     address: Aigiou 6-8, 11527 Athens Attica
     tel: "+302107485000"
     contact: floga@floga.org.gr
@@ -37,7 +37,7 @@
   timestamp: 1639177200
   files:
     - SAPIO/FLoga.jpg
- announcement_url: https://twitter.com/sapiopool/status/1470764233667272714?t=euCS_pomkVDPJZmaTQENFw&s=19
+  announcement_url: https://twitter.com/sapiopool/status/1470764233667272714?t=euCS_pomkVDPJZmaTQENFw&s=19
 
 - ticker: SAPIO
   recipient:
@@ -48,4 +48,4 @@
   timestamp: 1640934782
   files:
     - SAPIO/Mediteranean_Saving_Humans.jpg
- announcement_url: https://twitter.com/sapiopool/status/1477030645394288647?t=y-Jkkb48Es3d4WnO7TbC8A&s=19
+  announcement_url: https://twitter.com/sapiopool/status/1477030645394288647?t=y-Jkkb48Es3d4WnO7TbC8A&s=19
