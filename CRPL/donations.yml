@@ -8,8 +8,8 @@
     tel: +390237902520
     address: Via D. Manin 23, 20121 Milano
   
-  ada: 12.766
-  usd: 35.386
+  ada: 12.760
+  usd: 35.370
   timestamp: 1631263379
   
   files:
@@ -23,6 +23,7 @@
     project: ForestaMI
     project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
     eur_amount: 30
+    epochs_ref: 287-
     
 - ticker: CRPL
 
@@ -32,8 +33,8 @@
     tel: +390237902520
     address: Via D. Manin 23, 20121 Milano
     
-  ada: 58.247
-  usd: 158.158
+  ada: 57.960
+  usd: 161.520
   timestamp: 1633865459
   
   files:
@@ -47,3 +48,29 @@
     project: ForestaMI
     project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
     eur_amount: 137
+    epochs_ref: 287-
+    
+- ticker: CRPL
+
+  recipient:
+    name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
+    contact: info@fcmilano.org
+    tel: +390237902520
+    address: Via D. Manin 23, 20121 Milano
+  
+  ada: 194.248
+  usd: 253.490
+  timestamp: xxxx
+  
+  files:
+     - CRPL/xxx.png
+  
+  announcement_url: xxxxx
+
+  charity_tx_id: xxxxx
+
+  custom:
+    project: ForestaMI
+    project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    eur_amount: 222.68
+    epochs_ref: 299-316-317-318
