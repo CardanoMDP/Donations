@@ -19,7 +19,7 @@
   timestamp: 1606231680
 
   files:
-    - ONE/1_Sunnybrook_receipt_11-24-2020.pdf
+    - ONE/1_Sunnybrook_receipt 11:24:2020.pdf
     
     
 - ticker: ONE
@@ -35,7 +35,7 @@
   timestamp: 1581540300
 
   files:
-    - ONE/2_Sunnybrook_receipt_12-02-2020.png
+    - ONE/2_Sunnybrook_receipt 12:02:2020.png
         
     
 - ticker: ONE
@@ -51,7 +51,7 @@
   timestamp: 1623769860
 
   files:
-    - ONE/3_Sunnybrook_receipt_6-15-2021.png
+    - ONE/3_Sunnybrook_receipt 6:15:2021.png
     
   intermediate_txs:
     - provider: Cardano
