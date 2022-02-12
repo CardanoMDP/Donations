@@ -128,7 +128,6 @@
   announcement_url: https://adamoon.net/donations.html
   charity_tx_proof_url: https://donation.adapay.finance/pay/02a50404-a21f-4504-b3dd-f9aceb2f7fa0
 
-
 - ticker: AMOON
   recipient:
     name: Save The Children
@@ -156,7 +155,3 @@
     - AMOON/Save_The_Children_11th_Donation_20220210.png
   announcement_url: https://adamoon.net/donations.html
   charity_tx_proof_url: https://donation.adapay.finance/pay/8ef888e4-2875-46f2-b23e-39fd7125573a
-
-
-
-
