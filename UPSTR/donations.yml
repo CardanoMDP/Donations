@@ -22,3 +22,16 @@
   files:
     - UPSTR/2021-11-13-GROW.pdf
     
+- ticker: UPSTR
+  recipient: 
+    name: Veritree
+    address: 230-1275 Venables Street Vancouver, BC V6A 2E4
+    tel: 1-833-520-1145
+    contact: hello@veritree.com
+    transaction: https://explorer.cardano.org/en/transaction?id=74327b5b2d0e2d59f5f5b035a6d037c1f7bc26ce7ff75f774001c6556e96608c
+  ada: 100
+  usd: 224.70
+  timestamp: 1633174377 
+  files:
+    - UPSTR/2021-10-02-veritree.png
+    
