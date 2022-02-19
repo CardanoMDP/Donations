@@ -1,3 +1,16 @@
+
+- ticker: UPSTR
+  recipient: 
+    name: GROW
+    address: Barnet Ln, London N20 8AZ
+    tel: +44 208 492 0406
+    contact: hello@wearegrow.org
+  ada: 104.6
+  usd: 135.10
+  timestamp: 1642249977 
+  files:
+    - UPSTR/2022-01-15-GROW.pdf
+
 - ticker: UPSTR
   recipient: 
     name: GROW
