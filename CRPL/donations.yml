@@ -60,17 +60,17 @@
   
   ada: 194.248
   usd: 253.490
-  timestamp: xxxx
+  timestamp: 1644516000
   
   files:
-     - CRPL/xxx.png
+     - CRPL/Certificazione_Fiscale_20220210.png
   
-  announcement_url: xxxxx
+  announcement_url: https://twitter.com/Carden_Pool/status/1495775501864026124
 
-  charity_tx_id: xxxxx
+  charity_tx_id: 460526862286120419
 
   custom:
     project: ForestaMI
     project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
-    eur_amount: 222.68
+    eur_amount: 223.00
     epochs_ref: 299-316-317-318
