@@ -33,3 +33,18 @@
     - PILOT/2021-07-02-MSIF.png
     
   charity_tx_id: DON-MSIF413
+
+- ticker: PILOT
+
+  announcement_url: *ann
+  
+  recipient: *MSIF
+  
+  ada: 1640
+  usd: 3517.07
+  timestamp: 1635310235
+  
+  files:
+    - PILOT/2021-10-27-MSIF.png
+    
+  charity_tx_id: DON-MSIF435

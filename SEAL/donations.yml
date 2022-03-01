@@ -8,6 +8,66 @@
 - ticker: SEAL
 
   recipient:
+    name: Ocean Blue Project
+    address: 922 NW Circle Blvd 160-146 Corvallis, OR 97330
+    tel: N/A
+    contact: office@oceanblueproject.org
+
+  ada: 25
+  usd: 50
+  timestamp: 1635264943
+
+  files:
+    - SEAL/obp1.png
+
+- ticker: SEAL
+
+  recipient:
+    name: Zeehondencentrum Pieterburen
+    address: Hoofdstraat 94a 9968 AG Pieterburen The Netherlands
+    tel: +31(0)595 526 526
+    contact: info@zeehondencentrum.nl
+
+  ada: 30.5
+  usd: 63.5
+  timestamp: 1635005743
+
+  files:
+    - SEAL/sarami.png
+
+- ticker: SEAL
+
+  recipient:
+    name: MABLETHORPE WILDLIFE RESCUE
+    address: Quebec Road North End, Mablethorpe, Lincolnshire, LN12 1QG
+    tel: 01507 473346
+    contact: www.thesealsanctuary.com
+
+  ada: 34
+  usd: 40.5
+  timestamp: 1627402543
+
+  files:
+    - SEAL/mwr.png
+
+- ticker: SEAL
+
+  recipient:
+    name: Zeehondencentrum Pieterburen
+    address: Hoofdstraat 94a 9968 AG Pieterburen The Netherlands
+    tel: +31(0)595 526 526
+    contact: info@zeehondencentrum.nl
+
+  ada: 45.03
+  usd: 60
+  timestamp: 1620231343
+
+  files:
+    - SEAL/gromit.png
+
+- ticker: SEAL
+
+  recipient:
     name: Fokarium Stacja Morska
     address: Morska 2, 84-150 Hel
     tel: 58 / 675-08-36
