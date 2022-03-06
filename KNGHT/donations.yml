@@ -1,0 +1,25 @@
+- ticker: KNGHT
+  recipient:
+    name: Blue Shield France - Bouclier Bleu France
+    address: c/o INHA, 2 rue Vivienne, 75002 Paris, FRANCE
+    tel: +33 (0)9 80 80 15 15
+    contact: secretariat@bouclier-bleu.fr
+  ada: 25.34
+  usd: 21.87
+  timestamp: 1646493780
+  files:
+    - KNGHT/2022-03-05-BSF.pdf
+  charity_tx_id: 6962358
+
+- ticker: KNGHT
+  recipient:
+    name: World Monuments Fund
+    address: Empire State Building, 350 Fifth Avenue, Suite 2412, New York, NY 10118, USA
+    tel: +1 646-424-9594
+    contact: wmf@wmf.org
+  ada: 30.79
+  usd: 25.75
+  timestamp: 1646598900
+  files:
+    - KNGHT/2022-03-06-WMF.jpg
+  charity_tx_id: 13-2571900
