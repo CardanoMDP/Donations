@@ -85,14 +85,14 @@
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
     tel: +61864562222
     contact: info@pchf.org.au
-
+    
   ada: 410
   usd: 500.20
   timestamp: 1641452014
 
   files:
     - DEN/pchf6.pdf
-
+  
   announcement_url: https://denadapool.io/donations.html
   
   - ticker: DEN
@@ -101,12 +101,12 @@
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
     tel: +61864562222
     contact: info@pchf.org.au
-
+  
   ada: 443
   usd: 450.5
   timestamp: 1646545500
 
   files:
     - DEN/pchf7.pdf
-    
+
   announcement_url: https://denadapool.io/donations.html
