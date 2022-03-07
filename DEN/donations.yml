@@ -2,11 +2,13 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +62-08-64562222
+    tel: +61864562222
     contact: info@pchf.org.au
+
   ada: 34
   usd: 41.82
   timestamp: 1619395680
+
   files:
     - DEN/pchf1.pdf
 
@@ -16,11 +18,13 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +62-08-64562222
+    tel: +61864562222
     contact: info@pchf.org.au
+
   ada: 34
   usd: 49.98
   timestamp: 1621426500
+
   files:
     - DEN/pchf2.pdf
 
@@ -30,11 +34,13 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +62-08-64562222
+    tel: +61864562222
     contact: info@pchf.org.au
+
   ada: 29.31
   usd: 38.4
   timestamp: 1621754880
+
   files:
     - DEN/pchf3.pdf
 
@@ -44,11 +50,13 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +62-08-64562222
+    tel: +61864562222
     contact: info@pchf.org.au
+
   ada: 4.69
   usd: 6.14
   timestamp: 1621760100
+
   files:
     - DEN/pchf4.pdf
 
@@ -58,12 +66,14 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +62-08-64562222
+    tel: +61864562222
     tel: "+62 (08) 6456 2222"
     contact: info@pchf.org.au
+
   ada: 34
   usd: 41.85
   timestamp: 1627210800
+
   files:
     - DEN/pchf5.pdf
 
@@ -73,11 +83,13 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +62-08-64562222
+    tel: +61864562222
     contact: info@pchf.org.au
+
   ada: 410
   usd: 500.20
   timestamp: 1641452014
+
   files:
     - DEN/pchf6.pdf
 
@@ -87,11 +99,13 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +62-08-64562222
+    tel: +61864562222
     contact: info@pchf.org.au
+
   ada: 443
   usd: 450.5
   timestamp: 1646545500
+  
   files:
     - DEN/pchf7.pdf
     
