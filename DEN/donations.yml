@@ -1,5 +1,3 @@
----
-
 - ticker: DEN
   recipient: 
     name: Perth Childrens Hospital Foundation
@@ -11,6 +9,7 @@
   timestamp: 1619395680
   files:
     - DEN/pchf1.pdf
+
   announcement_url: https://denadapool.io/donations.html
 
 - ticker: DEN
@@ -24,6 +23,7 @@
   timestamp: 1621426500
   files:
     - DEN/pchf2.pdf
+
   announcement_url: https://denadapool.io/donations.html
 
 - ticker: DEN
@@ -37,6 +37,7 @@
   timestamp: 1621754880
   files:
     - DEN/pchf3.pdf
+
   announcement_url: https://denadapool.io/donations.html
 
 - ticker: DEN
@@ -50,6 +51,7 @@
   timestamp: 1621760100
   files:
     - DEN/pchf4.pdf
+
   announcement_url: https://denadapool.io/donations.html
 
 - ticker: DEN
@@ -63,6 +65,7 @@
   timestamp: 1627210800
   files:
     - DEN/pchf5.pdf
+
   announcement_url: https://denadapool.io/donations.html
 
   - ticker: DEN
@@ -76,6 +79,7 @@
   timestamp: 1641452014
   files:
     - DEN/pchf6.pdf
+
   announcement_url: https://denadapool.io/donations.html
   
   - ticker: DEN
@@ -89,4 +93,5 @@
   timestamp: 1646545500
   files:
     - DEN/pchf7.pdf
+    
   announcement_url: https://denadapool.io/donations.html
