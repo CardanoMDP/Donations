@@ -11,12 +11,12 @@
   ada: 34.00
   usd: 41.82
   timestamp: 1619395680
-
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
   files:
     - DEN/pchf1.pdf
 
   announcement_url: https://denadapool.io/donations.html
-  charity_tx_id: 2002347
+  charity_tx_id: "2002347"
 
 - ticker: DEN
 
@@ -34,7 +34,7 @@
     - DEN/pchf2.pdf
 
   announcement_url: https://denadapool.io/donations.html
-  charity_tx_id: 2002419
+  charity_tx_id: "2002419"
 
 - ticker: DEN
 
@@ -52,7 +52,7 @@
     - DEN/pchf3.pdf
 
   announcement_url: https://denadapool.io/donations.html
-  charity_tx_id: 2002443
+  charity_tx_id: "2002443"
 
 - ticker: DEN
 
@@ -70,7 +70,7 @@
     - DEN/pchf4.pdf
 
   announcement_url: https://denadapool.io/donations.html
-  charity_tx_id: 2002444
+  charity_tx_id: "2002444"
 
 - ticker: DEN
 
@@ -88,7 +88,7 @@
     - DEN/pchf5.pdf
 
   announcement_url: https://denadapool.io/donations.html
-  charity_tx_id: 2002936
+  charity_tx_id: "2002936"
 
   - ticker: DEN
 
@@ -106,7 +106,7 @@
     - DEN/pchf6.pdf
 
   announcement_url: https://denadapool.io/donations.html
-  charity_tx_id: 2003882
+  charity_tx_id: "2003882"
   
   - ticker: DEN
 
@@ -122,6 +122,6 @@
 
   files:
     - DEN/pchf7.pdf
-    
+
   announcement_url: https://denadapool.io/donations.html
-  charity_tx_id: 2004093
+  charity_tx_id: "2004093"
