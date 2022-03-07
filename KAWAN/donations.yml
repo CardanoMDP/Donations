@@ -53,3 +53,87 @@
   files:
     - KAWAN/28-Jun-2021.jpg
   announcement_url: https://kawancardano.com/newBlogPost-page_BVW-t64BltIlZuNtaFon5
+
+- ticker: KAWAN
+  recipient: 
+    name: Aksi Cepat Tanggap Sulawesi Selatan
+    address: Ruko Alauddin Plaza, BB 11, Jl. Sultan Alauddin, Kota Makassar, Sulawesi Selatan, 90221, Indonesia 
+    website: https://act.id/home/id
+    contact: act.sulsel@act.id
+    tel: "+62 821 9224 1414"
+  ada: 187.5
+  usd: 236.71
+  timestamp: 1627657150
+  files:
+    - KAWAN/30-Jul-2021.jpg
+  announcement_url: https://kawancardano.com/newBlogPost-page_ui-ex_aBfWmVLsrI-jGJ9
+  
+- ticker: KAWAN
+  recipient: 
+    name: Rumah Zakat
+    address: Jl.Turangga No.33 Bandung, Indonesia 
+    website: www.rumahzakat.org
+    contact: welcome@rumahzakat.org
+    tel: "+62804 100 1000"
+  ada: 224
+  usd: 572
+  timestamp: 1630076921
+  files:
+    - KAWAN/27-Aug-2021.jpg
+  announcement_url: https://twitter.com/KawanuaP/status/1431275732257280003
+
+- ticker: KAWAN
+  recipient: 
+    name: ACT (Aksi Cepat Tanggap)
+    address: Menara 165, lantai 10, Jl. TB. Simatupang Kav. 1, Cilandak Timur, Jakarta Selatan, 12560, Indonesia
+    website: https://act.id/home/id
+    contact: info@act.id
+    tel: "+6221 29406565"
+  ada: 310
+  usd: 644.155
+  timestamp: 1632996329
+  files:
+    - KAWAN/30-Sep-2021.jpg
+  announcement_url: https://twitter.com/KawanuaP/status/1443621805025992708
+  
+- ticker: KAWAN
+  recipient: 
+    name: YAYASAN KITABISA INDONESIA
+    address: Jl. Raya Cilandak KKO No.31, RT.13/RW.8, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550
+    website: https://kitabisa.com
+    contact: support@kitabisa.com
+    tel: "-"
+  ada: 315
+  usd: 669
+  timestamp: 1636270632
+  files:
+    - KAWAN/03-Nov-2021.jpg
+  announcement_url: https://twitter.com/KawanuaP/status/1455873035781623808
+
+- ticker: KAWAN
+  recipient: 
+    name: YAYASAN KITABISA HATI BAIK
+    address: Jl. Raya Cilandak KKO No.31, RT.13/RW.8, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550
+    website: https://kitabisa.com
+    contact: support@kitabisa.com
+    tel: "-"
+  ada: 375
+  usd: 473.28
+  timestamp: 1639344140
+  files:
+    - KAWAN/13-Des-2021.jpg
+  announcement_url: https://www.kawancardano.com/newBlogPost-zvHp_Z
+  
+- ticker: KAWAN
+  recipient: 
+    name: YAYASAN SILOAM PAPUA
+    address: Jl. Raya Cilandak KKO No.31, RT.13/RW.8, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550
+    website: https://yayasansiloampapua.com/
+    contact: siloampapuaministry@gmail.com
+    tel: "+6285320000363"
+  ada: 260
+  usd: 381.03
+  timestamp: 1642494080
+  files:
+    - KAWAN/18-Jan-2022.jpg
+  announcement_url: https://www.kawancardano.com/newBlogPost-zZ8B0b
