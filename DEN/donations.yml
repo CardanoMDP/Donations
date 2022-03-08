@@ -5,13 +5,13 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +61864562222
+    tel: +61 8 64562222
     contact: info@pchf.org.au
 
   ada: 34.00
   usd: 41.82
   timestamp: 1619395680
-  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+
   files:
     - DEN/pchf1.pdf
 
@@ -23,7 +23,7 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +61864562222
+    tel: +61 8 64562222
     contact: info@pchf.org.au
 
   ada: 34.00
@@ -41,7 +41,7 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +61864562222
+    tel: +61 8 64562222
     contact: info@pchf.org.au
 
   ada: 29.31
@@ -59,7 +59,7 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +61864562222
+    tel: +61 8 64562222
     contact: info@pchf.org.au
 
   ada: 4.69
@@ -77,7 +77,7 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +61864562222
+    tel: +61 8 64562222
     contact: info@pchf.org.au
 
   ada: 34.00
@@ -95,7 +95,7 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +61864562222
+    tel: +61 8 64562222
     contact: info@pchf.org.au
 
   ada: 410.00
@@ -113,7 +113,7 @@
   recipient: 
     name: Perth Childrens Hospital Foundation
     address: PO Box 8249, Subiaco East, WA, 6008, Australia
-    tel: +61864562222
+    tel: +61 8 64562222
     contact: info@pchf.org.au
 
   ada: 443.00
@@ -125,3 +125,5 @@
 
   announcement_url: https://denadapool.io/donations.html
   charity_tx_id: "2004093"
+
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
