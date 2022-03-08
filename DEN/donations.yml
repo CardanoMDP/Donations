@@ -90,7 +90,7 @@
   announcement_url: https://denadapool.io/donations.html
   charity_tx_id: "2002936"
 
-  - ticker: DEN
+- ticker: DEN
 
   recipient: 
     name: Perth Childrens Hospital Foundation
