@@ -128,7 +128,7 @@
   files:
     - RISE/DementiaUKNovember2021ReceiptEdited.PNG
   
- - ticker: RISE
+- ticker: RISE
   announcement_url: &ann https://www.risecardano.com/news
   recipient: 
     name: Giraffe Conservation Foundation 
