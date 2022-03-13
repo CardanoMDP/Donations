@@ -364,7 +364,7 @@
     name: Ukranian goverment
     address: M. Hrushevskoho str., 12/2 Kyiv, Ukraine, 01008 
     tel: (380 44) 200 45 25
-    contact: www.me.gov.ua
+    contact: https://www.me.gov.ua
   ada: 300
   usd: 222.61
   timestamp: 1647179161
@@ -372,6 +372,7 @@
     - CPU/13-03-2022.png
     - CPU/13-03-2022_payment.png
   charity_tx_id: 23765f5abcc1661f8a8d35151322222dfeffd1b5b3bc3db9201a0e2b7f33c7cd
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1503011996115034114
   intermediate_txs:
     - provider: Bitcoin
       tx_id: 23765f5abcc1661f8a8d35151322222dfeffd1b5b3bc3db9201a0e2b7f33c7cd
