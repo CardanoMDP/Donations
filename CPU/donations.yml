@@ -343,7 +343,7 @@
 - ticker: CPU
   recipient:
     name: Rainforest Rescue
-    address: PO Box 40 Mullumbimby NSW 2482 Australia Bundjalung Nation – Arakwal Country
+    address: PO Box 40 Mullumbimby NSW 2482 Australia Bundjalung Nation, Arakwal Country
     tel: + 61 2 6684 4360
     contact: https://www.rainforestrescue.org.au/contact/
   ada: 100
@@ -358,6 +358,25 @@
       tx_id: 6e28cffea70c09a97d484a5785581735868259bfe4f74c7274f2b94fdc9e0967
   custom:
     donationType: nature 
+
+- ticker: CPU
+  recipient:
+    name: Ukranian goverment
+    address: M. Hrushevskoho str., 12/2 Kyiv, Ukraine, 01008 
+    tel: (380 44) 200 45 25
+    contact: www.me.gov.ua
+  ada: 300
+  usd: 222.61
+  timestamp: 1647179161
+  files:
+    - CPU/13-03-2022.png
+    - CPU/13-03-2022_payment.png
+  charity_tx_id: 23765f5abcc1661f8a8d35151322222dfeffd1b5b3bc3db9201a0e2b7f33c7cd
+  intermediate_txs:
+    - provider: Bitcoin
+      tx_id: 23765f5abcc1661f8a8d35151322222dfeffd1b5b3bc3db9201a0e2b7f33c7cd
+  custom:
+    donationType: community 
 
 
 
