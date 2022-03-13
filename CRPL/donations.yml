@@ -75,7 +75,7 @@
     eur_amount: 223.00
     epochs_ref: 299-316-317-318
     
-    - ticker: CRPL
+- ticker: CRPL
 
   recipient:
     name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
