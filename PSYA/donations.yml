@@ -262,3 +262,45 @@
   intermediate_txs:
     - provider: Cardano # The canonical name of the provider you used
       tx_id: 1caa05a5fcea0c1719ef6d0a7eef37ad425d1cfd00f562dd24ac69341b76623d # The transaction ID the provider gave you
+      
+      
+- ticker: PSYA
+  recipient: 
+    name: One Tree Planted  
+    address: 145 Pine Haven Shores Rd 1000D Shelburne, Vermont, 05482, US
+    tel: 1-800-408-7850
+    contact: https://onetreeplanted.org/pages/contact-us
+  ada: 105 # <- These must be numbers. Can be decimals though. See below
+  usd: 115 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1644089502 
+  files: 
+    - PSYA/OneTreePlanted01.jpg
+    - PSYA/OneTreePlanted02.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1490807630570397698
+  # charity_tx_id: 
+  # charity_tx_proof_url: 
+  intermediate_txs:
+    - provider: PayPal # The canonical name of the provider you used
+      tx_id: 75704969NA952052G
+
+
+- ticker: PSYA
+  recipient: 
+    name: Sage Institute 
+    address:  444 34th St, Oakland, CA 94609, United States
+    tel: +1 510-929-0222
+    contact: info@sageinst.org
+  ada: 421 # <- These must be numbers. Can be decimals though. See below
+  usd: 473 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1644104562 
+  files: 
+    - PSYA/January_SageInst.jpg
+  announcement_url: https://twitter.com/psyadapool/status/1468675867526193157
+  # charity_tx_id: 
+  charity_tx_proof_url: https://twitter.com/psyadapool/status/1490807630570397698
+  intermediate_txs:
+    - provider: FixedFloat # The canonical name of the provider you used
+      tx_id: TZ9W7B # The transaction ID the provider gave you
+    - provider: LiteCoin # The canonical name of the provider you used
+      tx_id: e1576ed054ddf127d17d86ec734c96bf1624a85030ff4b82ceda6e468cb8d8d8 # The transaction ID the provider gave you
+      

@@ -1,0 +1,32 @@
+---
+- ticker: FASO
+  recipient: 
+    name: The Barka Foundation 
+    address: BARKA FOUNDATION INC, P.O. Box 2, Burlington, ME, 04417
+    tel: (833) 287-5462
+    contact: teambarka@barkafoundation.org
+
+  ada: 107.19  # <- These must be numbers. Can be decimals though. See below
+  usd: 130.00 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1627237810
+  # ^ This is a unix timestamp of the moment you donated.
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+
+  files:
+    - FASO/barka278.jpg
+
+- ticker: FASO
+  recipient: 
+    name: The Barka Foundation 
+    address: BARKA FOUNDATION INC, P.O. Box 2, Burlington, ME, 04417
+    tel: (833) 287-5462
+    contact: teambarka@barkafoundation.org
+
+  ada: 69  # <- These must be numbers. Can be decimals though. See below
+  usd: 168.00 # Only usd currency accepted, check on xe.com for exchange rate.
+  timestamp: 1631633410
+  # ^ This is a unix timestamp of the moment you donated.
+  #   You can go to https://www.unixtimestamp.com/ to calculate your donation.
+
+  files:
+    - FASO/barka288.jpg
