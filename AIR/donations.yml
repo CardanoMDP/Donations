@@ -60,3 +60,19 @@
   files:
     - AIR/02-08-2021_ICG_receipt.jpg
   charity_tx_id: Invoice No. 52-5170039
+
+- ticker: AIR
+  announcement_url: https://ito.veritree.com/
+  recipient:
+    name: Veritree Cardano Forest
+    address: 230-1275 Venables Street Vancouver, BC V6A 2E4
+    tel: 1-833-520-1145
+    contact: info@veritree.com
+  usd: 500
+  ada: 500
+  timestamp: 1628591381
+  files:
+    - AIR/10-08-2021_veritree_pof.pdf
+  intermediate_txs:
+    - provider: Cardano
+      tx_id: 2f3eeb90c2962c6c8bca8368badc98e6528f3b4cb517e331fcd0c450b01af36e
