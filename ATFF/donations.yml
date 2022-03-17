@@ -28,3 +28,23 @@
     - ATFF/2021-09-06-donation002-T2TF.png
   announcement_url: https://www.atffpool.at/fileadmin/user_upload/2021-09-06-donation002-T2TF.png
   charity_tx_id: 9BF38856KC877160V
+  
+  - ticker: ATFF
+  recipient: 
+    name: @fire Internationaler Katastrophenschutz Deutschland e.V.
+    address: Brunings Kamp 8c, 49134 Wallenhorst, Germany
+    contact: vorstand@at-fire.de
+  ada: 136
+  usd: 165.79
+  timestamp: 1640010600
+  announcement_url: https://www.atffpool.at/fileadmin/user_upload/2021-09-06-donation002-T2TF.png
+  charity_tx_id: 20869975272562613
+  announcement_url: https://twitter.com/AtfFpool/status/1472923948694355970
+  
+  - ticker: ATFF
+  recipient: 
+    name: Aid for Ukraine, Ministry of Digital Transformation of Ukraine
+    contact: https://twitter.com/_AidForUkraine
+  ada: 408
+  timestamp: 1647523776
+  announcement_url: https://twitter.com/AtfFpool/status/1504452805989388290
