@@ -13,6 +13,116 @@
     tel: +44 (0)20 3272 0300
     contact: info@savethechildren.org
 
+  ada: 151
+  usd: 147
+  timestamp: 1646149673   
+
+  files:
+    - A4G/2022-03-01-transaction-confirmation.jpg
+    - A4G/2022-03-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: a466c6aea36d951dceca1659f0127b717c901b303ab984670dc27ef5b2f5bd26
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 139
+  usd: 147
+  timestamp: 1643725663   
+
+  files:
+    - A4G/2022-02-01-transaction-confirmation.jpg
+    - A4G/2022-02-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: 9de0700a3556dedddaea444bfc279e70ac85bc59a133ceb39a0b7894aa31014c
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 149
+  usd: 200
+  timestamp: 1641059769   
+
+  files:
+    - A4G/2022-01-01-transaction-confirmation.jpg
+    - A4G/2022-01-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: 90d753af994e594ba5e42df96da7d504e6235fc3bcb3825991d35e5a706e92fd
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 123
+  usd: 189
+  timestamp: 1638355180   
+
+  files:
+    - A4G/2021-12-01-transaction-confirmation.jpg
+    - A4G/2021-12-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: e3c15ee30e53b0537ad0a06901398320ca0ed92ed2b0604363f48fd95715f1bd
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
+  ada: 850
+  usd: 1658
+  timestamp: 1635803288   
+
+  files:
+    - A4G/2021-11-01-transaction-confirmation.jpg
+    - A4G/2021-11-01-payment-confirmation.jpg
+    
+  announcement_url: https://www.ada4good.com/donations
+  
+  intermediate_txs:      
+    - provider: Cardano
+      tx_id: a8751d57f9c10dfe3f3c03e6c97d59718c4394ad9fea65b8c49a7f0685b643a2
+  
+- ticker: A4G  
+
+  recipient: 
+    name: Save the Children
+    address: 30 Orange Street
+    tel: +44 (0)20 3272 0300
+    contact: info@savethechildren.org
+
   ada: 644
   usd: 1458
   timestamp: 1633096023   
