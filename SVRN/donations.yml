@@ -94,7 +94,7 @@
     - SVRN/Donation_Receipt_8476.jpg 
   charity_tx_id: fc27ae6bb5928e35795de07d3ccc53a361f923930526a6c6d79944ddb56438da
   
- ticker: SVRN
+- ticker: SVRN
   announcement_url: https://sleepingnatives.org/donations.html
   recipient: 
     name: Sleeping Natives Productions
@@ -110,4 +110,3 @@
     - SVRN/Donation_Receipt_8477.jpg 
   charity_tx_id: ff3b250b822dd591f298bff5c93028e90eeb19210d54c44e6b8fb5932a9ac568
   
- 
