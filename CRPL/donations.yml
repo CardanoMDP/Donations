@@ -74,3 +74,28 @@
     project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
     eur_amount: 223.00
     epochs_ref: 299-316-317-318
+    
+- ticker: CRPL
+
+  recipient:
+    name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
+    contact: info@fcmilano.org
+    tel: +390237902520
+    address: Via D. Manin 23, 20121 Milano
+  
+  ada: 251.716
+  usd: 247.630
+  timestamp: 1647203943
+  
+  files:
+     - CRPL/Certificazione_Fiscale_20220313.png
+  
+  announcement_url: https://twitter.com/Carden_Pool/status/1503114506523889678
+
+  charity_tx_id: 385978765131220729
+
+  custom:
+    project: ForestaMI
+    project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    eur_amount: 220.00
+    epochs_ref: 319-320-321-322-323-324
