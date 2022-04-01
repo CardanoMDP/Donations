@@ -15,3 +15,39 @@
   announcement_url: https://twitter.com/MnMcharityPool/status/1499182277632610306
 
   charity_tx_id: 2951
+  
+  - ticker: MnM
+  recipient: 
+    name: Tear Fund New Zealand
+    address:  P.O. Box 8315 Symonds St, Auckland 1150, New Zealand
+    tel: 0800.800.777
+    contact: thankyou@tearfund.org.n
+
+  ada: 102
+  usd: 97.81
+  timestamp: 1648007280
+
+  files:
+    - MnM/2022_03_24-Tear-Fund-1-with-calculation.png
+
+  announcement_url: https://twitter.com/MnMcharityPool/status/1509837923029757957
+
+  charity_tx_id: 1086666
+
+  - ticker: MnM
+  recipient: 
+    name: Tear Fund New Zealand
+    address:  P.O. Box 8315 Symonds St, Auckland 1150, New Zealand
+    tel: 0800.800.777
+    contact: thankyou@tearfund.org.n
+
+  ada: 102
+  usd: 115.85
+  timestamp: 1648802676
+
+  files:
+    - MnM/2022_04_01-Tear-Fund-2-with-calculation.png
+
+  announcement_url: https://twitter.com/MnMcharityPool/status/1509837923029757957
+
+  charity_tx_id: 1086666
