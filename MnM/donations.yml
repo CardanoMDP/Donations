@@ -1,3 +1,4 @@
+---
 - ticker: MnM
   recipient: 
     name: Mercy Ships New Zealand
@@ -16,14 +17,14 @@
 
   charity_tx_id: 2951
   
-  - ticker: MnM
+- ticker: MnM
   recipient: 
     name: Tear Fund New Zealand
     address:  P.O. Box 8315 Symonds St, Auckland 1150, New Zealand
     tel: 0800.800.777
     contact: thankyou@tearfund.org.nz
 
-  ada: 102
+  ada: 102.00
   usd: 97.81
   timestamp: 1648007280
 
@@ -34,14 +35,14 @@
 
   charity_tx_id: 1086666
 
-  - ticker: MnM
+- ticker: MnM
   recipient: 
     name: Tear Fund New Zealand
     address:  P.O. Box 8315 Symonds St, Auckland 1150, New Zealand
     tel: 0800.800.777
     contact: thankyou@tearfund.org.nz
 
-  ada: 102
+  ada: 102.00
   usd: 115.85
   timestamp: 1648802676
 
