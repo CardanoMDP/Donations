@@ -143,3 +143,16 @@
     - NIMUE/donation-11.png
   announcement_url: https://twitter.com/nimuepool/status/1483078692297449474
   
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 375.40
+  usd: 300.00
+  timestamp: 1647365658
+  files:
+    - NIMUE/donation-12.png
+  announcement_url: https://twitter.com/nimuepool/status/1503789142551023619
+  
