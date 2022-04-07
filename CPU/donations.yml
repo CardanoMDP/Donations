@@ -283,6 +283,85 @@
   custom:
     donationType: community
 
+- ticker: CPU
+  recipient:
+    name: Citizens' Climate Education
+    address: 1330 Orange Ave 309 Coronado CA 92118
+    tel: 619-437-7142
+    contact: https://citizensclimateeducation.org/contact/
+  ada: 100
+  usd: 195.32
+  timestamp: 1635692566
+  files:
+    - CPU/31-10-2021.png
+  charity_tx_id: 850f662e2b74a462b2e13fe7f88b8cab632d9341765c97b16e504f743abb2d11
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1454830673529909251
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: 850f662e2b74a462b2e13fe7f88b8cab632d9341765c97b16e504f743abb2d11
+  custom:
+    donationType: community
+
+- ticker: CPU
+  recipient:
+    name: Little Pink Houses- Breast Cancer Family Retreats
+    address: 2442 Tribek Court Burlington, NC 27215
+    tel: 336-213-4733
+    contact: https://www.littlepink.org/contact-us/
+  ada: 100
+  usd: 176.26
+  timestamp: 1637615289
+  files:
+    - CPU/22-11-2021.png
+  charity_tx_id: a3a81835539a91ec4a979934684bdc80b72b2077ee5311e06068340a949141e9
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1462895580758388741
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: a3a81835539a91ec4a979934684bdc80b72b2077ee5311e06068340a949141e9
+  custom:
+    donationType: community
+
+- ticker: CPU
+  recipient:
+    name: Pediatric Brain Tumor Foundation Receipt
+    address: 6065 Roswell Road NE, Suite 505 Atlanta, GA 30328
+    tel: 800-253-6530
+    contact: http://www.curethekids.org/about-us/contact.html
+  ada: 100
+  usd: 159.84
+  timestamp: 1640617924
+  files:
+    - CPU/27-12-2021.png
+  charity_tx_id: c865d4e5064141f84c165c3258fc2aad42e78dced9c69d8e63f015a81fa15e7a
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1475493329269927936
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: c865d4e5064141f84c165c3258fc2aad42e78dced9c69d8e63f015a81fa15e7a
+  custom:
+    donationType: community 
+
+- ticker: CPU
+  recipient:
+    name: Rainforest Rescue
+    address: PO Box 40 Mullumbimby NSW 2482 Australia Bundjalung Nation – Arakwal Country
+    tel: + 61 2 6684 4360
+    contact: https://www.rainforestrescue.org.au/contact/
+  ada: 100
+  usd: 112.17
+  timestamp: 1643718282
+  files:
+    - CPU/01-02-2022.png
+  charity_tx_id: 6e28cffea70c09a97d484a5785581735868259bfe4f74c7274f2b94fdc9e0967
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1488518672733909004
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: 6e28cffea70c09a97d484a5785581735868259bfe4f74c7274f2b94fdc9e0967
+  custom:
+    donationType: nature 
+
+
+
+
 
 
 

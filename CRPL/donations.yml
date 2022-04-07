@@ -1,0 +1,101 @@
+---
+
+- ticker: CRPL
+
+  recipient:
+    name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
+    contact: info@fcmilano.org
+    tel: +390237902520
+    address: Via D. Manin 23, 20121 Milano
+  
+  ada: 12.760
+  usd: 35.370
+  timestamp: 1631263379
+  
+  files:
+     - CRPL/Certificazione_Fiscale_20210910_307840.png
+  
+  announcement_url: https://twitter.com/Carden_Pool/status/1436307180194574344?s=20
+
+  charity_tx_id: 33820
+
+  custom:
+    project: ForestaMI
+    project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    eur_amount: 30
+    epochs_ref: 287-
+    
+- ticker: CRPL
+
+  recipient:
+    name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
+    contact: info@fcmilano.org
+    tel: +390237902520
+    address: Via D. Manin 23, 20121 Milano
+    
+  ada: 57.960
+  usd: 161.520
+  timestamp: 1633865459
+  
+  files:
+    - CRPL/Certificazione_Fiscale_20211010_310088.png
+
+  announcement_url: https://twitter.com/Carden_Pool/status/1447234122506772480?s=20&t=Ac2nADFcUG123ee4DWvJfg
+
+  charity_tx_id: 34157
+  
+  custom:
+    project: ForestaMI
+    project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    eur_amount: 137
+    epochs_ref: 287-
+    
+- ticker: CRPL
+
+  recipient:
+    name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
+    contact: info@fcmilano.org
+    tel: +390237902520
+    address: Via D. Manin 23, 20121 Milano
+  
+  ada: 194.248
+  usd: 253.490
+  timestamp: 1644516000
+  
+  files:
+     - CRPL/Certificazione_Fiscale_20220210.png
+  
+  announcement_url: https://twitter.com/Carden_Pool/status/1495775501864026124
+
+  charity_tx_id: 460526862286120419
+
+  custom:
+    project: ForestaMI
+    project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    eur_amount: 223.00
+    epochs_ref: 299-316-317-318
+    
+- ticker: CRPL
+
+  recipient:
+    name: FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'
+    contact: info@fcmilano.org
+    tel: +390237902520
+    address: Via D. Manin 23, 20121 Milano
+  
+  ada: 251.716
+  usd: 247.630
+  timestamp: 1647203943
+  
+  files:
+     - CRPL/Certificazione_Fiscale_20220313.png
+  
+  announcement_url: https://twitter.com/Carden_Pool/status/1503114506523889678
+
+  charity_tx_id: 385978765131220729
+
+  custom:
+    project: ForestaMI
+    project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
+    eur_amount: 220.00
+    epochs_ref: 319-320-321-322-323-324
