@@ -340,6 +340,25 @@
   custom:
     donationType: community 
 
+- ticker: CPU
+  recipient:
+    name: Rainforest Rescue
+    address: PO Box 40 Mullumbimby NSW 2482 Australia Bundjalung Nation – Arakwal Country
+    tel: + 61 2 6684 4360
+    contact: https://www.rainforestrescue.org.au/contact/
+  ada: 100
+  usd: 112.17
+  timestamp: 1643718282
+  files:
+    - CPU/01-02-2022.png
+  charity_tx_id: 6e28cffea70c09a97d484a5785581735868259bfe4f74c7274f2b94fdc9e0967
+  announcement_url: https://twitter.com/C_PoolsUnited/status/1488518672733909004
+  intermediate_txs:
+    - provider: Litecoin
+      tx_id: 6e28cffea70c09a97d484a5785581735868259bfe4f74c7274f2b94fdc9e0967
+  custom:
+    donationType: nature 
+
 
 
 
