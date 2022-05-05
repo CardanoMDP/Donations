@@ -159,3 +159,19 @@
     - KOALA/funddeposit8.png
 
   announcement_url: https://koalapool.org/pool-budget.html
+  
+- ticker: KOALA
+  recipient: 
+    name: KOALA Fund Wallet
+    address: addr1qx3rdsfuq76m228lr7l402xs3d0mlnr3mfr9lt9csj9eyvcu9y9ssydecu0vesgxmpuuepcfv04sgfd3m3std3jmgwxq00txd4
+    tel: +12345
+    contact: https://twitter.com/KOALA_Steve
+
+  ada: 500
+  usd: 395
+  timestamp: 1647057316
+
+  files:
+    - KOALA/funddeposit9.png
+
+  announcement_url: https://koalapool.org/pool-budget.html
