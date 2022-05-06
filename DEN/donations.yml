@@ -95,3 +95,17 @@
     - DEN/pchf7.pdf
   announcement_url: https://denadapool.io/donations.html
   charity_tx_id: "2004093"
+
+- ticker: DEN
+  recipient:
+    name: Perth Childrens Hospital Foundation
+    address: PO Box 8249, Subiaco East, WA, 6008, Australia
+    tel: +61 8 64562222
+    contact: info@pchf.org.au
+  ada: 522.00
+  usd: 520.35
+  timestamp: 1651421438
+  files:
+    - DEN/pchf8.pdf
+  announcement_url: https://denadapool.io/donations.html
+  charity_tx_id: "2004356"
