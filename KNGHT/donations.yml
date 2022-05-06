@@ -23,3 +23,16 @@
   files:
     - KNGHT/2022-03-06-WMF.pdf
   charity_tx_id: 13-2571900
+
+- ticker: KNGHT
+  recipient:
+    name: Fondation du Patrimoine
+    address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
+    tel: +33 (0)1 70 48 48 00
+    contact: info@fondation-patrimoine.org
+  ada: 96.20
+  usd: 110.68
+  timestamp: 1648758720
+  files:
+    - KNGHT/2022-03-31-FP.pdf
+  charity_tx_id: 2022007832
