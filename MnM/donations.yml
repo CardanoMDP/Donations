@@ -52,3 +52,21 @@
   announcement_url: https://twitter.com/MnMcharityPool/status/1509837923029757957
 
   charity_tx_id: 1086666
+  
+- ticker: MnM
+  recipient: 
+    name: International Needs NZ
+    address:  PO Box 1165, Tauranga, 3144, New Zealand
+    tel: 07.578.6198
+    contact: accounts@internationalneeds.org.nz
+
+  ada: 238.00
+  usd: 170.53
+  timestamp: 1652066344
+
+  files:
+    - MnM/2022_08_09-International-Needs-NZ-with-calculation.PNG
+
+  announcement_url: https://twitter.com/MnMcharityPool/status/1523512012436762625
+
+  charity_tx_id: 000
