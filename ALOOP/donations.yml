@@ -169,3 +169,37 @@
      - ALOOP/2022-03-20-ABG.png
 
   announcement_url: https://github.com/aloopmarin007/ALOOP/tree/main/donations
+
+- ticker: ALOOP
+
+  recipient:
+    name: The AbleGamers Charity
+    address: 179 E. Burr Blvd, Suite Q Kearneysville, WV 25430
+    tel: +1 703 891 9017
+    contact: inquiries@ablegamers.com
+
+  ada: 26
+  usd: 25.00
+  timestamp: 1650145350
+
+  files:
+     - ALOOP/2022-04-21-ABG.png
+
+  announcement_url: https://github.com/aloopmarin007/ALOOP/tree/main/donations
+
+- ticker: ALOOP
+
+  recipient:
+    name: The AbleGamers Charity
+    address: 179 E. Burr Blvd, Suite Q Kearneysville, WV 25430
+    tel: +1 703 891 9017
+    contact: inquiries@ablegamers.com
+
+  ada: 131.40
+  usd: 180.00
+  timestamp: 1651816560
+
+  files:
+     - ALOOP/2022-05-05-ABG.png
+
+  announcement_url: https://github.com/aloopmarin007/ALOOP/tree/main/donations
