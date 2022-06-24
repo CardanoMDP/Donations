@@ -60,3 +60,16 @@
   timestamp: 1640335500
   files:
     - VITAL/lichtinsdunkel/2021-12-24/PaymentConfirmation.pdf
+
+- ticker: VITAL
+  announcement_url: *vitalmission
+  recipient: &caritas
+    name: Caritas
+    address: Kapuzinerstr. 84, 4021 Linz, Österreich
+    tel: +4373276102040
+    contact: spenden@caritas-ooe.at
+  ada: 500
+  usd: 520
+  timestamp: 1646164800
+  files:
+    - VITAL/caritas/2022-03-01/DonationConfirmation.pdf

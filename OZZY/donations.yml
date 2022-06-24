@@ -115,3 +115,27 @@
   files:
     - OZZY/20220228_CancerResearchUK.jpg
   charity_tx_id: 6ASF2STA
+- ticker: OZZY
+  recipient:
+    name: Cancer Research UK
+    address: 2 Redman Place, London, E20 1JQ, United Kingdom
+    tel: 0300 1231022
+    contact: supporter.services@cancer.org.uk
+  ada: 990.36
+  usd: 1215
+  timestamp: 1648767599
+  files:
+    - OZZY/20220331_CancerResearchUK.jpeg
+  charity_tx_id: 85X1Z3PR
+- ticker: OZZY
+  recipient:
+    name: Cancer Research UK
+    address: 2 Redman Place, London, E20 1JQ, United Kingdom
+    tel: 0300 1231022
+    contact: supporter.services@cancer.org.uk
+  ada: 1303.84
+  usd: 1058.40
+  timestamp: 1651359599
+  files:
+    - OZZY/20220430_CancerResearchUK.jpeg
+  charity_tx_id: 5YAE2A98
