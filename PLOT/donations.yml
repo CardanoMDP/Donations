@@ -38,4 +38,16 @@
     tel: (408)753-7032
   ticker: PLOT
   timestamp: 1643500678
-  
+- ada: 462.1
+  usd: 374.31
+  announcement_url: "https://www.plotcardano.com"
+  charity_tx_id: 47-1994899
+  files: 
+    - PLOT/Dec2021.png
+  recipient: 
+    address: "609 SW 150TH ST, #66483, BURIEN, WA 98166, USA"
+    contact: INFO@FINOTEWONGEL.ORG
+    name: "Finote Wongel"
+    tel: (408)753-7032
+  ticker: PLOT
+  timestamp: 1645506901  
