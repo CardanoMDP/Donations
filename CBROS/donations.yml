@@ -58,11 +58,11 @@
     address: Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU
     tel: +420 257 090 151
     contact: dary@lekari-bez-hranic.cz
-  ada: 136.00
-  usd: 252.53
-  timestamp: 1636042880
+  ada: 200.50
+  usd: 351.7
+  timestamp: 1640948400
   files:
-    - CBROS/MSF_2021_Q4_Extra_Payment.pdf
+    - CBROS/MSF_2021_Q4.pdf
   announcement_url: https://www.coudrebros.eu/#donations
 
 - ticker: CBROS
@@ -71,11 +71,11 @@
     address: Vodičkova 36, 110 00 Praha 1, Czech Republic, EU
     tel: +420 212 240 666
     contact: auto-mat@auto-mat.cz
-  ada: 34
-  usd: 63.13
-  timestamp: 1636042880
+  ada: 52.67
+  usd: 91.30
+  timestamp: 1640948400
   files:
-    - CBROS/AutoMat_2021_Q4_Extra_Payment.pdf
+    - CBROS/AutoMat_2021_Q4.pdf
   announcement_url: https://www.coudrebros.eu/#donations
   
 - ticker: CBROS
@@ -84,23 +84,9 @@
     address: Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU
     tel: +420 257 090 151
     contact: dary@lekari-bez-hranic.cz
-  ada: 34.00
-  usd: 58.17
-  timestamp: 1637173721
+  ada: 36.61
+  usd: 41.00
+  timestamp: 1648720800
   files:
-    - CBROS/MSF_2021_Q4_Extra_Payment_Psilobyte.pdf
+    - CBROS/MSF_2022_Q1.pdf
   announcement_url: https://www.coudrebros.eu/#donations
-
-- ticker: CBROS
-  recipient: 
-    name: AutoMat, z. s.
-    address: Vodičkova 36, 110 00 Praha 1, Czech Republic, EU
-    tel: +420 212 240 666
-    contact: auto-mat@auto-mat.cz
-  ada: 8.5
-  usd: 14.5
-  timestamp: 1637173721
-  files:
-    - CBROS/AutoMat_2021_Q4_Extra_Payment_Psilobyte.pdf
-  announcement_url: https://www.coudrebros.eu/#donations
-
