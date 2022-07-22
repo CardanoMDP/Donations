@@ -3,6 +3,23 @@
 - ticker: AVENE
   recipient:
     name: West Africa Decentralized Alliance
+    address: GE 328 8033 Westlands Avenue, Westlands Blvd, Accra, Ghana
+    tel: +233 54 257 8107
+    contact: hello@wada.org
+  ada: 150
+  usd: 87.92 # 0.5861
+  timestamp: 1654244647 # 2022-06-03 08:24:07 UTC
+  files:
+    - AVENE/2022-06-WADA.png
+    - AVENE/2022-03-rewards.png
+    - AVENE/2022-04-rewards.png
+    - AVENE/2022-05-rewards.png
+  announcement_url: https://avenepool.com/#donations
+  charity_tx_id: 5e0b05c07da8e8b74552200e112fe41272765f0e3306063c61d2d44c8e9cdd6f
+
+- ticker: AVENE
+  recipient:
+    name: West Africa Decentralized Alliance
     address: Accra, Ghana
     tel: +233 54 257 8107
     contact: hello@wadalliance.org
