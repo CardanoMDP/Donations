@@ -1,0 +1,20 @@
+---
+
+- ticker: MYADA
+  recipient: 
+    name: Save the Children’s ‘Kumwe Hub’
+    address: St Vincent House, 30 Orange Street, London, WC2H 7HH, United Kingdom
+    tel: +44 20 3272 0300
+    contact: info@savethechildren.org
+  ada: 380
+  usd: 175.94
+  timestamp: 1656539551 
+  files:
+    - MYADA/20220629-kumwe/20220629-kumwe-donation-receipt.png
+    - MYADA/20220629-kumwe/20220629-kumwe-donation-payment-successful.jpg
+  charity_tx_id: ec74b3235d6c24317e25d8f2cec56d8f217ddbda12040b19f44c489f656bc1b4
+  custom:
+    donation_url: https://www.kumwehub.com/donate
+    payment_provider: https://adapay.finance/
+
+
