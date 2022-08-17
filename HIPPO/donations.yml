@@ -16,3 +16,17 @@
   intermediate_txs:      
     - provider: Cardano
       tx_id: cd10b04632c3dc50ec14d6dea09907a216ec2b31c9027423a604690cc9b8b2bd
+
+- ticker: HIPPO
+  announcement_url: &hippomission https://www.hippo-pool.com/mission
+  recipient:
+    name: Centre de Prévention du Suicide
+    address: Rue Gachard, 88, 1050 Bruxelles
+    tel: +32 476 53 00 84
+    contact: cps@preventionsuicide.be
+  ada: 182.4
+  usd: 101.74
+  timestamp: 1660725199
+  files:
+    - HIPPO/2022-08-17-hippo-prevention-suicide-donation.png
+  announcement_url: https://www.hippo-pool.com/blog/3-donation-prevention-suicide/
