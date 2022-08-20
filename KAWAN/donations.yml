@@ -137,3 +137,31 @@
   files:
     - KAWAN/18-Jan-2022.jpg
   announcement_url: https://www.kawancardano.com/newBlogPost-zZ8B0b
+  
+- ticker: KAWAN
+  recipient: 
+    name: Wahana Visi Indonesia
+    address: Jalan Graha Raya Bintaro Blok GB/GK No.9, Parigi Baru, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15228
+    website: https://wahanavisi.org/
+    contact: comms_indonesia@wvi.or.id
+    tel: "+622129770123"
+  ada: 310
+  usd: 354
+  timestamp: 1644156738
+  files:
+    - KAWAN/6-Feb-2022.jpg
+  announcement_url: https://t.me/KawanCardanoNewsIND/350
+  
+- ticker: KAWAN
+  recipient: 
+    name: Solidaritas Papua Memangil
+    address: Jl. Raya Cilandak KKO No.31, RT.1/RW.8, Ragunan, Kec. Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550
+    website: https://kitabisa.com/
+    contact: ngo@kitabisa.com
+    tel: "+622157852539"
+  ada: 225
+  usd: 189
+  timestamp: 1647530418
+  files:
+    - KAWAN/17-Mar-2022.jpg
+  announcement_url: https://t.me/KawanCardanoNewsIND/357

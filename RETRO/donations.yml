@@ -253,3 +253,39 @@
   announcement_url: https://twitter.com/retrostakepool/status/1483914943636586497
 
   charity_tx_id: i1604
+
+- ticker: RETRO
+  recipient: 
+    name: Cure Cancer Australia Foundation
+    address: PO BOX A2434, Sydney South PO NSW 1235 Australia
+    tel: +61 2 8072 6188
+    contact: info@curecancer.com.au
+
+  ada: 75.3
+  usd: 66.35
+  timestamp: 1646525003
+
+  files:
+    - RETRO/06-03-2022-CCAU-Receipt.png
+
+  announcement_url: https://twitter.com/retrostakepool/status/1500263574752882688
+
+  charity_tx_id: ch_3Ka7Z6F07d34bW4a1nn4MzAZ
+
+- ticker: RETRO
+  recipient:
+    name: Sony Foundation Australia
+    address: 11-19 Hargrave Street, East Sydney NSW 2010 Australia
+    tel: +61 2 9383 6230
+    contact: info@sonyfoundation.org.au
+
+  ada: 75.3
+  usd: 66.35
+  timestamp: 1646525066
+
+  files:
+    - RETRO/06-03-2022-SFA-Receipt.png
+
+  announcement_url: https://twitter.com/retrostakepool/status/1500263574752882688
+
+  charity_tx_id: i1662

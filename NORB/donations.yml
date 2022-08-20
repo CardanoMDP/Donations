@@ -143,3 +143,57 @@
     - NORB/2022-03-02_AWF.png
 
   announcement_url: https://norbpool.club/donations/8
+
+- ticker: NORB
+
+  recipient:
+    name: Animal Welfare Institute
+    address: 900 Pennsylvania Avenue SE, Washington, DC 20003
+    tel: +1-202-337-2332
+    contact: donations@awionline.org
+
+  ada: 476
+  usd: 562
+  timestamp: 1649010023
+
+  files:
+    - NORB/AWI_2022_04_03.jpg
+
+  announcement_url: https://norbpool.club/donations/9
+  charity_tx_id: 40543
+
+- ticker: NORB
+
+  recipient:
+    name: The Marine Mammal Center
+    address: 2000 Bunker Road, Sausalito, CA 94965
+    tel: +1-415-289-7335
+    contact: info@tmmc.org
+
+  ada: 408
+  usd: 323
+  timestamp: 1651794682
+
+  files:
+    - NORB/2022_05_05_MMC.png
+
+  announcement_url: https://norbpool.club/donations/10
+  charity_tx_id: 97532853
+
+- ticker: NORB
+
+  recipient:
+    name: Wildlife Conservation Society
+    address: 2300 Southern Boulevard Bronx, New York 10460
+    tel: +1-718-220-5100
+    contact: membership@wcs.org
+
+  ada: 68
+  usd: 40
+  timestamp: 1657238283
+
+  files:
+    - NORB/2022-07-07_WCS_Reciept_Clean.jpg
+
+  announcement_url: https://norbpool.club/donations/11
+  charity_tx_id: 4386340
