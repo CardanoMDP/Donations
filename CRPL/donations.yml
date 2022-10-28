@@ -113,7 +113,7 @@
   timestamp: 1652007659
 
   files:
-     - CRPL/Certificazione_Fiscale_20220508.png
+     - CRPL/Certificazione_Fiscale_20220508_367425.png
 
   announcement_url: https://twitter.com/Carden_Pool/status/1523416600220954626
 
@@ -124,3 +124,28 @@
     project_link: https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120
     eur_amount: 210.00
     epochs_ref: 325-326-327-328-329
+
+- ticker: CRPL
+
+  recipient:
+    name: TREEDOM - LET'S GREEN THE PLANET
+    contact: info@treedom.net
+    tel: +390550503228
+    address: Viale Augusto Righi 66, 50137 Firenze, Italia
+
+  ada: 331.446
+  usd: 290.020
+  timestamp: 1659787980
+
+  files:
+     - CRPL/220806_Transaction_0a1axwa7_Braintree_Gateway.png
+
+  announcement_url: https://twitter.com/Carden_Pool/status/1568957476359340038
+
+  charity_tx_id: 0a1axwa7
+
+  custom:
+    project: Treedom
+    project_link: https://www.treedom.net/en/about-us
+    eur_amount: 269.80
+    epochs_ref: 330-331-332-333-334-335-339-342
