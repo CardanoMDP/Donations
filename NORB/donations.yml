@@ -215,3 +215,21 @@
 
   announcement_url: https://norbpool.club/donations/12
   charity_tx_id: 4529
+
+- ticker: NORB
+
+  recipient:
+    name: ASPCA
+    address: 424 East 92nd Street New York, NY 10128
+    tel: +1 800 628 0028
+    contact: publicinformation@aspca.org
+
+  ada: 125
+  usd: 50
+  timestamp: 1667494833
+
+  files:
+    - NORB/20221103_ASPCA.jpg
+
+  announcement_url: https://norbpool.club/donations/13
+  charity_tx_id: 143290821
