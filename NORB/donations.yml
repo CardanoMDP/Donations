@@ -197,3 +197,74 @@
 
   announcement_url: https://norbpool.club/donations/11
   charity_tx_id: 4386340
+
+- ticker: NORB
+
+  recipient:
+    name: Friends of Animals
+    address: 777 Post Road Suite 205 Darien, CT 06820
+    tel: +1-203-656-1522
+    contact: donations@donate.friendsofanimals.org
+
+  ada: 68
+  usd: 34
+  timestamp: 1662304283
+
+  files:
+    - NORB/Foa_2022_09_04_Receipt.png
+
+  announcement_url: https://norbpool.club/donations/12
+  charity_tx_id: 4529
+
+- ticker: NORB
+
+  recipient:
+    name: ASPCA
+    address: 424 East 92nd Street New York, NY 10128
+    tel: +1 800 628 0028
+    contact: publicinformation@aspca.org
+
+  ada: 125
+  usd: 50
+  timestamp: 1667494833
+
+  files:
+    - NORB/20221103_ASPCA.jpg
+
+  announcement_url: https://norbpool.club/donations/13
+  charity_tx_id: 143290821
+
+- ticker: NORB
+
+  recipient:
+    name: African Wildlife Foundation
+    address: 1100 New Jersey Ave SE, Suite 900 Washington, DC 20003
+    tel: +1-888-494-5354
+    contact: africanwildlife@awf.org
+
+  ada: 156
+  usd: 50
+  timestamp: 1670287120
+
+  files:
+    - NORB/2022_12_05_AWF_Receipt.png
+
+  announcement_url: https://norbpool.club/donations/14
+
+- ticker: NORB
+
+  recipient:
+    name: Animal Welfare Institute
+    address: 900 Pennsylvania Avenue SE, Washington, DC 20003
+    tel: +1-202-337-2332
+    contact: donations@awionline.org
+
+  ada: 111
+  usd: 35
+  timestamp: 1673409215
+
+  files:
+    - NORB/AWI_2023_01_10.png
+
+  announcement_url: https://norbpool.club/donations/15
+  charity_tx_id: 149421
