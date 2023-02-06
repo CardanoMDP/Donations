@@ -1,0 +1,155 @@
+[
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 34,
+    "usd": 41.82,
+    "timestamp": 1619395680,
+    "files": [
+      "DEN/pchf1.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2002347"
+  },
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 34,
+    "usd": 49.98,
+    "timestamp": 1621426500,
+    "files": [
+      "DEN/pchf2.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2002419"
+  },
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 29.31,
+    "usd": 38.4,
+    "timestamp": 1621754880,
+    "files": [
+      "DEN/pchf3.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2002443"
+  },
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 4.69,
+    "usd": 6.14,
+    "timestamp": 1621760100,
+    "files": [
+      "DEN/pchf4.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2002444"
+  },
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 34,
+    "usd": 41.85,
+    "timestamp": 1627210800,
+    "files": [
+      "DEN/pchf5.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2002936"
+  },
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 410,
+    "usd": 500.2,
+    "timestamp": 1641452014,
+    "files": [
+      "DEN/pchf6.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2003882"
+  },
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 443,
+    "usd": 450.5,
+    "timestamp": 1646545500,
+    "files": [
+      "DEN/pchf7.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2004093"
+  },
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 522,
+    "usd": 520.35,
+    "timestamp": 1651421438,
+    "files": [
+      "DEN/pchf8.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2004356"
+  },
+  {
+    "ticker": "DEN",
+    "recipient": {
+      "name": "Perth Childrens Hospital Foundation",
+      "address": "PO Box 8249, Subiaco East, WA, 6008, Australia",
+      "tel": "+61 8 64562222",
+      "contact": "info@pchf.org.au"
+    },
+    "ada": 465,
+    "usd": 233.22,
+    "timestamp": 1655794177,
+    "files": [
+      "DEN/pchf9.pdf"
+    ],
+    "announcement_url": "https://denadapool.io/donations.html",
+    "charity_tx_id": "2004780"
+  }
+]

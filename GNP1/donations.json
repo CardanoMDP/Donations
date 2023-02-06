@@ -1,0 +1,648 @@
+[
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Samaritans",
+      "address": "The Upper Mill, KT17 2AF",
+      "tel": "+44 20 8394 8300",
+      "contact": "supportercare@supporters-samaritans.org"
+    },
+    "ada": 101,
+    "usd": 32.8,
+    "timestamp": 1611743220,
+    "files": [
+      "GNP1/Samaritans.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "fx8pksxt"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Young Minds",
+      "address": "4th Floor, India House, YoungMinds, Curlew St, London SE1 2ND",
+      "tel": "+44 20 7089 5050",
+      "contact": "fundraising@youngminds.org.uk"
+    },
+    "ada": 44,
+    "usd": 41.52,
+    "timestamp": 1613206800,
+    "files": [
+      "GNP1/Young_Minds.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "YM16985"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "LifeSIGNS",
+      "address": "Not found",
+      "tel": "+44 000",
+      "contact": "Wedge@lifesigns.org.uk"
+    },
+    "ada": 70,
+    "usd": 88.4,
+    "timestamp": 1614330000,
+    "files": [
+      "GNP1/Life_Signs.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "1598-2141-4983-7778"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Anxious Minds",
+      "address": "The Vault 31 Station Road, Wallsend, North Tyneside, NE28 6RL",
+      "tel": "+44 191 262 0305",
+      "contact": "info@anxiousminds.co.uk"
+    },
+    "ada": 45,
+    "usd": 55.8,
+    "timestamp": 1614675600,
+    "files": [
+      "GNP1/Anxious_Minds.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "T637503088586993253U1664501C338668-176b2"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "The Brain Charity",
+      "address": "The Brain Charity Norton Street Liverpool L3 8LR",
+      "tel": "+44 800 008 6417",
+      "contact": "info@thebraincharity.org.uk"
+    },
+    "ada": 59,
+    "usd": 85.44,
+    "timestamp": 1613638800,
+    "files": [
+      "GNP1/The_Brain_Charity.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "2103184537AF"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Depression UK",
+      "address": "PO Box 10566 Nottingham NG13 8LU",
+      "tel": "+44 000",
+      "contact": "info@depressionuk.org"
+    },
+    "ada": 56.25,
+    "usd": 68.53,
+    "timestamp": 1617981602,
+    "files": [
+      "GNP1/DepressionUK.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "GIVINGFNDUK,35314369001,GBR"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "OCD UK",
+      "address": "Harvest Barn Chevin Green Farm Chevin Road Belper Derbyshire DE56 2UN",
+      "tel": "+44 800 0487012",
+      "contact": "no email provided"
+    },
+    "ada": 56.25,
+    "usd": 68.53,
+    "timestamp": 1618003862,
+    "files": [
+      "GNP1/OCD_UK.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "#28734"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Charlotte/Zara Marathon and OCD UK",
+      "address": "Harvest Barn Chevin Green Farm Chevin Road Belper Derbyshire DE56 2UN",
+      "tel": "+44 800 0487012",
+      "contact": "no email provided"
+    },
+    "ada": 49.82,
+    "usd": 54.3,
+    "timestamp": 1619201249,
+    "files": [
+      "GNP1/Forwebpage.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "192945107"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Mind in Harrogate",
+      "address": "The Acorn Centre, 101A Station Parade, Harrogate, HG1 1HB",
+      "tel": "+44 1423 503335",
+      "contact": "tina@mindinharrogate.org.uk"
+    },
+    "ada": 87.61,
+    "usd": 108.64,
+    "timestamp": 1620828329,
+    "files": [
+      "GNP1/Mind_in_Harrogate.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "IDN035332117000"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Bipolar UK",
+      "address": "32 Cubitt Street London WC1X0LR",
+      "tel": "none supplied",
+      "contact": "info@bipolaruk.org"
+    },
+    "ada": 53.9,
+    "usd": 73.3,
+    "timestamp": 1619880809,
+    "files": [
+      "GNP1/Bipolar.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Non Supplied"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Strongminds",
+      "address": "515 Valley Street Suite 200 Maplewood NJ 07040 USA",
+      "tel": "+1 862-222-4906",
+      "contact": "Rasa@strongminds.org"
+    },
+    "ada": 51.9,
+    "usd": 86.15,
+    "timestamp": 1625141669,
+    "files": [
+      "GNP1/Strongminds.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "#1722-3011"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Mental Health Foundation",
+      "address": "Colechurch House, 1 London Bridge Walk, London, SE1 2SX",
+      "tel": "+44 20 7803 1100",
+      "contact": "events@mentalhealth.org.uk"
+    },
+    "ada": 51.03,
+    "usd": 91.86,
+    "timestamp": 1620814349,
+    "files": [
+      "GNP1/Mental_Health_Foundation.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "None Supplied"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Beating Eating Disorders",
+      "address": "Unit 1 Chalk Hill House 19 Rosary Road Norwich Norfolk NR1 1SZ",
+      "tel": "+44 1603 753308",
+      "contact": "fundraising@beateatingdisorders.org.uk"
+    },
+    "ada": 61.18,
+    "usd": 106.45,
+    "timestamp": 1622629109,
+    "files": [
+      "GNP1/Beat_Eating_Disorder.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Non Supplied"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Anxiety UK",
+      "address": "Nunes House 447 Chester Road Manchester M16 9HA",
+      "tel": "+44 161 2267727",
+      "contact": "fundraising@beateatingdisorders.org.uk"
+    },
+    "ada": 52.07,
+    "usd": 82.28,
+    "timestamp": 1623711600,
+    "files": [
+      "GNP1/Anxiety_UK.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Non Supplied"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Man Down",
+      "address": "3 Park Terrace, Falmouth, Cornwall, United Kingdom, TR11 2DJ",
+      "tel": "+44 800 038 5300",
+      "contact": "support@mandown-cornwall.co.uk"
+    },
+    "ada": 50.2,
+    "usd": 68.27,
+    "timestamp": 1625041380,
+    "files": [
+      "GNP1/Man_Down.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "14807018"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Wavelength",
+      "address": "159a High Street Hornchurch Essex, RM11 3YB",
+      "tel": "+44 1708 621101",
+      "contact": "info@wavelength.org.uk"
+    },
+    "ada": 49.12,
+    "usd": 70.24,
+    "timestamp": 1625526000,
+    "files": [
+      "GNP1/Wavelength_full.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "122769350"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Wavelength",
+      "address": "159a High Street Hornchurch Essex, RM11 3YB",
+      "tel": "+44 1708 621101",
+      "contact": "info@wavelength.org.uk"
+    },
+    "ada": 87.3,
+    "usd": 116.1,
+    "timestamp": 1633474800,
+    "files": [
+      "GNP1/Wavelength_full_2nd.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "D222111940"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "BAATN",
+      "address": "62 Hale End Road, London, E17 4BQ",
+      "tel": "+44 20 3600 0712",
+      "contact": "administrator@baatn.org.uk"
+    },
+    "ada": 57.35,
+    "usd": 68.82,
+    "timestamp": 1626390000,
+    "files": [
+      "GNP1/BAATN.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Non Supplied"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Sport in Mind",
+      "address": "Rivermead Leisure Centre Richmond Ave Reading Berks RG1 8EQ",
+      "tel": "+44 7341 267740",
+      "contact": "info@sportinmind.org"
+    },
+    "ada": 62.7,
+    "usd": 81.6,
+    "timestamp": 1627826460,
+    "files": [
+      "GNP1/Sport_in_Mind.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "ch_1JJiwZCnW9jqvZdw0b24hnoU"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Black Dog Institute",
+      "address": "Hospital Road, Prince of Wales Hospital, Randwick NSW 2031 Australia",
+      "tel": "+61 2 9382 4530",
+      "contact": "blackdog@blackdog.org.au"
+    },
+    "ada": 28.2,
+    "usd": 74.6,
+    "timestamp": 1629700920,
+    "files": [
+      "GNP1/Black_Dog_23_Aug_2021.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "8641431"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "National Suicide Prevention Alliance",
+      "address": "The Upper Mill, Kingston Road, Ewell, Surrey KT17 2AF",
+      "tel": "+44 20 8394 8275",
+      "contact": "info@nspa.org.uk"
+    },
+    "ada": 49.47,
+    "usd": 137.48,
+    "timestamp": 1630228210,
+    "files": [
+      "GNP1/NSPA.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "IDN036434118000"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "ReThink Mental Illness",
+      "address": "89 Albert Embankment, London SE1 7TP",
+      "tel": "+44 300 5000927",
+      "contact": "info@rethink.org"
+    },
+    "ada": 47.8,
+    "usd": 108,
+    "timestamp": 1632474610,
+    "files": [
+      "GNP1/ReThink_Mental_Illness.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Non Provided"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Wavelength",
+      "address": "159a High Street Hornchurch Essex RM11 3YB",
+      "tel": "Non Provided (Office closed due to Covid)",
+      "contact": "info@wavelength.org.uk"
+    },
+    "ada": 49.87,
+    "usd": 103.72,
+    "timestamp": 1632820210,
+    "files": [
+      "GNP1/Wavelength_28_Sep_2021_2021.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "290775965"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "ReThink Mental Illness",
+      "address": "89 Albert Embankment, London SE1 7TP",
+      "tel": "+44 300 5000927",
+      "contact": "info@rethink.org"
+    },
+    "ada": 61.26,
+    "usd": 136,
+    "timestamp": 1633531200,
+    "files": [
+      "GNP1/ReThink_6_Oct_2021.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Non Provided"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Strongminds",
+      "address": "515 Valley Street Suite 200 Maplewood NJ 07040 USA",
+      "tel": "+1 862-222-4906",
+      "contact": "Rasa@strongminds.org"
+    },
+    "ada": 61.26,
+    "usd": 136,
+    "timestamp": 1633530600,
+    "files": [
+      "GNP1/Strongminds_6a_Oct_2021_wp.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "#1231-6388"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "World Federation for Mental Health",
+      "address": "6800 Park Ten Blvd, Suite 220-N San Antonio, Texas 78213 U.S.A",
+      "tel": 0,
+      "contact": "info@wfmh.global"
+    },
+    "ada": 61.26,
+    "usd": 136,
+    "timestamp": 1633529880,
+    "files": [
+      "GNP1/WFMH_6_Oct_2021_wp.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "5608605559584047"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Sport in Mind",
+      "address": "Rivermead Leisure Centre Richmond Ave Reading Berks RG1 8EQ",
+      "tel": "+44 7341 267740",
+      "contact": "info@sportinmind.org"
+    },
+    "ada": 62.5,
+    "usd": 136,
+    "timestamp": 1633528860,
+    "files": [
+      "GNP1/Sport_in_Mind_6_Oct_2021_wp.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "ch_3JhbaiCnW9jqvZdw1V8AjTAt"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "BAATN",
+      "address": "62 Hale End Road, London, E17 4BQ",
+      "tel": "+44 20 3600 0712",
+      "contact": "administrator@baatn.org.uk"
+    },
+    "ada": 62.5,
+    "usd": 136,
+    "timestamp": 1633531320,
+    "files": [
+      "GNP1/BAATN_6_Oct_2021.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Non Supplied"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Anxiety UK",
+      "address": "Nunes House 447 Chester Road Manchester M16 9HA",
+      "tel": "+44 161 2267727",
+      "contact": "fundraising@beateatingdisorders.org.uk"
+    },
+    "ada": 62.5,
+    "usd": 136,
+    "timestamp": 1633527120,
+    "files": [
+      "GNP1/Anxiety_UK_6_Oct_2021_wp.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "7H568625YS6276222"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Young Minds",
+      "address": "4th Floor, India House, YoungMinds, Curlew St, London SE1 2ND",
+      "tel": "+44 20 7089 5050",
+      "contact": "fundraising@youngminds.org.uk"
+    },
+    "ada": 62.5,
+    "usd": 136,
+    "timestamp": 1633526100,
+    "files": [
+      "GNP1/Young_Minds_6_Oct_2021.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Y4429"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "OCD UK",
+      "address": "Harvest Barn Chevin Green Farm Chevin Road Belper Derbyshire DE56 2UN",
+      "tel": "+44 800 0487012",
+      "contact": "office@.ocduk.org"
+    },
+    "ada": 62.5,
+    "usd": 136,
+    "timestamp": 1633525020,
+    "files": [
+      "GNP1/OCD_6_Oct_2021_wp.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "#31054"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Anxiety UK",
+      "address": "Nunes House 447 Chester Road Manchester M16 9HA",
+      "tel": "+44 161 2267727",
+      "contact": "fundraising@beateatingdisorders.org.uk"
+    },
+    "ada": 77.09,
+    "usd": 164.22,
+    "timestamp": 1635152400,
+    "files": [
+      "GNP1/Anxiety_UK_25_Oct_2021_web.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "334405"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Therapy for Black Men",
+      "address": "116 West 23rd Street, New York, NY 10011",
+      "tel": "+1 (646) 780-8278",
+      "contact": "info@therapyforblackmen.org"
+    },
+    "ada": 75.11,
+    "usd": 147.22,
+    "timestamp": 1635847200,
+    "files": [
+      "GNP1/Therapy_For_Black_Men_2_Nov_2021_web.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "17317184"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Strongminds",
+      "address": "515 Valley Street Suite 200 Maplewood NJ 07040 USA",
+      "tel": "+1 862-222-4906",
+      "contact": "Rasa@strongminds.org"
+    },
+    "ada": 76.14,
+    "usd": 134,
+    "timestamp": 1637661600,
+    "files": [
+      "GNP1/Strongminds_23_Nov_2021_web.png"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "1499-4826"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "ReThink Mental Illness",
+      "address": "89 Albert Embankment, London SE1 7TP",
+      "tel": "+44 300 5000927",
+      "contact": "info@rethink.org"
+    },
+    "ada": 83.13,
+    "usd": 133,
+    "timestamp": 1638266400,
+    "files": [
+      "GNP1/Rethink_30.Nov.2021.PNG"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Non Provided"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Black Dog Institute",
+      "address": "Hospital Road, Prince of Wales Hospital, Randwick NSW 2031 Australia",
+      "tel": "+61 2 9382 4530",
+      "contact": "blackdog@blackdog.org.au"
+    },
+    "ada": 105.78,
+    "usd": 142.8,
+    "timestamp": 1640772000,
+    "files": [
+      "GNP1/BDI_Australia_29_Dec_2021.PNG"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "9529070"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Mind",
+      "address": "2 Redman Place London E20 1JQ",
+      "tel": "+44 (0)20 8519 2122",
+      "contact": "supporterrelations@mind.org.uk"
+    },
+    "ada": 61.38,
+    "usd": 96.68,
+    "timestamp": 1642413600,
+    "files": [
+      "GNP1/Mind_17.Jan.2022.PNG"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "Not Provided"
+  },
+  {
+    "ticker": "GNP1",
+    "recipient": {
+      "name": "Anxious Minds",
+      "address": "The Vault 31 Station Road, Wallsend, North Tyneside, NE28 6RL",
+      "tel": "+44 191 262 0305",
+      "contact": "info@anxiousminds.co.uk"
+    },
+    "ada": 166.82,
+    "usd": 174.83,
+    "timestamp": 1643450400,
+    "files": [
+      "GNP1/Anxious_Minds_Receipt2.PNG"
+    ],
+    "announcement_url": "https://grahamsnumberplus1.com/charity-donations/",
+    "charity_tx_id": "T637790525351553298U1664501C338668-710ae"
+  }
+]

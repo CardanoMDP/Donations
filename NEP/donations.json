@@ -1,0 +1,55 @@
+[
+  {
+    "ticker": "NEP",
+    "recipient": {
+      "name": "Street Child",
+      "address": "Street Child - 206-208 Stewarts Road, Larkhall, London, SW8 4UB, UK",
+      "tel": "020 7614 7696",
+      "contact": "info@street-child.org"
+    },
+    "ada": 105,
+    "usd": 110,
+    "timestamp": 1624966028,
+    "files": [
+      "NEP/2020-06-29-SC.jpeg",
+      "NEP/2020-06-29-SC-1.png"
+    ],
+    "announcement_url": "https://twitter.com/PoolVoyager/status/1409837240361041920"
+  },
+  {
+    "ticker": "NEP",
+    "recipient": {
+      "name": "Tree Aid",
+      "address": "Tree Aid, Brunswick Court, Brunswick Square, Bristol, BS2 8PE, UK",
+      "tel": "+44 0117 909 6363",
+      "contact": "info@treeaid.org"
+    },
+    "ada": 157.57,
+    "usd": 208,
+    "timestamp": 1624966028,
+    "files": [
+      "NEP/2020-06-29-TA.png",
+      "NEP/2020-06-29-TA-1.jpeg"
+    ],
+    "announcement_url": "https://twitter.com/PoolVoyager/status/1409839173746503680",
+    "charity_tx_id": "f20e6043-609a-4aa9-b28e-6702a344aa64"
+  },
+  {
+    "ticker": "NEP",
+    "recipient": {
+      "name": "Dig Deep Africa",
+      "address": "Dig Deep (Africa), 2 Rushdale Road, Sheffield, S8 9QB, UK",
+      "tel": "+44 0 114 360 1471",
+      "contact": "info@digdeep.org.uk"
+    },
+    "ada": 85,
+    "usd": 112,
+    "timestamp": 1624966028,
+    "files": [
+      "NEP/2020-06-29-DD.jpeg",
+      "NEP/2020-06-29-DD-1.jpeg"
+    ],
+    "announcement_url": "https://twitter.com/PoolVoyager/status/1409840841745653763",
+    "charity_tx_id": "T637605627471150773U1871049C336113"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ticker": "PECHY",
+    "recipient": {
+      "name": "The Education for Development Foundation (EDF)",
+      "address": "Kasetsart University Alumni Building , 3rd Floor 50 Phaholyothin Road, Jatujak, Bangkok 10900 THAILAND",
+      "tel": "+662 579 9209 to 11",
+      "contact": "public@edfthai.org"
+    },
+    "ada": 109.27,
+    "usd": 240.39,
+    "timestamp": 1632450412,
+    "files": [
+      "PECHY/2021-09-24_EDF_Payment.PNG",
+      "PECHY/2021-09-24_EDF_Confirmaion.PNG",
+      "PECHY/2021-09-24_EDF_Receipt.png"
+    ],
+    "announcement_url": "https://www.peachypool.io/post/children-s-charity"
+  }
+]

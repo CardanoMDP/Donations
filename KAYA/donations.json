@@ -1,0 +1,34 @@
+[
+  {
+    "ticker": "KAYA",
+    "recipient": {
+      "name": "COVID-19 Response in Asia Pacific",
+      "address": "Singapore Red Cross Society",
+      "tel": "+6566640500",
+      "contact": "fundraising@redcross.sg"
+    },
+    "ada": 34,
+    "usd": 74.5,
+    "timestamp": 1631422620,
+    "files": [
+      "KAYA/2021-09-13_Donation2.jpg"
+    ],
+    "announcement_url": "https://kayapool.com/second-blocked-minted-donated-to-singapore-red-cross-society/"
+  },
+  {
+    "ticker": "KAYA",
+    "recipient": {
+      "name": "COVID-19 Response in Asia Pacific",
+      "address": "Singapore Red Cross Society",
+      "contact": "fundraising@redcross.sg",
+      "tel": "+6566640500"
+    },
+    "ada": 34,
+    "usd": 74.5,
+    "timestamp": 1627217100,
+    "files": [
+      "KAYA/KayaPool-Donation01.png"
+    ],
+    "announcement_url": "https://kayapool.com/kaya-pool-donated-to-singapore-red-cross-society/"
+  }
+]

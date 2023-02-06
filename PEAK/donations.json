@@ -1,0 +1,38 @@
+[
+  {
+    "ticker": "PEAK",
+    "recipient": {
+      "name": "Compassion UK Christian Child Development",
+      "address": "Compassion House, Barley Way, Fleet, Hampshire, GU512UT",
+      "tel": "+44 1932 836490",
+      "contact": "info@compassionuk.org"
+    },
+    "ada": 104.17,
+    "usd": 140,
+    "timestamp": 1619599461,
+    "files": [
+      "PEAK/2021-04-28-Compassion.pdf",
+      "PEAK/2021-04-28-Compassion-payment.png"
+    ],
+    "announcement_url": "https://peakstaking.com/donations/",
+    "charity_tx_id": "NA"
+  },
+  {
+    "ticker": "PEAK",
+    "recipient": {
+      "name": "Compassion UK Christian Child Development",
+      "address": "Compassion House, Barley Way, Fleet, Hampshire, GU512UT",
+      "tel": "+44 1932 836490",
+      "contact": "info@compassionuk.org"
+    },
+    "ada": 71.29,
+    "usd": 99.36,
+    "timestamp": 1625215461,
+    "files": [
+      "PEAK/2021-07-02-Compassion.pdf",
+      "PEAK/2021-07-02-Compassion-payment.png"
+    ],
+    "announcement_url": "https://peakstaking.com/donations/",
+    "charity_tx_id": "NA"
+  }
+]

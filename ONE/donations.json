@@ -1,0 +1,53 @@
+[
+  {
+    "ticker": "ONE",
+    "recipient": {
+      "name": "Sunnybrook Health Sciences Centre Foundation",
+      "address": "2075 Bayview Avenue, KGW-01 | Toronto, Ontario M4N 3M5",
+      "tel": "+1 416-480-4483",
+      "contact": "foundation@sunnybrook.ca"
+    },
+    "ada": 111.11,
+    "usd": 10,
+    "timestamp": 1606231680,
+    "files": [
+      "ONE/1_Sunnybrook_receipt_11_24_2020.pdf"
+    ]
+  },
+  {
+    "ticker": "ONE",
+    "recipient": {
+      "name": "Sunnybrook Health Sciences Centre Foundation",
+      "address": "2075 Bayview Avenue, KGW-01 | Toronto, Ontario M4N 3M5",
+      "tel": "+1 416-480-4483",
+      "contact": "foundation@sunnybrook.ca"
+    },
+    "ada": 433.33,
+    "usd": 65,
+    "timestamp": 1581540300,
+    "files": [
+      "ONE/2_Sunnybrook_receipt_12_02_2020.png"
+    ]
+  },
+  {
+    "ticker": "ONE",
+    "recipient": {
+      "name": "Sunnybrook Health Sciences Centre Foundation",
+      "address": "2075 Bayview Avenue, KGW-01 | Toronto, Ontario M4N 3M5",
+      "tel": "+1 416-480-4483",
+      "contact": "foundation@sunnybrook.ca"
+    },
+    "ada": 269.02,
+    "usd": 495,
+    "timestamp": 1623769860,
+    "files": [
+      "ONE/3_Sunnybrook_receipt_6_15_2021.png"
+    ],
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "693db2444bc392f0501ffa8d7ed45c554329231f95bb37ed6262a7ce04186a19"
+      }
+    ]
+  }
+]

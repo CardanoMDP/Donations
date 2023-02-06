@@ -1,0 +1,396 @@
+[
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "MAPS, Multidisciplinary Association for Psychedelic Studies",
+      "address": "3141 Stevens Creek Blvd 40563, San Jose, CA 95117",
+      "tel": "+1 831-429-MDMA (6362)",
+      "contact": "giving@maps.org"
+    },
+    "ada": 137,
+    "usd": 192,
+    "timestamp": 1625569261,
+    "files": [
+      "PSYA/first.jpg",
+      "PSYA/first_LTC.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1412525129087737863",
+    "intermediate_txs": [
+      {
+        "provider": "FixedFloat",
+        "tx_id": "NQRMQM"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "3013c245ce60e815ab7fdbbea94bcaea0ea505bf94cd264a2b8335fc8b505768"
+      },
+      {
+        "provider": "LTC",
+        "tx_id": "e777c4627043d175d7bc65c566f732af15f6b30d53a0159d9f344471e701d0ec"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Chacruna Institute",
+      "address": "San Francisco, CA 94109, US",
+      "tel": "",
+      "contact": "info@chacruna.net"
+    },
+    "ada": 70,
+    "usd": 94,
+    "timestamp": 1627997520,
+    "files": [
+      "PSYA/july_chacruna.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1422597360094416905",
+    "intermediate_txs": [
+      {
+        "provider": "FixedFloat",
+        "tx_id": "K5NAV1"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "fd02a84a56a67151dcd37c3ff12f2ad15889c7d33d09e39232dfcdf2e461ad87"
+      },
+      {
+        "provider": "BTC",
+        "tx_id": "97d9c5933b2591dc58483d5797eb5980e66c09795b43a9182b14fb961107c26a"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Rd 1000D Shelburne, Vermont, 05482, US",
+      "tel": "1-800-408-7850",
+      "contact": "https://onetreeplanted.org/pages/contact-us"
+    },
+    "ada": 17.3,
+    "usd": 23,
+    "timestamp": 1627997520,
+    "files": [
+      "PSYA/julyOneTreePlanted.jpg",
+      "PSYA/Certificate.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1422597360094416905",
+    "intermediate_txs": [
+      {
+        "provider": "PayPal",
+        "tx_id": "30T15131D29431845"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "TheraPsil",
+      "address": "Victoria, British Columbia",
+      "tel": "",
+      "contact": "info@therapsil.ca"
+    },
+    "ada": 281.2,
+    "usd": 674.51,
+    "timestamp": 1631745180,
+    "files": [
+      "PSYA/TherapsilDonate.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1438551692119887876",
+    "charity_tx_proof_url": "https://therapsil.ca/donate/",
+    "intermediate_txs": [
+      {
+        "provider": "ChangeNow",
+        "tx_id": "4e90a7e95ee20e"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "3e86bda50d493c2104e57a2e8a1f963dc3ebcfd0b50668ed00a0cefbea8cbbc2"
+      },
+      {
+        "provider": "BTC",
+        "tx_id": "e142ac5a336cd04864ec8afb677734a9dbe60b3f3256d336a83064277c14beb8"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Rd 1000D Shelburne, Vermont, 05482, US",
+      "tel": "1-800-408-7850",
+      "contact": "https://onetreeplanted.org/pages/contact-us"
+    },
+    "ada": 70.3,
+    "usd": 200,
+    "timestamp": 1630960620,
+    "files": [
+      "PSYA/OneTreePlantedAugust.jpg",
+      "PSYA/OneTreePlantedAugustConversion.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1434988194685140995",
+    "intermediate_txs": [
+      {
+        "provider": "PayPal",
+        "tx_id": "5LE851170A893102E"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Veritree - Verified Global Restoration Projects",
+      "address": "",
+      "tel": "",
+      "contact": "https://ito.veritree.com/"
+    },
+    "ada": 55,
+    "usd": 124,
+    "timestamp": 1632738450,
+    "files": [
+      "PSYA/veritreeSep.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1446206675493523457",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "d6861f9140280bba04a99f1c30b6ffa3b0e70bb5dcdab27dbb7d534d64b906a6"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Beckley Foundation",
+      "address": "Beckley Park, Oxford, OX3 9SY, United Kingdom",
+      "tel": "+44 (0)1865 351019",
+      "contact": "office@beckleyfoundation.org"
+    },
+    "ada": 209,
+    "usd": 474.49,
+    "timestamp": 1633625760,
+    "files": [
+      "PSYA/BeckleyFound.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1446206675493523457",
+    "charity_tx_proof_url": "https://www.beckleyfoundation.org/support-psychedelic-research/",
+    "intermediate_txs": [
+      {
+        "provider": "FixedFloat",
+        "tx_id": "U1YCH9"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "c83deaad11c9cfcc1b96217c3517b741013fbb9a29c8d3d03cb61514867edc4d"
+      },
+      {
+        "provider": "LTC",
+        "tx_id": "010fe485f6ad261d1406eb643f57fcea6eeac474260a2920ef45a804117087a0"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Veritree - Verified Global Restoration Projects",
+      "address": "",
+      "tel": "",
+      "contact": "https://ito.veritree.com/"
+    },
+    "ada": 106,
+    "usd": 221.5,
+    "timestamp": 1635972180,
+    "files": [
+      "PSYA/Veritree_October.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1456386377558503428",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "b7a537453250b61ff6631560cd4f24013df65a4bd5dcc3e7d5a2cf955d94e0f0"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Psychedelic research foundation",
+      "address": "V Honech 687, 250 67 Klecany",
+      "tel": "",
+      "contact": "info@psyres.eu"
+    },
+    "ada": 424.3,
+    "usd": 858.6,
+    "timestamp": 1636057980,
+    "files": [
+      "PSYA/PSYRES_October.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1456386377558503428",
+    "charity_tx_proof_url": "https://psyres.eu/en/i-want-to-support",
+    "intermediate_txs": [
+      {
+        "provider": "FixedFloat",
+        "tx_id": "574HTA"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "2fafc601e4e31805bae7f2ba32b5504e2883e4c9309f479a55e46886c4f2cdc5"
+      },
+      {
+        "provider": "BTC",
+        "tx_id": "8f0a37f72a90bb625c32b42422e10394a2750e47d2da6900a73f3c7c45c0ac3e"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Veritree - Verified Global Restoration Projects",
+      "address": "",
+      "tel": "",
+      "contact": "https://ito.veritree.com/"
+    },
+    "ada": 87,
+    "usd": 123.5,
+    "timestamp": 1638436034,
+    "files": [
+      "PSYA/November_Veritree.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1468675867526193157",
+    "charity_tx_proof_url": "https://ito.veritree.com/",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "c13e683248d21ce3984844fdd6d4fd0a6ed4473be0bf0783eef6d86aef8eeec4"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Chaikuni Institute",
+      "address": "Sargento Lores 841, Iquitos, Loreto-Maynas 16000, Peru",
+      "tel": "",
+      "contact": "info@chaikuni.org"
+    },
+    "ada": 349,
+    "usd": 482.3,
+    "timestamp": 1638987720,
+    "files": [
+      "PSYA/November_Chaikuni.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1468675867526193157",
+    "charity_tx_proof_url": "https://chaikuni.org/support-us",
+    "intermediate_txs": [
+      {
+        "provider": "FixedFloat",
+        "tx_id": "DT7ZWG"
+      },
+      {
+        "provider": "Cardano",
+        "tx_id": "b87b58e4a3254dc1e8ab23f221e1b0951b00b6adbc6b2804a5c38864fc6c1cd8"
+      },
+      {
+        "provider": "LTC",
+        "tx_id": "d5f8816a38a776d761fc1a0310c05fb3c8a7739a704eebdaf529b703a3711c85"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Veritree - Verified Global Restoration Projects",
+      "address": "",
+      "tel": "",
+      "contact": "https://ito.veritree.com/"
+    },
+    "ada": 122,
+    "usd": 150,
+    "timestamp": 1641588540,
+    "files": [
+      "PSYA/December_Veritree.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1479984762345463813",
+    "charity_tx_proof_url": "https://ito.veritree.com/",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "fd484b811727fbcbf885179a08cda50efbf42d8be4fa82c8b7f03641a6def233"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Erowid",
+      "address": "Erowid, PO Box 1116, Grass Valley CA 95945 USA",
+      "tel": "",
+      "contact": "donations@erowid.org"
+    },
+    "ada": 488,
+    "usd": 581,
+    "timestamp": 1641726420,
+    "files": [
+      "PSYA/December_Erowid.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1468675867526193157",
+    "charity_tx_proof_url": "https://erowid.org/donations/donations_cryptocurrency.php",
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "1caa05a5fcea0c1719ef6d0a7eef37ad425d1cfd00f562dd24ac69341b76623d"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Rd 1000D Shelburne, Vermont, 05482, US",
+      "tel": "1-800-408-7850",
+      "contact": "https://onetreeplanted.org/pages/contact-us"
+    },
+    "ada": 105,
+    "usd": 115,
+    "timestamp": 1644089502,
+    "files": [
+      "PSYA/OneTreePlanted01.jpg",
+      "PSYA/OneTreePlanted02.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1490807630570397698",
+    "intermediate_txs": [
+      {
+        "provider": "PayPal",
+        "tx_id": "75704969NA952052G"
+      }
+    ]
+  },
+  {
+    "ticker": "PSYA",
+    "recipient": {
+      "name": "Sage Institute",
+      "address": "444 34th St, Oakland, CA 94609, United States",
+      "tel": "+1 510-929-0222",
+      "contact": "info@sageinst.org"
+    },
+    "ada": 421,
+    "usd": 473,
+    "timestamp": 1644104562,
+    "files": [
+      "PSYA/January_SageInst.jpg"
+    ],
+    "announcement_url": "https://twitter.com/psyadapool/status/1468675867526193157",
+    "charity_tx_proof_url": "https://twitter.com/psyadapool/status/1490807630570397698",
+    "intermediate_txs": [
+      {
+        "provider": "FixedFloat",
+        "tx_id": "TZ9W7B"
+      },
+      {
+        "provider": "LiteCoin",
+        "tx_id": "e1576ed054ddf127d17d86ec734c96bf1624a85030ff4b82ceda6e468cb8d8d8"
+      }
+    ]
+  }
+]

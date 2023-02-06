@@ -1,0 +1,32 @@
+[
+  {
+    "ticker": "UPSTR",
+    "recipient": {
+      "name": "GROW",
+      "address": "Barnet Ln, London N20 8AZ",
+      "tel": "+44 208 492 0406",
+      "contact": "hello@wearegrow.org"
+    },
+    "ada": 94.3,
+    "usd": 132.7,
+    "timestamp": 1638788535,
+    "files": [
+      "UPSTR/2021-12-06-GROW.pdf"
+    ]
+  },
+  {
+    "ticker": "UPSTR",
+    "recipient": {
+      "name": "GROW",
+      "address": "Barnet Ln, London N20 8AZ",
+      "tel": "+44 208 492 0406",
+      "contact": "hello@wearegrow.org"
+    },
+    "ada": 64.5,
+    "usd": 134.15,
+    "timestamp": 1636801335,
+    "files": [
+      "UPSTR/2021-11-13-GROW.pdf"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "ticker": "RADAR",
+    "recipient": {
+      "name": "Coin Center",
+      "address": "700 K Street NW, Suite 300, Washington D.C., 20001 USA",
+      "tel": "202-804-6013",
+      "contact": "info@coincenter.org"
+    },
+    "ada": 50,
+    "usd": 137.5,
+    "timestamp": 1629935090,
+    "files": [
+      "RADAR/RADAR_Coin_Center_Sept_2021.txt"
+    ]
+  },
+  {
+    "ticker": "RADAR",
+    "recipient": {
+      "name": "Coin Center",
+      "address": "700 K Street NW, Suite 300, Washington D.C., 20001 USA",
+      "tel": "202-804-6013",
+      "contact": "info@coincenter.org"
+    },
+    "ada": 151,
+    "usd": 337.13,
+    "timestamp": 1633482114,
+    "files": [
+      "RADAR/RADAR_Coin_Center_Oct_2021.pdf"
+    ]
+  },
+  {
+    "ticker": "RADAR",
+    "recipient": {
+      "name": "Coin Center",
+      "address": "700 K Street NW, Suite 300, Washington D.C., 20001 USA",
+      "tel": "202-804-6013",
+      "contact": "info@coincenter.org"
+    },
+    "ada": 81.5,
+    "usd": 126.14,
+    "timestamp": 1638337241,
+    "files": [
+      "RADAR/RADAR_Coin_Center_Dec_2021.pdf"
+    ]
+  }
+]

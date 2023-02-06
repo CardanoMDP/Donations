@@ -1,0 +1,19 @@
+[
+  {
+    "ticker": "ALTZ",
+    "recipient": {
+      "name": "Rettungsanker Rusetiere",
+      "address": "Bulgarien, Russe Stadt 7000, Solun 26",
+      "tel": "+359 88 293 2534",
+      "contact": "i.nikolov1975@abv.bg"
+    },
+    "ada": 30,
+    "usd": 58.02,
+    "timestamp": 1635853478,
+    "files": [
+      "ALTZ/Rettungsanker_Ruse_donation.jpg",
+      "ALTZ/Statement_Payment_ALTZ.jpg"
+    ],
+    "announcement_url": "https://twitter.com/AltzPool/status/1456876803927289857"
+  }
+]

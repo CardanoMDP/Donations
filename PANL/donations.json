@@ -1,0 +1,48 @@
+[
+  {
+    "ticker": "PANL",
+    "recipient": {
+      "name": "Veritree Cardano Forest ITO",
+      "address": "",
+      "tel": "",
+      "contact": "https://ito.veritree.com/"
+    },
+    "ada": 1200,
+    "usd": 1620,
+    "timestamp": 1640892991,
+    "files": [
+      "PANL/2021/2021-12-30-to-veritree.png",
+      "PANL/2021/2021-12-30-from-veritree.png",
+      "PANL/2021/2021-12-30-transactionLinks.md"
+    ],
+    "announcement_url": "https://twitter.com/PANL_stakepool/status/1476652826847760385",
+    "charity_tx_id": "e1dc6a0bcd61ae7da4c1d52478407f4f31c4b3a2d0e9f0a970ab5ea9bcb41c30",
+    "charity_tx_proof_url": "https://cardanoscan.io/transaction/1eb3eec0e9690e0a27c1e265330525d9f263d57a78d85f136877533e09f34a16",
+    "custom": {
+      "reward_period": "2021-All"
+    }
+  },
+  {
+    "ticker": "PANL",
+    "recipient": {
+      "name": "Save the Children",
+      "address": "30 Orange Street",
+      "tel": "+44 (0)20 3272 0300",
+      "contact": "info@savethechildren.org"
+    },
+    "ada": 750,
+    "usd": 877.5,
+    "timestamp": 1644309868,
+    "files": [
+      "PANL/2022/01-January-txConfirm.png",
+      "PANL/2022/01-January-paymentConfirm.png",
+      "PANL/2022/01-January-Links.md"
+    ],
+    "announcement_url": "https://www.panl.org/donations",
+    "charity_tx_id": "2aae2ddd3d51a7225d3b2b0e38fff5fbaa0fb174e5c7370525cde09753739539",
+    "charity_tx_proof_url": "https://cardanoscan.io/transaction/2aae2ddd3d51a7225d3b2b0e38fff5fbaa0fb174e5c7370525cde09753739539",
+    "custom": {
+      "reward_period": "2022-January"
+    }
+  }
+]

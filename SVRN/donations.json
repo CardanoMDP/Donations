@@ -1,0 +1,173 @@
+[
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 1178.21892,
+    "usd": "1,026.20",
+    "timestamp": 1613564878,
+    "files": [
+      "SVRN/First_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/First_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8471.jpg"
+    ],
+    "charity_tx_id": "05b53ef488881e338c6e10bb4c6c09a304b815ef0312a2953dd8b3829c3d76da"
+  },
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 4000,
+    "usd": "6,983.95",
+    "timestamp": 1621585461,
+    "files": [
+      "SVRN/2nd_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/2nd_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8472.jpg"
+    ],
+    "charity_tx_id": "ee130dbae5b8e30d39967d1cfb487834475a896d9e2f092cc903d2b40758a72e"
+  },
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 2000,
+    "usd": "3,094.65",
+    "timestamp": 1623158097,
+    "files": [
+      "SVRN/3rd_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/3rd_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8473.jpg"
+    ],
+    "charity_tx_id": "6b3dc764534d420b5795505ef6b2b249a315b43cb7285ad3a3f0faf6eeca663a"
+  },
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 5000,
+    "usd": "6,568.96",
+    "timestamp": 1626121830,
+    "files": [
+      "SVRN/4th_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/4th_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8474.jpg"
+    ],
+    "charity_tx_id": "f3fcbb30fc519c3dbd8a03192f161aa4553d2f9b37764ed2375efe6c82be3bb4"
+  },
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 2000,
+    "usd": "2,848.59",
+    "timestamp": 1628443685,
+    "files": [
+      "SVRN/5th_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/5th_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8475.jpg"
+    ],
+    "charity_tx_id": "e189c8d93f0e2826d0a4fbb3354bc766b9fd7495f2bd8963e6da2612a8ff0d92"
+  },
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 3000,
+    "usd": "6,690.00",
+    "timestamp": 1633460234,
+    "files": [
+      "SVRN/6th_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/6th_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8476.jpg"
+    ],
+    "charity_tx_id": "fc27ae6bb5928e35795de07d3ccc53a361f923930526a6c6d79944ddb56438da"
+  },
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 3700,
+    "usd": "4,255.00",
+    "timestamp": 1648129122,
+    "files": [
+      "SVRN/7th_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/7th_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8477.jpg"
+    ],
+    "charity_tx_id": "ff3b250b822dd591f298bff5c93028e90eeb19210d54c44e6b8fb5932a9ac568"
+  },
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 2300,
+    "usd": "1,140.00",
+    "timestamp": 1658506610,
+    "files": [
+      "SVRN/8th_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/8th_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8478.jpg"
+    ],
+    "charity_tx_id": "e74c3a77808a2610f42d77b3be95e9edc27208535ad1a29f2e4a253d157ab986"
+  },
+  {
+    "ticker": "SVRN",
+    "announcement_url": "https://sleepingnatives.org/donations.html",
+    "recipient": {
+      "name": "Sleeping Natives Productions",
+      "address": "1611, Crenshaw Blvd., Suite 165, Torrance, CA, USA",
+      "tel": "+1 310 961 4659",
+      "contact": "philip@sleepingnatives.org"
+    },
+    "ada": 771,
+    "usd": 332.98,
+    "timestamp": 1664545080,
+    "files": [
+      "SVRN/9th_SVRN_Rewards_Funds_Withdrawal.jpg",
+      "SVRN/9th_SVRN_Pledge_Increase.jpg",
+      "SVRN/Donation_Receipt_8479.jpg"
+    ],
+    "charity_tx_id": "7b4f4bdcfa3de2664d3603bcc68f1c8f82bf5eb7e6e3859e8adc321b0cf15d96"
+  }
+]

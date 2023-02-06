@@ -1,0 +1,140 @@
+[
+  {
+    "ticker": "CRPL",
+    "recipient": {
+      "name": "FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'",
+      "contact": "info@fcmilano.org",
+      "tel": 390237902520,
+      "address": "Via D. Manin 23, 20121 Milano"
+    },
+    "ada": 12.76,
+    "usd": 35.37,
+    "timestamp": 1631263379,
+    "files": [
+      "CRPL/Certificazione_Fiscale_20210910_307840.png"
+    ],
+    "announcement_url": "https://twitter.com/Carden_Pool/status/1436307180194574344?s=20",
+    "charity_tx_id": 33820,
+    "custom": {
+      "project": "ForestaMI",
+      "project_link": "https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120",
+      "eur_amount": 30,
+      "epochs_ref": "287-"
+    }
+  },
+  {
+    "ticker": "CRPL",
+    "recipient": {
+      "name": "FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'",
+      "contact": "info@fcmilano.org",
+      "tel": 390237902520,
+      "address": "Via D. Manin 23, 20121 Milano"
+    },
+    "ada": 57.96,
+    "usd": 161.52,
+    "timestamp": 1633865459,
+    "files": [
+      "CRPL/Certificazione_Fiscale_20211010_310088.png"
+    ],
+    "announcement_url": "https://twitter.com/Carden_Pool/status/1447234122506772480?s=20&t=Ac2nADFcUG123ee4DWvJfg",
+    "charity_tx_id": 34157,
+    "custom": {
+      "project": "ForestaMI",
+      "project_link": "https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120",
+      "eur_amount": 137,
+      "epochs_ref": "287-"
+    }
+  },
+  {
+    "ticker": "CRPL",
+    "recipient": {
+      "name": "FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'",
+      "contact": "info@fcmilano.org",
+      "tel": 390237902520,
+      "address": "Via D. Manin 23, 20121 Milano"
+    },
+    "ada": 194.248,
+    "usd": 253.49,
+    "timestamp": 1644516000,
+    "files": [
+      "CRPL/Certificazione_Fiscale_20220210_340022.png"
+    ],
+    "announcement_url": "https://twitter.com/Carden_Pool/status/1495775501864026124",
+    "charity_tx_id": 460526862286120419,
+    "custom": {
+      "project": "ForestaMI",
+      "project_link": "https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120",
+      "eur_amount": 223,
+      "epochs_ref": "299-316-317-318"
+    }
+  },
+  {
+    "ticker": "CRPL",
+    "recipient": {
+      "name": "FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'",
+      "contact": "info@fcmilano.org",
+      "tel": 390237902520,
+      "address": "Via D. Manin 23, 20121 Milano"
+    },
+    "ada": 251.716,
+    "usd": 247.63,
+    "timestamp": 1647203943,
+    "files": [
+      "CRPL/Certificazione_Fiscale_20220313_347880.png"
+    ],
+    "announcement_url": "https://twitter.com/Carden_Pool/status/1503114506523889678",
+    "charity_tx_id": 385978765131220729,
+    "custom": {
+      "project": "ForestaMI",
+      "project_link": "https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120",
+      "eur_amount": 220,
+      "epochs_ref": "319-320-321-322-323-324"
+    }
+  },
+  {
+    "ticker": "CRPL",
+    "recipient": {
+      "name": "FORESTAMI - DONA UN ALBERO ALLA TUA CITTA'",
+      "contact": "info@fcmilano.org",
+      "tel": 390237902520,
+      "address": "Via D. Manin 23, 20121 Milano"
+    },
+    "ada": 242.246,
+    "usd": 230.12,
+    "timestamp": 1652007659,
+    "files": [
+      "CRPL/Certificazione_Fiscale_20220508_367425.png"
+    ],
+    "announcement_url": "https://twitter.com/Carden_Pool/status/1523416600220954626",
+    "charity_tx_id": 165200792979208975,
+    "custom": {
+      "project": "ForestaMI",
+      "project_link": "https://www.forfunding.intesasanpaolo.com/DonationPlatform-ISP/nav/progetto/id/4120",
+      "eur_amount": 210,
+      "epochs_ref": "325-326-327-328-329"
+    }
+  },
+  {
+    "ticker": "CRPL",
+    "recipient": {
+      "name": "TREEDOM - LET'S GREEN THE PLANET",
+      "contact": "info@treedom.net",
+      "tel": 390550503228,
+      "address": "Viale Augusto Righi 66, 50137 Firenze, Italia"
+    },
+    "ada": 331.446,
+    "usd": 290.02,
+    "timestamp": 1659787980,
+    "files": [
+      "CRPL/220806_Transaction_0a1axwa7_Braintree_Gateway.png"
+    ],
+    "announcement_url": "https://twitter.com/Carden_Pool/status/1568957476359340038",
+    "charity_tx_id": "0a1axwa7",
+    "custom": {
+      "project": "Treedom",
+      "project_link": "https://www.treedom.net/en/about-us",
+      "eur_amount": 269.8,
+      "epochs_ref": "330-331-332-333-334-335-339-342"
+    }
+  }
+]

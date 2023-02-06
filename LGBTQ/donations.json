@@ -1,0 +1,46 @@
+[
+  {
+    "ticker": "LGBTQ",
+    "announcement_url": "https://twitter.com/LGBTQstakepool/status/1401596347095175169",
+    "recipient": {
+      "name": "LGBT Voice of Tanzania",
+      "contact": "https://lgbtvoicetz.org/contact/",
+      "tel": "n/a",
+      "address": "n/a"
+    },
+    "ada": 29.5,
+    "usd": 49.553,
+    "timestamp": 1622996896,
+    "files": [
+      "LGBTQ/2021-06-06_v2.PNG"
+    ],
+    "intermediate_txs": [
+      {
+        "provider": "Paypal",
+        "tx_id": "49825038BG617272P"
+      }
+    ]
+  },
+  {
+    "ticker": "LGBTQ",
+    "announcement_url": "https://twitter.com/LGBTQstakepool/status/1401596347095175169",
+    "recipient": {
+      "name": "LGBT Voice of Tanzania",
+      "contact": "https://lgbtvoicetz.org/contact/",
+      "tel": "n/a",
+      "address": "n/a"
+    },
+    "ada": 4.3,
+    "usd": 7.079,
+    "timestamp": 1622992129,
+    "files": [
+      "LGBTQ/2021-06-06_v1.PNG"
+    ],
+    "intermediate_txs": [
+      {
+        "provider": "Paypal",
+        "tx_id": "6AT31601X7070681A"
+      }
+    ]
+  }
+]

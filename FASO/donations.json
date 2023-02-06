@@ -1,0 +1,32 @@
+[
+  {
+    "ticker": "FASO",
+    "recipient": {
+      "name": "The Barka Foundation",
+      "address": "BARKA FOUNDATION INC, P.O. Box 2, Burlington, ME, 04417",
+      "tel": "(833) 287-5462",
+      "contact": "teambarka@barkafoundation.org"
+    },
+    "ada": 107.19,
+    "usd": 130,
+    "timestamp": 1627237810,
+    "files": [
+      "FASO/barka278.jpg"
+    ]
+  },
+  {
+    "ticker": "FASO",
+    "recipient": {
+      "name": "The Barka Foundation",
+      "address": "BARKA FOUNDATION INC, P.O. Box 2, Burlington, ME, 04417",
+      "tel": "(833) 287-5462",
+      "contact": "teambarka@barkafoundation.org"
+    },
+    "ada": 69,
+    "usd": 168,
+    "timestamp": 1631633410,
+    "files": [
+      "FASO/barka288.jpg"
+    ]
+  }
+]

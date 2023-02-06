@@ -1,0 +1,36 @@
+[
+  {
+    "ticker": "SNSKY",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Rd, Shelburne, Vermont, 05482, US",
+      "tel": "+1 800 408 7850",
+      "contact": "hello@onetreeplanted.org"
+    },
+    "ada": 66,
+    "usd": 100,
+    "timestamp": 1621612800,
+    "files": [
+      "SNSKY/2021_05_100_Trees.jpeg"
+    ],
+    "charity_tx_id": "46-4664562",
+    "announcement_url": "https://forest-fundraiser.raisely.com/sam"
+  },
+  {
+    "ticker": "SNSKY",
+    "recipient": {
+      "name": "Veritree",
+      "address": "230-1275 Venables Street Vancouver, BC V6A 2E4",
+      "tel": "1-833-520-1145",
+      "contact": "info@veritree.com"
+    },
+    "ada": 100,
+    "usd": 200,
+    "timestamp": 1636718315,
+    "files": [
+      "SNSKY/2021_11_100_VeriTree.jpg"
+    ],
+    "charity_tx_id": "46-4664562",
+    "announcement_url": "https://cardanoscan.io/transaction/f6225075a9597c3abb0a6cd62e05598ca7c83984389c3b6430ec9c48334a2efa"
+  }
+]

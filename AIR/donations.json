@@ -1,0 +1,100 @@
+[
+  {
+    "ticker": "AIR",
+    "announcement_url": "https://onetreeplanted.org",
+    "recipient": {
+      "name": "Save the Children",
+      "address": "501 Kings Highway East, Suite 400, Fairfield, CT 06825",
+      "tel": "+1 800 728 3843",
+      "contact": "supportercare@savechildren.org"
+    },
+    "ada": 258,
+    "usd": 34.25,
+    "timestamp": 1602460800,
+    "files": [
+      "AIR/12-10-2020-btc.jpg"
+    ],
+    "charity_tx_id": "1Q3Ggknf8DCLmorcJCcKjmpXZrhks1KM8z"
+  },
+  {
+    "ticker": "AIR",
+    "announcement_url": "https://onetreeplanted.org",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Road, Suite 1000-D,  Shelburne, VT 05482 United States",
+      "tel": "+1 800 408 7850",
+      "contact": "matt@onetreeplanted.org"
+    },
+    "ada": 850,
+    "usd": 900,
+    "timestamp": 1614902400,
+    "files": [
+      "AIR/05-03-2021_receipt.jpg",
+      "AIR/05-03-2021_certificate.pdf"
+    ],
+    "charity_tx_id": "Invoice No. 17130",
+    "intermediate_txs": [
+      {
+        "provider": "Paypal",
+        "tx_id": "9GL87000DN227934B"
+      }
+    ]
+  },
+  {
+    "ticker": "AIR",
+    "announcement_url": "https://onetreeplanted.org",
+    "recipient": {
+      "name": "One Tree Planted",
+      "address": "145 Pine Haven Shores Road, Suite 1000-D,  Shelburne, VT 05482 United States",
+      "tel": "+1 800 408 7850",
+      "contact": "matt@onetreeplanted.org"
+    },
+    "usd": 1100,
+    "ada": 830,
+    "timestamp": 1627920000,
+    "files": [
+      "AIR/02-08-2021_OTP_receipt.pdf",
+      "AIR/02-08-2021_OTP_certificate.pdf"
+    ],
+    "charity_tx_id": "Invoice No. 208225"
+  },
+  {
+    "ticker": "AIR",
+    "announcement_url": "https://www.crisisgroup.org/donate",
+    "recipient": {
+      "name": "International Crisis Group",
+      "address": "19-20 Piccadilly 3rd floor London, W1J 0DG United Kingdom",
+      "tel": "+44 (0)2034 090 603",
+      "contact": "london@crisisgroup.org"
+    },
+    "usd": 232,
+    "ada": 177,
+    "timestamp": 1627920000,
+    "files": [
+      "AIR/02-08-2021_ICG_receipt.jpg"
+    ],
+    "charity_tx_id": "Invoice No. 52-5170039"
+  },
+  {
+    "ticker": "AIR",
+    "announcement_url": "https://ito.veritree.com/",
+    "recipient": {
+      "name": "Veritree Cardano Forest",
+      "address": "230-1275 Venables Street Vancouver, BC V6A 2E4",
+      "tel": "1-833-520-1145",
+      "contact": "info@veritree.com"
+    },
+    "usd": 500,
+    "ada": 500,
+    "timestamp": 1628591381,
+    "files": [
+      "AIR/10-08-2021_veritree_pof.pdf"
+    ],
+    "intermediate_txs": [
+      {
+        "provider": "Cardano",
+        "tx_id": "2f3eeb90c2962c6c8bca8368badc98e6528f3b4cb517e331fcd0c450b01af36e"
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "ticker": "FOFA",
+    "recipient": {
+      "name": "Copame",
+      "address": "R. Amazonas, 850 - Bom Jesus, Santa Cruz do Sul - RS, BRAZIL",
+      "tel": "+55 51 9632-5076",
+      "contact": "supervisao@copame.org.br"
+    },
+    "ada": 571,
+    "usd": 946.23,
+    "timestamp": 1622001022,
+    "files": [
+      "FOFA/how_we_donate.txt",
+      "FOFA/emails.png",
+      "FOFA/NOTA_COPAME.png",
+      "FOFA/recepipt1.jpg",
+      "FOFA/receipt2.jpg",
+      "FOFA/DELIVERY.jpg",
+      "FOFA/transferwise.png"
+    ],
+    "announcement_url": "https://old.reddit.com/r/CardanoStakePools/comments/nl8irs/fofa_stake_pool_just_made_its_first_donation_to/"
+  }
+]

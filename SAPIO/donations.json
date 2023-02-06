@@ -1,0 +1,66 @@
+[
+  {
+    "ticker": "SAPIO",
+    "recipient": {
+      "name": "SOCIAL HACKERS ACADEMY - ΣΟΣΙΑΛ ΧΑΚΕΡ ΑΣΤΙΚΗ ΜΗ ΚΕΡΔΟΣΚΟΠΙΚΗ ΕΤΑΙΡΙΑ (A.M.K.E.)",
+      "address": "3-5 Anaxagora Street, 10552 Athens Attica",
+      "tel": "+302103003124",
+      "contact": "damian@socialhackersacademy.org"
+    },
+    "ada": 111,
+    "usd": 117.2,
+    "timestamp": 1626677776,
+    "files": [
+      "SAPIO/Dorea_-_Cardano_Community1.pdf"
+    ],
+    "announcement_url": "https://twitter.com/i/web/status/1417600099077828611"
+  },
+  {
+    "ticker": "SAPIO",
+    "recipient": {
+      "name": "SOCIAL HACKERS ACADEMY - ΣΟΣΙΑΛ ΧΑΚΕΡ ΑΣΤΙΚΗ ΜΗ ΚΕΡΔΟΣΚΟΠΙΚΗ ΕΤΑΙΡΙΑ (A.M.K.E.)",
+      "address": "3-5 Anaxagora Street, 10552 Athens Attica",
+      "tel": "+302103003124",
+      "contact": "damian@socialhackersacademy.org"
+    },
+    "ada": 111,
+    "usd": 117.2,
+    "timestamp": 1626677776,
+    "files": [
+      "SAPIO/Donate_social_Hackers.jpg"
+    ],
+    "announcement_url": "https://twitter.com/sapiopool/status/1477030609969106946?t=OeRPEMVwJ9X2GiO0UtVSYA&s=19"
+  },
+  {
+    "ticker": "SAPIO",
+    "recipient": {
+      "name": "Association of Parents of Children with Neoplastic Disease \"Floga\"",
+      "address": "Aigiou 6-8, 11527 Athens Attica",
+      "tel": "+302107485000",
+      "contact": "floga@floga.org.gr"
+    },
+    "ada": 111,
+    "usd": 117.2,
+    "timestamp": 1639177200,
+    "files": [
+      "SAPIO/FLoga.jpg"
+    ],
+    "announcement_url": "https://twitter.com/sapiopool/status/1470764233667272714?t=euCS_pomkVDPJZmaTQENFw&s=19"
+  },
+  {
+    "ticker": "SAPIO",
+    "recipient": {
+      "name": "Mediterranea Saving Humans",
+      "address": "Italy",
+      "tel": "+302103003124",
+      "contact": "info@mediterranearescue.org"
+    },
+    "ada": 111,
+    "usd": 117.2,
+    "timestamp": 1640934782,
+    "files": [
+      "SAPIO/Mediteranean_Saving_Humans.jpg"
+    ],
+    "announcement_url": "https://twitter.com/sapiopool/status/1477030645394288647?t=y-Jkkb48Es3d4WnO7TbC8A&s=19"
+  }
+]

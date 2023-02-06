@@ -1,0 +1,18 @@
+[
+  {
+    "ticker": "GOLGI",
+    "recipient": {
+      "name": "Centre for Regenerative Medicine “Stefano Ferrari”",
+      "address": "Via Glauco Gottardi 10 41125 Modena (Italy)",
+      "tel": "+39.059.205811",
+      "contact": "centromedicinarigenerativ@unimore.it"
+    },
+    "ada": 180,
+    "usd": 212.5,
+    "timestamp": 1625468400,
+    "files": [
+      "GOLGI/20210705_first-donation-Golgi-Stake-Pool.jpg",
+      "GOLGI/20210624_Golgi-Regeneration-Token-First.png"
+    ]
+  }
+]

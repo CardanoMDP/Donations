@@ -1,0 +1,53 @@
+[
+  {
+    "ticker": "BOSON",
+    "recipient": {
+      "name": "Cybathlon, Reha-Initiative of the ETH Zurich Foundation",
+      "address": "Weinbergstrasse 29, 8006 Zurich, Switzerland",
+      "tel": "+41 44 632 49 08",
+      "contact": "spenden@ethz-foundation.ch"
+    },
+    "ada": 90,
+    "usd": 108.7,
+    "timestamp": 1627333440,
+    "files": [
+      "BOSON/epoch_278_cybathlon_letter_small.jpg",
+      "BOSON/epoch_278_cybathlon.png"
+    ],
+    "announcement_url": "https://twitter.com/Ada4Science/status/1423027246298710033"
+  },
+  {
+    "ticker": "BOSON",
+    "recipient": {
+      "name": "Quantum Center, ETH Zurich Foundation",
+      "address": "Weinbergstrasse 29, 8006 Zurich, Switzerland",
+      "tel": "+41 44 632 49 08",
+      "contact": "spenden@ethz-foundation.ch"
+    },
+    "ada": 87,
+    "usd": 175.7,
+    "timestamp": 1635451455,
+    "files": [
+      "BOSON/epoch_297_quantum_center_letter_small.jpg",
+      "BOSON/epoch_297_quantum_center.png"
+    ],
+    "announcement_url": "https://ada4science.com/#donation"
+  },
+  {
+    "ticker": "BOSON",
+    "recipient": {
+      "name": "AI Center, ETH Zurich Foundation",
+      "address": "Weinbergstrasse 29, 8006 Zurich, Switzerland",
+      "tel": "+41 44 632 49 08",
+      "contact": "spenden@ethz-foundation.ch"
+    },
+    "ada": 72,
+    "usd": 134.4,
+    "timestamp": 1637187675,
+    "files": [
+      "BOSON/epoch_301_ai_center.png",
+      "BOSON/epoch_301_ai_center_letter.png"
+    ],
+    "announcement_url": "https://ada4science.com/#donation"
+  }
+]

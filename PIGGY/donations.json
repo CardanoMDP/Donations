@@ -1,0 +1,34 @@
+[
+  {
+    "ticker": "PIGGY",
+    "recipient": {
+      "name": "Raspberry Pi Foundation",
+      "address": "37 Hills Road, Cambridge, CB2 1NT",
+      "tel": "+44 1223 322633",
+      "contact": "info@raspberrypi.org"
+    },
+    "ada": 40,
+    "usd": 96.82,
+    "timestamp": 1631559404,
+    "files": [
+      "PIGGY/rpi-13-09-2021.jpg"
+    ],
+    "announcement_url": "https://piggy.trendingpools.com/donations"
+  },
+  {
+    "ticker": "PIGGY",
+    "recipient": {
+      "name": "Charities Trust (GAVI)",
+      "address": "Suite 20-22, Century Building, Brunswick Business Park, Tower Street, Liverpool L3 4BJ",
+      "tel": "+44 151 286 5129",
+      "contact": "info@charitiestrust.org"
+    },
+    "ada": 40,
+    "usd": 96.82,
+    "timestamp": 1631559404,
+    "files": [
+      "PIGGY/gavi-13-09-2021.jpg"
+    ],
+    "announcement_url": "https://piggy.trendingpools.com/donations"
+  }
+]

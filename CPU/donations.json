@@ -1,0 +1,521 @@
+[
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Water Wells for Africa",
+      "address": "Manhattan Beach, California, 90267, United States",
+      "tel": "+1 212 777 1337",
+      "contact": "https://waterwellsforafrica.org/contact-us/"
+    },
+    "ada": 100,
+    "usd": 154.2,
+    "timestamp": 1623840720,
+    "files": [
+      "CPU/16-06-2021.png"
+    ],
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1405119595195912193",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "fcbc0a87c1b6168fcbf4011cbaf91c9425440b50452381e66bd51144a3ce30da"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Ocean Defenders Alliance",
+      "address": "19744 Beach Blvd.Box 446 Huntington Beach, CA 92648",
+      "tel": "+1 714 584-8782",
+      "contact": "https://www.oceandefenders.org/contact/contact.html"
+    },
+    "ada": 100,
+    "usd": 136.4,
+    "timestamp": 1625846671,
+    "files": [
+      "CPU/09-07-2021.png"
+    ],
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1413539840319238149",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "4028057deb0e2466b1bdc074459ed52711ac35e27742bb3370305769075fa283"
+      }
+    ],
+    "custom": {
+      "donationType": "nature"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Sea Shepherd UK",
+      "address": "27 Old Gloucester Street, London, WC1N 3AX",
+      "tel": "+44(0)3001110501",
+      "contact": "https://www.seashepherd.org.uk/contact/contact.html"
+    },
+    "ada": 100,
+    "usd": 123.94,
+    "timestamp": 1626396183,
+    "files": [
+      "CPU/16-07-2021.png"
+    ],
+    "charity_tx_id": "ea3eed61f9719e13ef15e07b9f9baadeabac79264d3a04d791f7d6039e4e94ba",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1415842763304734729",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "ea3eed61f9719e13ef15e07b9f9baadeabac79264d3a04d791f7d6039e4e94ba"
+      }
+    ],
+    "custom": {
+      "donationType": "nature"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Forgotten Animals",
+      "address": "17 Cork House 5 Durnsford road, London, SW19 8GR",
+      "tel": "+44(0)7966066814",
+      "contact": "https://forgottenanimals.org/contact/"
+    },
+    "ada": 100,
+    "usd": 121.07,
+    "timestamp": 1627150002,
+    "files": [
+      "CPU/24-07-2021.png"
+    ],
+    "charity_tx_id": "e5ee0742cbc13fe43c247f26b6ba082d748d1d038b70ea05cff67d8eba23d044",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1419006831779799043",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "e5ee0742cbc13fe43c247f26b6ba082d748d1d038b70ea05cff67d8eba23d044"
+      }
+    ],
+    "custom": {
+      "donationType": "animals"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Code to Inspire",
+      "address": "9643+QQM, Herat, Afghanistan",
+      "tel": "079 830 0430",
+      "contact": "info@codetoinspire.org"
+    },
+    "ada": 100,
+    "usd": 130.6,
+    "timestamp": 1627658310,
+    "files": [
+      "CPU/30-07-2021.png"
+    ],
+    "charity_tx_id": "092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1419006831779799043",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "092573b96a8dba1b0816ccc35c0e12ff98d5f3166bd2e207afbc1047d806d856"
+      }
+    ],
+    "custom": {
+      "donationType": "education"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Amref Health Africa, Inc.",
+      "address": "Langata Road, P.O Box 27691 – 00506 Nairobi, Kenya",
+      "tel": "+254 20 6993000",
+      "contact": "https://amrefusa.org/about-us/"
+    },
+    "ada": 100,
+    "usd": 134.7,
+    "timestamp": 1628161551,
+    "files": [
+      "CPU/05-08-2021.png"
+    ],
+    "charity_tx_id": "bcbc53691dc33c24915edbfea2a314a47ea311d7e567b46ce0174a8b31086147",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1423248433440346112",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "bcbc53691dc33c24915edbfea2a314a47ea311d7e567b46ce0174a8b31086147"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "The Hunger Project",
+      "address": "110 W 30th Street, New York, NY 10001, USA",
+      "tel": "+1 212.251.9100",
+      "contact": "https://thp.org/contact/"
+    },
+    "ada": 100,
+    "usd": 158.3,
+    "timestamp": 1628626440,
+    "files": [
+      "CPU/10-08-2021.png"
+    ],
+    "charity_tx_id": "f39e08a3fabf290ba905af4c732cc57121bae1b179e4a142a86e33bd9787bc24",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1425259157683310598",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "f39e08a3fabf290ba905af4c732cc57121bae1b179e4a142a86e33bd9787bc24"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Coral Restoration Foundation",
+      "address": "89111 Overseas Hwy, Tavernier, Florida 33070",
+      "tel": "(305) 453-7030",
+      "contact": "https://www.coralrestoration.org/about"
+    },
+    "ada": 100,
+    "usd": 213.6,
+    "timestamp": 1629140094,
+    "files": [
+      "CPU/16-08-2021.png"
+    ],
+    "charity_tx_id": "eff2480db0ffddc69248518b891b0a52b99198ef9eb613de970e5f6ac561c16c",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1427349270773051394",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "eff2480db0ffddc69248518b891b0a52b99198ef9eb613de970e5f6ac561c16c"
+      }
+    ],
+    "custom": {
+      "donationType": "nature"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "The Adventure Project",
+      "address": "228 Park Ave S, PMB 86132New York, NY, 10003-1502",
+      "tel": "(650) 303 1899",
+      "contact": "hello@theadventureproject.org"
+    },
+    "ada": 100,
+    "usd": 294.2,
+    "timestamp": 1629754014,
+    "files": [
+      "CPU/23-08-2021.png"
+    ],
+    "charity_tx_id": "497df3e9775d91e28d7aee062eb11bec07103c3b900d76583fe7b10bd8a8376d",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1429922584007745540",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "497df3e9775d91e28d7aee062eb11bec07103c3b900d76583fe7b10bd8a8376d"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "American Foundation for Suicide Prevention",
+      "address": "199 Water St. 11th Floor New York, NY 10038",
+      "tel": "(212) 363-3500",
+      "contact": "info@afsp.org"
+    },
+    "ada": 100,
+    "usd": 304.3,
+    "timestamp": 1630686198,
+    "files": [
+      "CPU/03-09-2021.png"
+    ],
+    "charity_tx_id": "7271018f96fdfe20c39bf1d5751fa76c6c9dcd63232151e803fc4b282b353b29",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1433832330305720321",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "7271018f96fdfe20c39bf1d5751fa76c6c9dcd63232151e803fc4b282b353b29"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Trees for the Future",
+      "address": "1400 Spring St. Suite 500, Silver Spring, MD 20910",
+      "tel": "(+1) 301-565-0630",
+      "contact": "info@trees.org"
+    },
+    "ada": 100,
+    "usd": 255.7,
+    "timestamp": 1631210712,
+    "files": [
+      "CPU/09-09-2021.png"
+    ],
+    "charity_tx_id": "fc68d0656944d3b7cfcabc724f7e0b185fc128223fef5d19fd3e1ecd5ca8ebfe",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1436031751260880898",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "fc68d0656944d3b7cfcabc724f7e0b185fc128223fef5d19fd3e1ecd5ca8ebfe"
+      }
+    ],
+    "custom": {
+      "donationType": "nature"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "African Wildlife Foundation",
+      "address": "Ngong Road, Karen P.O. Box 310, 00502 Nairobi, Kenya",
+      "tel": "+254 711 063 000",
+      "contact": "africanwildlife@awf.org"
+    },
+    "ada": 100,
+    "usd": 235.5,
+    "timestamp": 1631654621,
+    "files": [
+      "CPU/14-09-2021.png"
+    ],
+    "charity_tx_id": "b9ed45e4cc7d167ad257453587bca8f2a447f1488e6947da7661c1ec6ed87546",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1437894404916789252",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "b9ed45e4cc7d167ad257453587bca8f2a447f1488e6947da7661c1ec6ed87546"
+      }
+    ],
+    "custom": {
+      "donationType": "animals"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Orangutan Outreach",
+      "address": "P.O. Box 833 Hudson, NY 12534, USA",
+      "tel": "1 (917) 328 7934",
+      "contact": "info@redapes.org"
+    },
+    "ada": 100,
+    "usd": 233.9,
+    "timestamp": 1632565880,
+    "files": [
+      "CPU/25-09-2021.png"
+    ],
+    "charity_tx_id": "65ccea57242e985eeca3f8e52c5aa5cff09183669d7b5e5cc773077ffec01f9f",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1441720343639461889",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "65ccea57242e985eeca3f8e52c5aa5cff09183669d7b5e5cc773077ffec01f9f"
+      }
+    ],
+    "custom": {
+      "donationType": "animals"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Children’s Cancer Association",
+      "address": "Ste 140, Portland, Oregon, 97209 United States",
+      "tel": "(503) 244-3141",
+      "contact": "https://joyrx.org/contact/"
+    },
+    "ada": 100,
+    "usd": 225.4,
+    "timestamp": 1633186039,
+    "files": [
+      "CPU/02-10-2021.png"
+    ],
+    "charity_tx_id": "8a3af7997496bf052301595bdcf865a17aeaa6250186c2366a43410c77158e64",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1444320915148378113",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "8a3af7997496bf052301595bdcf865a17aeaa6250186c2366a43410c77158e64"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "SolarBuddy",
+      "address": "Australia, 36 Wyandra St. Newstead,QLD 4006",
+      "tel": "+61 (0)7 3257 7380",
+      "contact": "https://solarbuddy.org/enquire-now"
+    },
+    "ada": 100,
+    "usd": 213.91,
+    "timestamp": 1633986269,
+    "files": [
+      "CPU/11-10-2021.png"
+    ],
+    "charity_tx_id": "612eed234db2dba05f044844961c3f82370b9cd9dc246b3f34994bf2b7cfa5e2",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1447673575683633154",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "612eed234db2dba05f044844961c3f82370b9cd9dc246b3f34994bf2b7cfa5e2"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Citizens' Climate Education",
+      "address": "1330 Orange Ave 309 Coronado CA 92118",
+      "tel": "619-437-7142",
+      "contact": "https://citizensclimateeducation.org/contact/"
+    },
+    "ada": 100,
+    "usd": 195.32,
+    "timestamp": 1635692566,
+    "files": [
+      "CPU/31-10-2021.png"
+    ],
+    "charity_tx_id": "850f662e2b74a462b2e13fe7f88b8cab632d9341765c97b16e504f743abb2d11",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1454830673529909251",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "850f662e2b74a462b2e13fe7f88b8cab632d9341765c97b16e504f743abb2d11"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Little Pink Houses- Breast Cancer Family Retreats",
+      "address": "2442 Tribek Court Burlington, NC 27215",
+      "tel": "336-213-4733",
+      "contact": "https://www.littlepink.org/contact-us/"
+    },
+    "ada": 100,
+    "usd": 176.26,
+    "timestamp": 1637615289,
+    "files": [
+      "CPU/22-11-2021.png"
+    ],
+    "charity_tx_id": "a3a81835539a91ec4a979934684bdc80b72b2077ee5311e06068340a949141e9",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1462895580758388741",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "a3a81835539a91ec4a979934684bdc80b72b2077ee5311e06068340a949141e9"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Pediatric Brain Tumor Foundation Receipt",
+      "address": "6065 Roswell Road NE, Suite 505 Atlanta, GA 30328",
+      "tel": "800-253-6530",
+      "contact": "http://www.curethekids.org/about-us/contact.html"
+    },
+    "ada": 100,
+    "usd": 159.84,
+    "timestamp": 1640617924,
+    "files": [
+      "CPU/27-12-2021.png"
+    ],
+    "charity_tx_id": "c865d4e5064141f84c165c3258fc2aad42e78dced9c69d8e63f015a81fa15e7a",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1475493329269927936",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "c865d4e5064141f84c165c3258fc2aad42e78dced9c69d8e63f015a81fa15e7a"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Rainforest Rescue",
+      "address": "PO Box 40 Mullumbimby NSW 2482 Australia Bundjalung Nation – Arakwal Country",
+      "tel": "+ 61 2 6684 4360",
+      "contact": "https://www.rainforestrescue.org.au/contact/"
+    },
+    "ada": 100,
+    "usd": 112.17,
+    "timestamp": 1643718282,
+    "files": [
+      "CPU/01-02-2022.png"
+    ],
+    "charity_tx_id": "6e28cffea70c09a97d484a5785581735868259bfe4f74c7274f2b94fdc9e0967",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1488518672733909004",
+    "intermediate_txs": [
+      {
+        "provider": "Litecoin",
+        "tx_id": "6e28cffea70c09a97d484a5785581735868259bfe4f74c7274f2b94fdc9e0967"
+      }
+    ],
+    "custom": {
+      "donationType": "nature"
+    }
+  },
+  {
+    "ticker": "CPU",
+    "recipient": {
+      "name": "Ukranian goverment",
+      "address": "M. Hrushevskoho str., 12/2 Kyiv, Ukraine, 01008",
+      "tel": "(380 44) 200 45 25",
+      "contact": "https://www.me.gov.ua"
+    },
+    "ada": 300,
+    "usd": 222.61,
+    "timestamp": 1647179161,
+    "files": [
+      "CPU/13-03-2022.png",
+      "CPU/13-03-2022_payment.png"
+    ],
+    "charity_tx_id": "23765f5abcc1661f8a8d35151322222dfeffd1b5b3bc3db9201a0e2b7f33c7cd",
+    "announcement_url": "https://twitter.com/C_PoolsUnited/status/1503011996115034114",
+    "intermediate_txs": [
+      {
+        "provider": "Bitcoin",
+        "tx_id": "23765f5abcc1661f8a8d35151322222dfeffd1b5b3bc3db9201a0e2b7f33c7cd"
+      }
+    ],
+    "custom": {
+      "donationType": "community"
+    }
+  }
+]

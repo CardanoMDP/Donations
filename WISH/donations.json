@@ -1,0 +1,184 @@
+[
+  {
+    "ticker": "WISH",
+    "recipient": {
+      "name": "Akaraka Limited",
+      "address": "77 Robinson Road,",
+      "tel": "+65 9640 6890",
+      "contact": "info@akaraka.org.sg"
+    },
+    "ada": 32.26,
+    "usd": 37.75,
+    "timestamp": 1617715560,
+    "files": [
+      "WISH/20210406Akaraka-DBSReceipt.jpg",
+      "WISH/20210406Akaraka-Confirmation.jpg"
+    ],
+    "announcement_url": "https://blockchainlens.wordpress.com/donations/",
+    "intermediate_txs": [
+      {
+        "provider": "DBS",
+        "tx_id": "MBI29176257837L47"
+      }
+    ],
+    "custom": {
+      "gbp": 50
+    }
+  },
+  {
+    "ticker": "WISH",
+    "recipient": {
+      "name": "Caritas Humanitarian Aid & Relief Initiatives, Singapore (CHARIS)",
+      "address": "55 Waterloo Street,",
+      "tel": "+65 6337 4119",
+      "contact": "info@charis-singapore.org"
+    },
+    "ada": 24.81,
+    "usd": 37.75,
+    "timestamp": 1619839740,
+    "files": [
+      "WISH/20210501Charis-DBSReceipt.jpg",
+      "WISH/20210501Charis-Confirmation.jpg"
+    ],
+    "announcement_url": "https://blockchainlens.wordpress.com/2021/05/02/donation-for-india-covid-19-response/",
+    "intermediate_txs": [
+      {
+        "provider": "DBS",
+        "tx_id": "MBI29929594075M93"
+      }
+    ],
+    "custom": {
+      "gbp": 50
+    }
+  },
+  {
+    "ticker": "WISH",
+    "recipient": {
+      "name": "Akaraka Limited",
+      "address": "77 Robinson Road,",
+      "tel": "+65 9640 6890",
+      "contact": "info@akaraka.org.sg"
+    },
+    "ada": 23.14,
+    "usd": 34.01,
+    "timestamp": 1623573120,
+    "files": [
+      "WISH/20210613Akaraka-DBSReceipt.jpg",
+      "WISH/20210613Akaraka-Confirmation.jpg"
+    ],
+    "announcement_url": "https://blockchainlens.wordpress.com/2021/06/13/akaraka-graduation-and-donation/",
+    "intermediate_txs": [
+      {
+        "provider": "DBS",
+        "tx_id": "MBI31326278736N55"
+      }
+    ],
+    "custom": {
+      "gbp": 50
+    }
+  },
+  {
+    "ticker": "WISH",
+    "recipient": {
+      "name": "Akaraka Limited",
+      "address": "77 Robinson Road,",
+      "tel": "+65 9640 6890",
+      "contact": "info@akaraka.org.sg"
+    },
+    "ada": 47.25,
+    "usd": 36.8,
+    "timestamp": 1625871420,
+    "files": [
+      "WISH/20210710Akaraka-DBSReceipt.jpg",
+      "WISH/20210710Akaraka-Confirmation.jpg"
+    ],
+    "announcement_url": "https://blockchainlens.wordpress.com/2021/08/09/charity-donations-and-pool-updates/",
+    "intermediate_txs": [
+      {
+        "provider": "DBS",
+        "tx_id": "MBI32300625927M24"
+      }
+    ],
+    "custom": {
+      "gbp": 50
+    }
+  },
+  {
+    "ticker": "WISH",
+    "recipient": {
+      "name": "Akaraka Limited",
+      "address": "77 Robinson Road,",
+      "tel": "+65 9640 6890",
+      "contact": "info@akaraka.org.sg"
+    },
+    "ada": 47.25,
+    "usd": 36.8,
+    "timestamp": 1628381160,
+    "files": [
+      "WISH/20210808Akaraka-DBSReceipt.jpg",
+      "WISH/20210808Akaraka-Confirmation.jpg"
+    ],
+    "announcement_url": "https://blockchainlens.wordpress.com/2021/08/09/charity-donations-and-pool-updates/",
+    "intermediate_txs": [
+      {
+        "provider": "DBS",
+        "tx_id": "IMBI332928xxxxC667499769166"
+      }
+    ],
+    "custom": {
+      "gbp": 50
+    }
+  },
+  {
+    "ticker": "WISH",
+    "recipient": {
+      "name": "Akaraka Limited",
+      "address": "77 Robinson Road,",
+      "tel": "+65 9640 6890",
+      "contact": "info@akaraka.org.sg"
+    },
+    "ada": 15.7,
+    "usd": 37.2,
+    "timestamp": 1631599320,
+    "files": [
+      "WISH/20210914Akaraka-DBSReceipt.jpg",
+      "WISH/20210914Akaraka-Confirmation.jpg"
+    ],
+    "announcement_url": "https://blockchainlens.wordpress.com/donations/",
+    "intermediate_txs": [
+      {
+        "provider": "DBS",
+        "tx_id": "MBI34557278854M34"
+      }
+    ],
+    "custom": {
+      "comment": "50 SGD donated for Sep 21"
+    }
+  },
+  {
+    "ticker": "WISH",
+    "recipient": {
+      "name": "Akaraka Limited",
+      "address": "77 Robinson Road,",
+      "tel": "+65 9640 6890",
+      "contact": "info@akaraka.org.sg"
+    },
+    "ada": 16.55,
+    "usd": 36.89,
+    "timestamp": 1633824660,
+    "files": [
+      "WISH/20211010Akaraka-DBSReceipt.PNG",
+      "WISH/20211010Akaraka-Confirmation.PNG"
+    ],
+    "announcement_url": "https://blockchainlens.wordpress.com/donations/",
+    "intermediate_txs": [
+      {
+        "provider": "DBS",
+        "tx_id": "MBI35561721664N21"
+      }
+    ],
+    "custom": {
+      "comment": "50 SGD donated for Oct 21"
+    }
+  }
+]

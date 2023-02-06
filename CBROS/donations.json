@@ -1,0 +1,114 @@
+[
+  {
+    "ticker": "CBROS",
+    "recipient": {
+      "name": "Médecins sans frontières",
+      "address": "Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU",
+      "tel": "+420 257 090 151",
+      "contact": "dary@lekari-bez-hranic.cz"
+    },
+    "ada": 27.8,
+    "usd": 41.14,
+    "timestamp": 1623819600,
+    "files": [
+      "CBROS/MSF_2021_Q2.pdf"
+    ],
+    "announcement_url": "https://www.coudrebros.eu/#donations"
+  },
+  {
+    "ticker": "CBROS",
+    "recipient": {
+      "name": "AutoMat, z. s.",
+      "address": "Vodičkova 36, 110 00 Praha 1, Czech Republic, EU",
+      "tel": "+420 212 240 666",
+      "contact": "auto-mat@auto-mat.cz"
+    },
+    "ada": 8.8,
+    "usd": 13.73,
+    "timestamp": 1623733200,
+    "files": [
+      "CBROS/AutoMat_2021_Q2.pdf"
+    ],
+    "announcement_url": "https://www.coudrebros.eu/#donations"
+  },
+  {
+    "ticker": "CBROS",
+    "recipient": {
+      "name": "Médecins sans frontières",
+      "address": "Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU",
+      "tel": "+420 257 090 151",
+      "contact": "dary@lekari-bez-hranic.cz"
+    },
+    "ada": 17,
+    "usd": 41.14,
+    "timestamp": 1631768400,
+    "files": [
+      "CBROS/MSF_2021_Q3.pdf"
+    ],
+    "announcement_url": "https://www.coudrebros.eu/#donations"
+  },
+  {
+    "ticker": "CBROS",
+    "recipient": {
+      "name": "AutoMat, z. s.",
+      "address": "Vodičkova 36, 110 00 Praha 1, Czech Republic, EU",
+      "tel": "+420 212 240 666",
+      "contact": "auto-mat@auto-mat.cz"
+    },
+    "ada": 5.49,
+    "usd": 13.73,
+    "timestamp": 1631682000,
+    "files": [
+      "CBROS/AutoMat_2021_Q3.pdf"
+    ],
+    "announcement_url": "https://www.coudrebros.eu/#donations"
+  },
+  {
+    "ticker": "CBROS",
+    "recipient": {
+      "name": "Médecins sans frontières",
+      "address": "Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU",
+      "tel": "+420 257 090 151",
+      "contact": "dary@lekari-bez-hranic.cz"
+    },
+    "ada": 200.5,
+    "usd": 351.7,
+    "timestamp": 1640948400,
+    "files": [
+      "CBROS/MSF_2021_Q4.pdf"
+    ],
+    "announcement_url": "https://www.coudrebros.eu/#donations"
+  },
+  {
+    "ticker": "CBROS",
+    "recipient": {
+      "name": "AutoMat, z. s.",
+      "address": "Vodičkova 36, 110 00 Praha 1, Czech Republic, EU",
+      "tel": "+420 212 240 666",
+      "contact": "auto-mat@auto-mat.cz"
+    },
+    "ada": 52.67,
+    "usd": 91.3,
+    "timestamp": 1640948400,
+    "files": [
+      "CBROS/AutoMat_2021_Q4.pdf"
+    ],
+    "announcement_url": "https://www.coudrebros.eu/#donations"
+  },
+  {
+    "ticker": "CBROS",
+    "recipient": {
+      "name": "Médecins sans frontières",
+      "address": "Zenklova 2245/29, 180 00 Praha 8, Czech Republic, EU",
+      "tel": "+420 257 090 151",
+      "contact": "dary@lekari-bez-hranic.cz"
+    },
+    "ada": 36.61,
+    "usd": 41,
+    "timestamp": 1648720800,
+    "files": [
+      "CBROS/MSF_2022_Q1.pdf"
+    ],
+    "announcement_url": "https://www.coudrebros.eu/#donations"
+  }
+]

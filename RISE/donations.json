@@ -1,0 +1,84 @@
+[
+  {
+    "ticker": "RISE",
+    "announcement_url": "https://www.risecardano.com/post/rise-supporting-the-mona-foundation-january-2021",
+    "recipient": {
+      "name": "Mona Foundation",
+      "address": "14150 NE 20th St, F1-527, Bellevue, WA 98007, USA",
+      "tel": "+1 425 743 4550",
+      "contact": "info@monafoundation.org"
+    },
+    "ada": 351.648,
+    "usd": 103.99,
+    "timestamp": 1612099380,
+    "files": [
+      "RISE/MonaFoundationDonationJan2021Receipt.PNG"
+    ],
+    "provider": "Bitcoin",
+    "charity_tx_id": "6f466439f84fe63b57ed4f2cb5370960201f15be158a3b91c6a04f449afbdf30"
+  },
+  {
+    "ticker": "RISE",
+    "announcement_url": "https://www.risecardano.com/post/rise-supporting-the-great-ormond-street-charity-february-2021",
+    "recipient": {
+      "name": "GOSH",
+      "address": "40 Bernard Street, London WC1N 1LE",
+      "tel": "+44 20 3841 3841",
+      "contact": "supporter.care@gosh.org"
+    },
+    "ada": 444.054,
+    "usd": 618.27,
+    "timestamp": 1614432780,
+    "files": [
+      "RISE/27022021WFGGOSHReceiptEdited.png"
+    ]
+  },
+  {
+    "ticker": "RISE",
+    "announcement_url": "https://www.risecardano.com/post/rise-supporting-the-velindre-cancer-centre-march-2021",
+    "recipient": {
+      "name": "Velindre Cancer Centre",
+      "address": "Velindre Rd, Cardiff, CF14 2TL",
+      "tel": "+44 29 2031 6211",
+      "contact": "info@velindrefundraising.com"
+    },
+    "ada": 511.446,
+    "usd": 611.37,
+    "timestamp": 1617198720,
+    "files": [
+      "RISE/VelindreCenterMarchDonationReceipt31032021.png"
+    ]
+  },
+  {
+    "ticker": "RISE",
+    "announcement_url": "https://www.risecardano.com/post/rise-supporting-wildlife-sos-april-2021",
+    "recipient": {
+      "name": "Wildlife SOS",
+      "address": "D-210, Defence Colony,New Delhi,110024",
+      "tel": "+91 9871963535",
+      "contact": "info@wildlifesos.org"
+    },
+    "ada": 647.396,
+    "usd": 862.63,
+    "timestamp": 1620137520,
+    "files": [
+      "RISE/WildlifeSOSReceiptApril2021.PNG"
+    ]
+  },
+  {
+    "ticker": "RISE",
+    "announcement_url": "https://www.risecardano.com/post/rise-supporting-sewa-uk-india-covid19-appeal-may-2021",
+    "recipient": {
+      "name": "Seva UK India Covid 19 Appeal",
+      "address": "1100 Stratford Road, Hall Green, Birmingham, B28 8AD, UK",
+      "tel": "+44 121 777 4045",
+      "contact": "info@sewauk.org"
+    },
+    "ada": 566.872,
+    "usd": 915.99,
+    "timestamp": 1622456220,
+    "files": [
+      "RISE/SevaUkMay2021Receipt.PNG"
+    ]
+  }
+]
