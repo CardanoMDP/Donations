@@ -1,0 +1,38 @@
+- ticker: WOOF
+  recipient:
+    name: Best Friends
+    address: 2005 South 1100 East, Salt Lake City, UT 84106
+    tel: 603-777-2365
+    contact: susanschroeter@bestfriends.org
+  ada:
+  usd: 130.15
+  timestamp: 1638820680
+  files:
+    - WOOF/20211206-coinbaseReceipt.png
+    - WOOF/20211206-etherscan-Confirmation.png
+  announcement_url: https://thegivingblock.com/donate/best-friends-animal-society/
+  intermediate_txs:
+    - provider: Coinbase
+      tx_id: MBI29176257837L47
+  custom:
+    comment: "$130 USDC donated for 12-06-21"
+
+- ticker: WOOF
+  recipient:
+    name: Best Friends
+    address: 2005 South 1100 East, Salt Lake City, UT 84106
+    tel: 603-777-2365
+    contact: susanschroeter@bestfriends.org
+  ada: 500
+  usd: 510.95
+  timestamp: 1643319873
+  files:
+    - WOOF/20220127-endaomentReceipt.png
+    - WOOF/20220127-cardanoscan.png
+    - WOOF/20220127-auditOfTransactions.png
+  announcement_url: https://endaoment.org/otc
+  intermediate_txs:
+    - provider: Coinbase
+      tx_id: ffb17c7669821c2a23ff32a65ceaa496d396ce4602f79e181f11c340c3c4f298
+  custom:
+    comment: "500 ADA donated on 01-27-22 via Endaoment to Best Friends"
