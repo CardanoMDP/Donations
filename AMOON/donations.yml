@@ -309,3 +309,31 @@
     - AMOON/Save_The_Children_22nd_Donation_20230121.png
   announcement_url: https://adamoon.net/donations.html
   charity_tx_proof_url: https://donation.adapay.finance/pay/c2bb6f3a-d3c1-437a-8cf2-283aae7cd120
+  
+  - ticker: AMOON
+  recipient:
+    name: Save The Children
+    address: 501 Kings Hwy E - Suite 400, Fairfield, CT 06825,USA
+    tel: 1-800-728-3843
+    contact: supportercare@savechildren.org
+  ada: 311
+  usd: 121
+  timestamp: 1678099080
+  files:
+    - AMOON/Save_The_Children_23rd_Donation_20230306.png
+  announcement_url: https://adamoon.net/donations.html
+  charity_tx_proof_url: https://donation.adapay.finance/pay/b5d9ee56-e9cb-4482-ba7a-cc4560c0ab5a
+  
+  - ticker: AMOON
+  recipient:
+    name: Save The Children
+    address: 501 Kings Hwy E - Suite 400, Fairfield, CT 06825,USA
+    tel: 1-800-728-3843
+    contact: supportercare@savechildren.org
+  ada: 275
+  usd: 97
+  timestamp: 1679114280
+  files:
+    - AMOON/Save_The_Children_24th_Donation_20230317.png
+  announcement_url: https://adamoon.net/donations.html
+  charity_tx_proof_url: https://donation.adapay.finance/pay/8bd71da7-0b55-49d5-9112-61e0844966d3
