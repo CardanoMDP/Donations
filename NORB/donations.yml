@@ -250,3 +250,21 @@
     - NORB/2022_12_05_AWF_Receipt.png
 
   announcement_url: https://norbpool.club/donations/14
+
+- ticker: NORB
+
+  recipient:
+    name: Animal Welfare Institute
+    address: 900 Pennsylvania Avenue SE, Washington, DC 20003
+    tel: +1-202-337-2332
+    contact: donations@awionline.org
+
+  ada: 111
+  usd: 35
+  timestamp: 1673409215
+
+  files:
+    - NORB/AWI_2023_01_10.png
+
+  announcement_url: https://norbpool.club/donations/15
+  charity_tx_id: 149421
