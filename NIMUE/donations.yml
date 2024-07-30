@@ -246,3 +246,91 @@
   files:
     - NIMUE/donation-19.png
   announcement_url: https://twitter.com/nimuepool/status/1607698773957918720
+  
+- ticker: NIMUE
+  recipient: 
+    name: Dierenartsen Zonder Grenzen vzw (Vétérinaires Sans Frontières Belgium)
+    address: Kunstlaan 7-8, 1210 Brussel, Belgium
+    tel: +32 2 539 09 89
+    contact: info@vsf-belgium.org
+  ada: 302.60
+  usd: 107.62
+  timestamp: 1679424421
+  files:
+    - NIMUE/donation-20.png
+  announcement_url: https://twitter.com/nimuepool/status/1638283494659969033
+
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 284.80
+  usd: 100.00
+  timestamp: 1679424523
+  files:
+    - NIMUE/donation-21.png
+  announcement_url: https://twitter.com/nimuepool/status/1638283494659969033
+
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 840.80
+  usd: 500.00
+  timestamp: 1703532789
+  files:
+    - NIMUE/donation-22.png
+  announcement_url: https://twitter.com/nimuepool/status/1739404973857718760
+
+- ticker: NIMUE
+  recipient: 
+    name: Dierenartsen Zonder Grenzen vzw (Vétérinaires Sans Frontières Belgium)
+    address: Kunstlaan 7-8, 1210 Brussel, Belgium
+    tel: +32 2 539 09 89
+    contact: info@vsf-belgium.org
+  ada: 906.60
+  usd: 550.60
+  timestamp: 1703535290
+  files:
+    - NIMUE/donation-23.png
+  announcement_url: https://twitter.com/nimuepool/status/1739404973857718760
+
+- ticker: NIMUE
+  recipient: 
+    name: The Arbor Day Foundation
+    address: 211 N. 12th Street, Lincoln, NE 68508, USA
+    tel: +1 888 448 7337
+    contact: TeamTrees@arborday.org
+  ada: 254.20
+  usd: 100.00
+  timestamp: 1718445548
+  intermediate_txs:
+    - provider: Cardano
+      tx_id: 50ddb87c7ad28a8226fd7a76401679ed6d5f45eb43ab97a5ded03e963b9034bd
+    - provider: Crypto.com VISA
+      tx_id: National Arbvor Day  Don
+  files:
+    - NIMUE/donation-24.png
+  announcement_url: https://x.com/nimuepool/status/1801958895360901257
+
+- ticker: NIMUE
+  recipient: 
+    name: Dierenartsen Zonder Grenzen vzw (Vétérinaires Sans Frontières Belgium)
+    address: Kunstlaan 7-8, 1210 Brussel, Belgium
+    tel: +32 2 539 09 89
+    contact: info@vsf-belgium.org
+  ada: 267.40
+  usd: 107.05
+  timestamp: 1718443910
+  intermediate_txs:
+    - provider: Cardano
+      tx_id: a33917db780346dd4d89ae9674b05357909e62ffa69a0d6aee59015b30f2049c
+    - provider: Crypto.com VISA
+      tx_id: Ko.* Kivu T405383
+  files:
+    - NIMUE/donation-25.png
+  announcement_url: https://x.com/nimuepool/status/1801958895360901257
