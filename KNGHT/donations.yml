@@ -26,7 +26,7 @@
 
 - ticker: KNGHT
   recipient:
-    name: Fondation du Patrimoine
+    name: Châtelet de Jonzac (Fondation du Patrimoine)
     address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
     tel: +33 (0)1 70 48 48 00
     contact: info@fondation-patrimoine.org
@@ -39,7 +39,7 @@
 
 - ticker: KNGHT
   recipient:
-    name: Fondation du Patrimoine
+    name: Château de Lassay (Fondation du Patrimoine)
     address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
     tel: +33 (0)1 70 48 48 00
     contact: info@fondation-patrimoine.org
@@ -48,11 +48,11 @@
   timestamp: 1682957400
   files:
     - KNGHT/2023-05-01-FP.pdf
-  charity_tx_id: 2022007832
+  charity_tx_id: 2023010830
 
 - ticker: KNGHT
   recipient:
-    name: Fondation du Patrimoine
+    name: Chapelle des Templiers de Laon (Fondation du Patrimoine)
     address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
     tel: +33 (0)1 70 48 48 00
     contact: info@fondation-patrimoine.org
@@ -62,3 +62,107 @@
   files:
     - KNGHT/2023-07-01-FP.pdf
   charity_tx_id: 2023018591
+
+- ticker: KNGHT
+  recipient:
+    name: Château de Hautsegur (Fondation VMF)
+    address: 93, rue de l université, 75007 Paris, FRANCE
+    tel: +33 (0)1 40 62 61 77
+    contact: info@fondation-patrimoine.org
+  ada: 376.59
+  usd: 110.09
+  timestamp: 1691353680
+  files:
+    - KNGHT/2023-08-06-VMF.pdf
+  charity_tx_id: 2023022834
+
+- ticker: KNGHT
+  recipient:
+    name: Amphithéâtre de Saintes (Fondation du Patrimoine)
+    address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
+    tel: +33 (0)1 70 48 48 00
+    contact: info@fondation-patrimoine.org
+  ada: 208.69
+  usd: 53.63
+  timestamp: 1694024640
+  files:
+    - KNGHT/2023-09-06-FP.pdf
+  charity_tx_id: 2023025772
+
+- ticker: KNGHT
+  recipient:
+    name: Château de Sillé-le-Guillaume (Fondation du Patrimoine)
+    address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
+    tel: +33 (0)1 70 48 48 00
+    contact: info@fondation-patrimoine.org
+  ada: 415.97
+  usd: 105.94
+  timestamp: 1697883000
+  files:
+    - KNGHT/2023-10-21-FP.pdf
+  charity_tx_id: 2023035677
+
+- ticker: KNGHT
+  recipient:
+    name: Defenders of Ukraine s Endangered Heritage (Europa Nostra)
+    address: Lange Voorhout 35 NL - 2514 EC Den Haag
+    tel: +31 70 302 40 51
+    contact: donation@europanostra.org
+  ada: 277.78
+  usd: 109.41
+  timestamp: 1700937120
+  files:
+    - KNGHT/2023-11-25-EN.pdf
+  charity_tx_id: 140281
+
+- ticker: KNGHT
+  recipient:
+    name: Château de Sedan (Fondation du Patrimoine)
+    address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
+    tel: +33 (0)1 70 48 48 00
+    contact: info@fondation-patrimoine.org
+  ada: 166.29
+  usd: 110.38
+  timestamp: 1704047880
+  files:
+    - KNGHT/2023-12-31-FP.pdf
+  charity_tx_id: 2023061762
+
+- ticker: KNGHT
+  recipient:
+    name: Roman Aqueduct of the Gier (Fondation du Patrimoine)
+    address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
+    tel: +33 (0)1 70 48 48 00
+    contact: info@fondation-patrimoine.org
+  ada: 326.09
+  usd: 162.65
+  timestamp: 1706732640
+  files:
+    - KNGHT/2024-01-31-FP.pdf
+  charity_tx_id: 2024002426
+
+- ticker: KNGHT
+  recipient:
+    name: Château de Rocamandour (Fondation du Patrimoine)
+    address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
+    tel: +33 (0)1 70 48 48 00
+    contact: info@fondation-patrimoine.org
+  ada: 260.52
+  usd: 162.57
+  timestamp: 1709245920
+  files:
+    - KNGHT/2024-02-29-FP.pdf
+  charity_tx_id: 2024-002547
+
+- ticker: KNGHT
+  recipient:
+    name: Fort Boyard (Fondation du Patrimoine)
+    address: 153 bis Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, FRANCE
+    tel: +33 (0)1 70 48 48 00
+    contact: info@fondation-patrimoine.org
+  ada: 121.21
+  usd: 104.07
+  timestamp: 1735601520
+  files:
+    - KNGHT/2024-12-31-FP.pdf
+  charity_tx_id: 2025-000053
