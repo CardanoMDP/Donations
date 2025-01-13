@@ -1,6 +1,24 @@
 ---
 
 - ticker: MYADA
+  recipient:
+    name: Rainforest Foundation US
+    address: Rainforest Foundation US, 50 Court St. Suite 712, Brooklyn, NY 11201, USA
+    tel: +1 (212) 431-9098
+    contact: giving@rffny.org
+  ada: 376
+  usd: 108.53
+  timestamp: 1688325736
+  files:
+    - MYADA/20230702-rainforest/20230702-rainforest-foundation-us-screenshot.png
+    - MYADA/20230702-rainforest/20230705-rainforest-donation-receipt.pdf
+  charity_tx_id: 4d10faf832205438688f9831078a0b59b9b17f79b3d485c2baa967a2e54d39b5
+  custom:
+    donation_date: July 2nd, 2023
+    donation_url: https://rainforestfoundation.org/cryptocurrency/
+    tx_url: https://explorer.cardano.org/en/transaction?id=4d10faf832205438688f9831078a0b59b9b17f79b3d485c2baa967a2e54d39b5
+
+- ticker: MYADA
   recipient: 
     name: Save the Children’s ‘Kumwe Hub’
     address: St Vincent House, 30 Orange Street, London, WC2H 7HH, United Kingdom
