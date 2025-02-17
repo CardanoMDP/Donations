@@ -67,4 +67,108 @@
   timestamp: 1622456220
   files:
     - RISE/SevaUkMay2021Receipt.PNG
+  
+- ticker: RISE
+  announcement_url: &ann https://twitter.com/RiseCardano/status/1410227893947490314
+  recipient: 
+    name: Water Aid UK
+    address: 6th floor, 20 Canada Square, London, E14 5NN, UK
+    tel: +44 20 7793 4594
+  ada: 542.815
+  usd: 721.96
+  timestamp: 1625046780
+  files:
+    - RISE/WaterAidReceiptJune2021.PNG
+
+- ticker: RISE
+  announcement_url: &ann https://twitter.com/RiseCardano/status/1423651080618094592
+  recipient: 
+    name: Save The Children
+    address: 1 St John's Lane, London EC1M 4AR
+    tel: +44 20 7012 6400
+  ada: 716.935
+  usd: 989.44
+  timestamp: 1628257500
+  files:
+    - RISE/SaveTheChildrenJuly2021ReceiptEdited.png
+ 
+- ticker: RISE
+  announcement_url: &ann https://www.risecardano.com/news
+  recipient: 
+    name: One Tree Planted
+    address: 145 Pine Haven Shores Rd, #1000D Shelburne, Vermont, 05482, US
+    tel: +1 800 408 7850 
+  ada: 639.059
+  usd: 1500
+  timestamp: 1631116920
+  files:
+    - RISE/Aug2021OneTreePlantedReceiptEdited.png
+
+- ticker: RISE
+  announcement_url: &ann https://www.risecardano.com/news
+  recipient: 
+    name: MS Society
+    address: Carriage House, 8 City North Place, London N4 3FU
+    tel: +44 20 8438 0700
+  ada: 678.335
+  usd: 1410.85
+  timestamp: 1633010460
+  files:
+    - RISE/Sept2021MSSocietyReceiptEdited.PNG
+
+- ticker: RISE
+  announcement_url: &ann https://www.risecardano.com/news
+  recipient: 
+    name: Dementia UK
+    address: 7th Floor, One Aldgate, London, EC3N 1RE
+    tel: +44 20 8036 5400
+  ada: 606.172
+  usd: 1127.52
+  timestamp: 1637332860
+  files:
+    - RISE/DementiaUKNovember2021ReceiptEdited.PNG
+  
+- ticker: RISE
+  announcement_url: &ann https://www.risecardano.com/news
+  recipient: 
+    name: Giraffe Conservation Foundation 
+  ada: 283.853
+  usd: 448.41
+  timestamp: 1638358380
+  files:
+    - RISE/November2021GiraffeConservationEdited.PNG
+  
+- ticker: RISE
+  announcement_url: &ann https://www.risecardano.com/news
+  recipient: 
+    name: Ocean Generation 
+    address: Riverside Building, County Hall L3, Westminster Bridge Road, London, SE1 7PB
+  ada: 283.853
+  usd: 448.41
+  timestamp: 1638358560
+  
+
+- ticker: RISE
+  announcement_url: &ann https://www.risecardano.com/news
+  recipient: 
+    name: Tonga Volcano Relief Fund
+  ada: 231.008
+  usd: 253.26
+  timestamp: 1644927960
+  files:
+    - RISE/TongaVolcanoDonationJanuary2022.PNG
+    
+- ticker: RISE
+  announcement_url: &ann https://www.risecardano.com/news
+  recipient: 
+    name: Make A Wish Foundation
+    address: Seventh Floor, Thames Tower, Station Road, Reading, RG1 1LX
+    tel: +44 1276 40 50 60
+  ada: 231.008
+  usd: 253.26
+  timestamp: 1644928260
+  files:
+    - RISE/MakeAWishFoundationDonationJanuary2022Edited.PNG
+    
+    
 
